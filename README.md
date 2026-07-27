@@ -1,63 +1,39 @@
-# Excel Trackers & Management Reports
+## Featured Project
 
-A professional portfolio collection of Excel-based trackers, management reports, KPI summaries, and operational reporting tools designed for executive, project, and administrative environments.
+### Executive Project Operations Control Center
 
-## Portfolio Focus
+A premium Excel-based management control workbook designed for executive, project, and operations reporting.
 
-This repository demonstrates practical Excel reporting and tracking solutions used for:
+This project combines multiple operational control functions into one structured management workbook, including:
 
-- Project and operations administration
-- Management reporting
-- Workforce and manpower tracking
-- Overtime monitoring
-- Attendance and timesheet reporting
-- Action and follow-up tracking
-- Comparison and reconciliation reports
-- KPI summaries and management dashboards
-- Procurement and payment tracking
+- Executive dashboard
+- Management action tracker
+- Workforce & attendance monitoring
+- Procurement & payment tracking
+- KPI scorecard
+- Department-level performance summaries
+- Overdue action monitoring
+- Outstanding commitment tracking
+- Conditional formatting and visual alerts
+- Management-level reporting views
 
-## Skills Demonstrated
+### Dashboard Preview
 
-- Advanced Microsoft Excel
-- Pivot Tables and Pivot Charts
-- XLOOKUP / VLOOKUP
-- SUMIFS / COUNTIFS
-- Conditional Formatting
-- Data Validation
-- Excel Tables
-- Dashboard Design
-- KPI Reporting
-- Data Reconciliation
-- Management Reporting
-- Operational Tracking
+![Executive Project Operations Control Center](Executive_Project_Operations_Control_Center_Preview.png)
 
-## Planned Portfolio Projects
+### Download Excel Workbook
 
-### Friday Work Comparison Report
-Comparison of planned and actual workforce attendance with department-level reporting and KPI summaries.
+[Download the Excel file](Executive_Project_Operations_Control_Center.xlsx)
 
-### Overtime Tracker
-Employee and department-level overtime monitoring including approved hours, exceptions, and comparison reporting.
+### Skills Demonstrated
 
-### Manpower & Headcount Tracker
-Workforce tracking by department, site, employment status, and operational category.
-
-### Management Action Tracker
-Structured tracking of management actions, responsible persons, due dates, priorities, and completion status.
-
-### Procurement / Payment Tracker
-Tracking of procurement requests, purchase orders, invoices, payments, and pending actions.
-
-## Data Privacy
-
-All portfolio samples are created using synthetic, anonymized, or fictional data. No confidential employee, company, project, commercial, or client information is included.
-
-## About Me
-
-**Sudheer Ahmed Khattak**  
-Executive & Project Administration | Power BI | Advanced Excel | KPI Reporting
-
-12+ years of experience across executive support, project administration, operations, coordination, and management reporting.
-
-**Portfolio:** https://sites.google.com/view/sudheer-ahmed  
-**LinkedIn:** https://www.linkedin.com/in/sudheer-ahmed-khattak
+- Advanced Excel reporting
+- Executive dashboard design
+- KPI scorecards
+- Conditional formatting
+- Management action tracking
+- Workforce analysis
+- Procurement and payment control
+- Data validation
+- Operational reporting
+- Management decision-support reporting
