@@ -1,34 +1,33 @@
 ---
 
-## Document Control & Correspondence Command Center
+## Executive Management Reporting & Board Support Portfolio
 
-A professional Excel-based document control and correspondence management solution designed to demonstrate structured document tracking, correspondence monitoring, aging analysis, approval visibility, and management reporting.
+A professional PowerPoint-based executive reporting portfolio designed to demonstrate structured management communication, board-level reporting, meeting governance, KPI visibility, and executive decision-support capabilities.
 
 ### Key Features
 
-- Executive Document Control Dashboard
-- Incoming & Outgoing Correspondence Register
-- Document Register with Revision Tracking
-- Correspondence Status Monitoring
-- Aging & Overdue Analysis
-- Priority Classification
-- Department-wise Active Correspondence Tracking
-- Document Approval Status Monitoring
-- Management Attention & Follow-up Indicators
-- Direct Document Hyperlink Capability
-- Dynamic Excel Formulas & KPI Reporting
-- Structured Document Control Workflow
+- Executive Management Dashboard
+- Board & Executive Meeting Agenda
+- Management KPI Scorecard
+- Strategic Action & Decision Tracking
+- Open Action and Priority Monitoring
+- Management Meeting Governance
+- Executive Summary Reporting
+- Decision & Resolution Register
+- Department-Level Performance Visibility
+- Board Secretariat & Executive Support Structure
+- Professional Management Presentation Design
 
-### Dashboard Preview
+### Portfolio Preview
 
-![Document Control Command Center Preview](Document_Control_Command_Center_Preview.png)
+![Executive Management & Board Support Preview](Executive_Management_Board_Support_Preview.png)
 
-### Download Excel Workbook
+### Download PowerPoint Portfolio
 
-[Download Document Control & Correspondence Command Center](Document_Control_Correspondence_Command_Center.xlsx)
+[Download Executive Management Reporting & Board Support Portfolio](Executive_Management_Reporting_Board_Support_Portfolio.pptx)
 
-### Portfolio Use
+### Portfolio Purpose
 
-This project demonstrates practical capabilities relevant to **Document Control, Project Administration, PMO Support, Executive Administration, and Project Coordination** environments.
+This project demonstrates practical capabilities relevant to Executive Assistant, Executive Secretary, Board Secretariat, Project Administration, PMO Support, and senior management support roles.
 
-> **Data Privacy:** All information used in this portfolio project is synthetic, anonymized, or fictional. No confidential company, employee, client, or project information is included.
+The portfolio uses fictional and anonymized information for demonstration purposes and does not contain confidential company, project, employee, commercial, or client information.
