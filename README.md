@@ -46,3 +46,13 @@ All projects are created using synthetic/anonymized sample data for portfolio de
 **Sudheer Ahmed**
 
 Executive Operations | Project Administration | PMO Support | Executive Reporting | Power BI | Advanced Excel
+
+---
+
+## Usage Notice
+
+© 2026 Sudheer Ahmed. This repository is intended for portfolio and demonstration purposes.
+
+You are welcome to view and download the contents of this repository for evaluation and learning purposes.
+
+Please do not modify, redistribute, or present this work as your own without prior permission from the author.
