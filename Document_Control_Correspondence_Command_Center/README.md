@@ -2,9 +2,9 @@
 
 ## Overview
 
-The Document Control and Correspondence Command Center is a professional Microsoft Excel solution designed to manage project documents, incoming and outgoing correspondence, review status, response deadlines, document ownership, and approval progress.
+The Document Control & Correspondence Command Center is a professional Microsoft Excel solution developed to manage project documents, incoming and outgoing correspondence, document status, approval workflow, response deadlines, and executive reporting.
 
-It provides project teams and management with a centralized system for monitoring document workflows, maintaining traceability, and improving timely follow-up across project departments.
+The dashboard enables project teams, document controllers, project administrators, and management to maintain complete visibility of project documentation while improving traceability, accountability, and communication across departments.
 
 > **Note:** All information presented in this project is synthetic/anonymized and created exclusively for portfolio demonstration purposes.
 
@@ -12,22 +12,21 @@ It provides project teams and management with a centralized system for monitorin
 
 ## Dashboard Preview
 
-![Dashboard Preview](Document_Control_Correspondence_Command_Center.png)
+![Dashboard Preview](Document_Control_Correspondence_Command_Center_Preview.png)
 
 ---
 
 ## Features
 
-- Incoming and Outgoing Correspondence Tracking
+- Incoming & Outgoing Correspondence Register
 - Document Status Monitoring
-- Response Due Date Tracking
-- Department and Responsible Person Assignment
+- Approval Workflow Tracking
+- Review & Response Deadline Monitoring
+- Department-wise Document Distribution
 - Priority Classification
-- Approval and Review Status
 - Overdue Document Identification
-- Document Reference Management
-- Executive Summary Reporting
-- Interactive Excel Dashboard
+- Executive Summary Dashboard
+- Interactive Excel Reporting
 
 ---
 
@@ -35,7 +34,7 @@ It provides project teams and management with a centralized system for monitorin
 
 - Document_Control_Correspondence_Command_Center.xlsx
 - Document_Control_Correspondence_Command_Center.pdf
-- Document_Control_Correspondence_Command_Center.png
+- Document_Control_Correspondence_Command_Center_Preview.png
 
 ---
 
@@ -45,20 +44,18 @@ It provides project teams and management with a centralized system for monitorin
 - Document Control
 - Correspondence Management
 - Project Administration
-- Aconex Workflow Understanding
 - Executive Reporting
-- Deadline Monitoring
 - Dashboard Design
 - Data Analysis
+- KPI Reporting
+- Workflow Tracking
 - Management Reporting
 
 ---
 
 ## Purpose
 
-This project demonstrates my ability to develop structured document control and correspondence tracking systems for complex project environments.
-
-The solution supports effective document traceability, responsibility assignment, approval monitoring, and timely follow-up while providing management with a clear overview of document workflow performance.
+This project demonstrates my ability to design structured document control systems that improve document traceability, correspondence management, approval monitoring, and executive reporting. The dashboard provides project leadership with a centralized view of documentation activities and supports efficient project communication.
 
 ---
 
@@ -66,7 +63,7 @@ The solution supports effective document traceability, responsibility assignment
 
 **Sudheer Ahmed**
 
-Executive Operations | Project Administration | PMO Support | Document Control | Power BI | Advanced Excel
+Executive Operations | Project Administration | PMO Support | Power BI | Advanced Excel
 
 - LinkedIn: https://www.linkedin.com/in/sudheer-ahmed-khattak
 - Portfolio: https://sites.google.com/view/sudheer-ahmed
