@@ -146,7 +146,7 @@ This portfolio demonstrates my ability to:
 
 ## 🎓 Education & Professional Development
 
-- Bachelor’s Degree in Commerce
+- Bachelor’s Degree
 - Fire Warden Training – Level 2
 - Basics of International Human Resource Management
 - Basics of International HR Operations
