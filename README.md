@@ -1,99 +1,87 @@
 # Executive Reporting, Power BI & Management Reporting Portfolio
 
-Welcome to my professional portfolio showcasing executive reporting, Power BI dashboards, Excel management trackers, operational analytics, and business reporting solutions developed for project operations, executive management, and administrative support.
+Welcome to my professional portfolio showcasing Power BI dashboards, executive reporting solutions, management reporting, and Excel-based operational trackers developed using real-world business scenarios.
 
-This repository demonstrates practical reporting solutions using Microsoft Excel and Microsoft Power BI, focusing on executive decision support, KPI reporting, project administration, operations coordination, document control, procurement reporting, and management dashboards.
+This repository demonstrates reporting, analytics, and dashboard development skills relevant to Executive Support, Project Administration, PMO Support, Operations Coordination, and Management Reporting roles.
 
 ---
 
-# About Me
+# 👨‍💼 About Me
 
 **Sudheer Ahmed**
 
-Senior Administrative & Project Operations Professional with 12+ years of experience supporting executive management, project leadership, and business operations.
+Senior Administrative & Project Operations Professional with 12+ years of experience in Executive Support, Project Administration, Operations Reporting, KPI Reporting, and Business Analytics.
 
-### Core Expertise
+### Core Skills
 
-- Executive Administration
+- Power BI Reporting
+- Executive Dashboards
+- KPI Reporting
+- Management Reporting
 - Project Administration
 - PMO Support
-- Power BI Reporting
-- KPI Reporting
-- Executive Dashboards
-- Management Reporting
-- Advanced Microsoft Excel
+- Microsoft Excel
 - Power Query
+- Data Analysis
 - Operational Reporting
-- Procurement Reporting
-- Workforce Reporting
-- Document Control
 - Executive Decision Support
 
 ---
 
-# Portfolio Projects
+# 📂 Portfolio Projects
 
 ---
 
 # 1. Executive Operations & Workforce KPI Dashboard (Power BI)
 
-![Preview](Executive_Operations_Workforce_KPI_Dashboard/Executive_Operations_Workforce_KPI_Dashboard_Preview.png)
+![Dashboard Preview](Executive_Operations_Workforce_KPI_Dashboard_Preview.png)
 
-### Overview
+Interactive executive dashboard for workforce performance, attendance, overtime, and operational KPI reporting.
 
-Interactive executive dashboard designed to monitor workforce performance, attendance, overtime, and operational KPIs.
-
-### Highlights
+### Key Features
 
 - Executive KPI Cards
-- Attendance Dashboard
+- Attendance Monitoring
 - Workforce Analytics
-- Department Performance
 - Overtime Analysis
-- Executive Reporting
+- Department Performance
+- Interactive Power BI Dashboard
 
-**Tools**
+### Project Files
 
-- Microsoft Power BI
-- Power Query
-- DAX
+- 📊 [Power BI Dashboard](Executive_Operations_Workforce_KPI_Dashboard.pbix)
+- 📄 [PDF Version](Executive_Operations_Workforce_KPI_Dashboard.pdf)
 
 ---
 
 # 2. Executive Project Operations Control Center
 
-![Preview](Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png)
+![Dashboard Preview](Executive_Project_Operations_Control_Center_Preview.png)
 
-### Overview
+Excel-based operational control center supporting executive project monitoring and reporting.
 
-Comprehensive Excel-based operational control center supporting executive project monitoring.
+### Key Features
 
-### Highlights
-
-- Project KPIs
-- Operational Summary
-- Department Tracking
-- Executive Dashboard
+- Executive KPIs
+- Operational Dashboard
+- Department Summary
+- Project Monitoring
 - Management Reporting
 
-**Tools**
+### Project Files
 
-- Microsoft Excel
-- Pivot Tables
-- Power Query
-- Advanced Formulas
+- 📄 Excel Dashboard
+- 🖼 Preview Included
 
 ---
 
 # 3. Management Action Tracker
 
-![Preview](Management_Action_Tracker/Management_Action_Tracker_Preview.png)
+![Dashboard Preview](Management_Action_Tracker_Preview.png)
 
-### Overview
+Professional action tracking solution for monitoring assignments, priorities, ownership, and completion status.
 
-Management action tracking system for monitoring assignments, ownership, priorities, and completion status.
-
-### Highlights
+### Key Features
 
 - Action Register
 - Priority Tracking
@@ -101,35 +89,41 @@ Management action tracking system for monitoring assignments, ownership, priorit
 - Executive Dashboard
 - Performance Reporting
 
+### Project Files
+
+- 📄 Excel Dashboard
+- 🖼 Preview Included
+
 ---
 
 # 4. Document Control & Correspondence Command Center
 
-![Preview](Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png)
+![Dashboard Preview](Document_Control_Command_Center_Preview.png)
 
-### Overview
+Document control reporting solution for correspondence tracking and management reporting.
 
-Professional document control system supporting correspondence management and reporting.
-
-### Highlights
+### Key Features
 
 - Correspondence Register
 - Revision Tracking
-- Document Status
 - Aging Analysis
+- Status Monitoring
 - Executive Reporting
+
+### Project Files
+
+- 📄 Excel Dashboard
+- 🖼 Preview Included
 
 ---
 
 # 5. Executive Management Reporting & Board Support Portfolio
 
-![Preview](Executive_Management_Reporting_Board_Support_Portfolio/Executive_Management_Board_Support_Preview.png)
+![Dashboard Preview](Executive_Management_Board_Support_Preview.png)
 
-### Overview
+Professional executive reporting presentation demonstrating board support and management reporting capabilities.
 
-Executive reporting presentation showcasing board reporting, KPI reporting, executive support, and management communication.
-
-### Highlights
+### Key Features
 
 - Executive Reporting
 - Board Support
@@ -137,87 +131,91 @@ Executive reporting presentation showcasing board reporting, KPI reporting, exec
 - Management Dashboards
 - Business Reporting
 
+### Project Files
+
+- 📄 PowerPoint Portfolio
+- 🖼 Preview Included
+
 ---
 
 # 6. Procurement & Payment Control Center
 
-![Preview](Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Preview.png)
+![Dashboard Preview](Procurement_Payment_Control_Center_Preview.png)
 
-### Overview
+Procurement reporting dashboard for purchase orders, invoices, payment tracking, and executive reporting.
 
-Procurement monitoring dashboard for payment tracking, purchase orders, invoice monitoring, and executive reporting.
-
-### Highlights
+### Key Features
 
 - Procurement KPIs
-- Payment Tracking
+- Payment Monitoring
 - Purchase Orders
-- Invoice Monitoring
+- Invoice Tracking
 - Executive Dashboard
+
+### Project Files
+
+- 📄 Excel Dashboard
+- 🖼 Preview Included
 
 ---
 
 # 7. Catering Operations Analytics Dashboard (Power BI)
 
-![Preview](Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard_Preview.png)
+![Dashboard Preview](Catering_Operations_Analytics_Dashboard_Preview.png)
 
-### Overview
+Power BI dashboard developed for catering operations reporting, monthly catering cost analysis, and operational performance monitoring.
 
-Power BI dashboard developed to analyze catering operations, monthly catering costs, meal distribution, and operational trends.
-
-### Highlights
+### Key Features
 
 - Catering Cost Analysis
 - Monthly Trend Analysis
-- Operational KPIs
 - Camp Comparison
-- Interactive Power BI Dashboard
+- Interactive Dashboard
+- Executive Reporting
 
-**Tools**
+### Project Files
 
-- Microsoft Power BI
-- Power Query
-- DAX
+- 📊 [Power BI Dashboard](Catering_Operations_Analytics_Dashboard.pbix)
+- 📄 [PDF Version](Catering_Operations_Analytics_Dashboard.pdf)
 
 ---
 
-# Technical Skills Demonstrated
+# 💻 Technical Skills Demonstrated
 
 ## Microsoft Power BI
 
 - Dashboard Development
+- Power Query
 - Data Modeling
 - DAX
-- Power Query
 - KPI Reporting
-- Interactive Reporting
+- Interactive Visualizations
 - Executive Dashboards
 
 ## Microsoft Excel
 
+- Dashboard Development
 - Advanced Formulas
 - Pivot Tables
-- Pivot Charts
-- Power Query
 - Conditional Formatting
-- Dashboard Development
+- Power Query
 - Data Analysis
 - Reporting Automation
 
-## Reporting
+## Reporting & Analytics
 
 - Executive Reporting
 - Management Reporting
-- Operational Reporting
 - KPI Reporting
+- Operational Reporting
 - Workforce Reporting
 - Procurement Reporting
 - Project Reporting
-- Performance Analytics
+- Business Analytics
 
 ---
 
-# Software & Tools
+# 🛠 Software & Tools
 
 - Microsoft Power BI
 - Microsoft Excel
@@ -226,13 +224,13 @@ Power BI dashboard developed to analyze catering operations, monthly catering co
 - Oracle Fusion
 - Oracle Cloud
 - Aconex
-- PowerPoint
+- Microsoft PowerPoint
 
 ---
 
-# Target Roles
+# 🎯 Target Roles
 
-This portfolio is relevant for opportunities including:
+This portfolio supports applications for:
 
 - Executive Assistant
 - Senior Administrative Assistant
@@ -243,28 +241,28 @@ This portfolio is relevant for opportunities including:
 - Business Support Specialist
 - Operations Coordinator
 - Reporting Analyst
-- Power BI Analyst
+- Power BI Reporting Analyst
 - Management Reporting Specialist
 - Executive Reporting Analyst
 
 ---
 
-# Repository Purpose
+# ⚠️ Disclaimer
 
-The purpose of this repository is to demonstrate practical reporting solutions developed using real-world business scenarios while protecting confidential organizational information.
+All dashboards and reports are presented for portfolio purposes only.
 
-All dashboards are prepared for portfolio demonstration purposes. Sensitive information has been anonymized or modified where necessary.
+Business data has been anonymized or modified to protect confidentiality while demonstrating reporting, dashboard development, and analytical capabilities.
 
 ---
 
-# Contact
+# 📧 Contact
 
 **Sudheer Ahmed**
 
 📧 Email: khattaksudheer@gmail.com
 
-🔗 LinkedIn:
+🔗 LinkedIn
 https://www.linkedin.com/in/sudheer-ahmed-khattak
 
-🌐 Portfolio:
+🌐 Portfolio
 https://sites.google.com/view/sudheer-ahmed
