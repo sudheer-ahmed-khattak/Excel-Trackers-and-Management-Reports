@@ -1,253 +1,270 @@
-# Sudheer Ahmed | Reporting, Project Operations & Executive Support Portfolio
+# Executive Reporting, Power BI & Management Reporting Portfolio
 
-A professional portfolio showcasing practical solutions in **Power BI, Advanced Excel, Executive Reporting, Project Administration, Management Coordination, Document Control, Procurement & Payment Monitoring, KPI Reporting, and Executive Presentation Design**.
+Welcome to my professional portfolio showcasing executive reporting, Power BI dashboards, Excel management trackers, operational analytics, and business reporting solutions developed for project operations, executive management, and administrative support.
 
-These projects demonstrate structured reporting and management-support solutions relevant to executive offices, project environments, PMO functions, administration, operations, document control, procurement coordination, and management reporting.
+This repository demonstrates practical reporting solutions using Microsoft Excel and Microsoft Power BI, focusing on executive decision support, KPI reporting, project administration, operations coordination, document control, procurement reporting, and management dashboards.
 
 ---
 
-# 1. Executive Operations & Workforce KPI Dashboard | Power BI
+# About Me
 
-An interactive Power BI management dashboard designed to provide executive-level visibility into workforce performance, attendance, overtime, departmental trends, and operational KPIs.
+**Sudheer Ahmed**
 
-### Key Features
+Senior Administrative & Project Operations Professional with 12+ years of experience supporting executive management, project leadership, and business operations.
 
-- Executive KPI Dashboard
+### Core Expertise
+
+- Executive Administration
+- Project Administration
+- PMO Support
+- Power BI Reporting
+- KPI Reporting
+- Executive Dashboards
+- Management Reporting
+- Advanced Microsoft Excel
+- Power Query
+- Operational Reporting
+- Procurement Reporting
+- Workforce Reporting
+- Document Control
+- Executive Decision Support
+
+---
+
+# Portfolio Projects
+
+---
+
+# 1. Executive Operations & Workforce KPI Dashboard (Power BI)
+
+![Preview](Executive_Operations_Workforce_KPI_Dashboard/Executive_Operations_Workforce_KPI_Dashboard_Preview.png)
+
+### Overview
+
+Interactive executive dashboard designed to monitor workforce performance, attendance, overtime, and operational KPIs.
+
+### Highlights
+
+- Executive KPI Cards
+- Attendance Dashboard
 - Workforce Analytics
-- Active Workforce Monitoring
-- Attendance Performance Analysis
-- Overtime Monitoring
-- Department-Level Performance
-- KPI Scorecards
-- Management Performance Indicators
-- Trend & Comparative Analysis
-- Interactive Data Visualizations
-- Executive-Level Reporting
-- Management Decision-Support Views
+- Department Performance
+- Overtime Analysis
+- Executive Reporting
 
-### Dashboard Preview
+**Tools**
 
-![Executive Operations & Workforce KPI Dashboard](Executive_Operations_Workforce_KPI_Dashboard_Preview.png)
-
-### Power BI Project
-
-The Power BI project demonstrates practical dashboard development, data visualization, KPI reporting, workforce analytics, and management reporting capabilities.
-
-### Portfolio Purpose
-
-This project demonstrates practical capabilities relevant to **Power BI Reporting, KPI Reporting, Management Reporting, Project Administration, Operations Support, PMO Support, and Executive Decision Support** roles.
+- Microsoft Power BI
+- Power Query
+- DAX
 
 ---
 
 # 2. Executive Project Operations Control Center
 
-A comprehensive Excel-based management control workbook designed to provide executive-level visibility across project operations, workforce, procurement, payments, management actions, and KPI performance.
+![Preview](Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png)
 
-### Key Features
+### Overview
 
-- Executive Operations Dashboard
-- Management Action Tracking
-- Workforce & Attendance Monitoring
-- Procurement & Payment Tracking
-- KPI Scorecard
-- Department-Level Performance Analysis
-- Overdue Action Monitoring
-- Outstanding Commitment Tracking
-- Conditional Formatting & Management Alerts
-- Executive-Level Reporting Views
+Comprehensive Excel-based operational control center supporting executive project monitoring.
 
-### Dashboard Preview
+### Highlights
 
-![Executive Project Operations Control Center](Executive_Project_Operations_Control_Center_Preview.png)
+- Project KPIs
+- Operational Summary
+- Department Tracking
+- Executive Dashboard
+- Management Reporting
 
-### Download Excel Workbook
+**Tools**
 
-[Download Executive Project Operations Control Center](Executive_Project_Operations_Control_Center.xlsx)
-
-### Portfolio Purpose
-
-This project demonstrates practical capabilities relevant to **Project Administration, Project Coordination, Operations Support, PMO Support, Executive Reporting, Management Coordination, and Business Support** roles.
+- Microsoft Excel
+- Pivot Tables
+- Power Query
+- Advanced Formulas
 
 ---
 
-# 3. Management Action & Follow-Up Tracker
+# 3. Management Action Tracker
 
-A professional Excel-based action tracking and executive follow-up solution designed for management meetings, project coordination, PMO support, and administrative environments.
+![Preview](Management_Action_Tracker/Management_Action_Tracker_Preview.png)
 
-### Key Features
+### Overview
 
-- Executive KPI Dashboard
-- Total Action Monitoring
-- Open Action Monitoring
-- Overdue Action Tracking
-- High-Priority Action Visibility
-- Completion Percentage Monitoring
-- Action Status Analysis
-- Priority Distribution Analysis
-- Department-Wise Follow-Up
-- Dynamic Aging & Due-Date Monitoring
-- Management Control Notes
-- Conditional Formatting & Visual Alerts
+Management action tracking system for monitoring assignments, ownership, priorities, and completion status.
 
-### Dashboard Preview
+### Highlights
 
-![Management Action Tracker](Management_Action_Tracker_Preview.png)
-
-### Download Excel Workbook
-
-[Download Management Action Tracker](Management_Action_Tracker.xlsx)
-
-### Portfolio Purpose
-
-This project demonstrates practical capabilities relevant to **Executive Assistant, Executive Secretary, PMO Support, Project Administration, Management Coordination, Action Tracking, and Senior Management Support** roles.
+- Action Register
+- Priority Tracking
+- Status Monitoring
+- Executive Dashboard
+- Performance Reporting
 
 ---
 
 # 4. Document Control & Correspondence Command Center
 
-A structured Excel-based document control and correspondence management solution designed to demonstrate document tracking, correspondence monitoring, aging analysis, approval visibility, and management reporting.
+![Preview](Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png)
 
-### Key Features
+### Overview
 
-- Executive Document Control Dashboard
-- Incoming & Outgoing Correspondence Register
-- Document Register
+Professional document control system supporting correspondence management and reporting.
+
+### Highlights
+
+- Correspondence Register
 - Revision Tracking
-- Correspondence Status Monitoring
-- Aging & Overdue Analysis
-- Priority Classification
-- Department-Wise Active Correspondence Monitoring
-- Document Approval Status Tracking
-- Responsible-Person Follow-Up
-- Direct Document Hyperlink Capability
-- Dynamic Excel Formulas & KPI Reporting
-- Structured Document Control Workflow
-
-### Dashboard Preview
-
-![Document Control Command Center](Document_Control_Command_Center_Preview.png)
-
-### Download Excel Workbook
-
-[Download Document Control & Correspondence Command Center](Document_Control_Correspondence_Command_Center.xlsx)
-
-### Portfolio Purpose
-
-This project demonstrates practical capabilities relevant to **Document Control, Project Administration, Correspondence Management, Aconex-Based Environments, PMO Support, Project Coordination, and Management Reporting** roles.
+- Document Status
+- Aging Analysis
+- Executive Reporting
 
 ---
 
 # 5. Executive Management Reporting & Board Support Portfolio
 
-A professional PowerPoint-based executive reporting portfolio designed to demonstrate structured management communication, board-level reporting, meeting governance, KPI visibility, and executive decision-support capabilities.
+![Preview](Executive_Management_Reporting_Board_Support_Portfolio/Executive_Management_Board_Support_Preview.png)
 
-### Key Features
+### Overview
 
-- Executive Management Dashboard
-- Board & Executive Meeting Agenda
-- Management KPI Scorecard
-- Strategic Action & Decision Tracking
-- Open Action & Priority Monitoring
-- Management Meeting Governance
-- Executive Summary Reporting
-- Decision & Resolution Register
-- Department-Level Performance Visibility
-- Board Secretariat & Executive Support Structure
-- Professional Management Presentation Design
+Executive reporting presentation showcasing board reporting, KPI reporting, executive support, and management communication.
 
-### Portfolio Preview
+### Highlights
 
-![Executive Management & Board Support Preview](Executive_Management_Board_Support_Preview.png)
-
-### Download PowerPoint Portfolio
-
-[Download Executive Management Reporting & Board Support Portfolio](Executive_Management_Reporting_Board_Support_Portfolio.pptx)
-
-### Portfolio Purpose
-
-This project demonstrates practical capabilities relevant to **Executive Assistant, Executive Secretary, Board Secretariat, Project Administration, PMO Support, Executive Office Coordination, and Senior Management Support** roles.
+- Executive Reporting
+- Board Support
+- KPI Presentations
+- Management Dashboards
+- Business Reporting
 
 ---
 
 # 6. Procurement & Payment Control Center
 
-A professional Excel-based procurement and payment monitoring solution designed to provide management visibility across procurement requests, purchase orders, deliveries, invoices, payments, aging, vendor exposure, and outstanding commitments.
+![Preview](Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Preview.png)
 
-### Key Features
+### Overview
 
-- Executive Procurement Dashboard
-- PR → PO → Delivery → Invoice → Payment Workflow
-- Total Commitment Monitoring
-- Outstanding Balance Tracking
-- Paid Value Monitoring
-- Overdue Payment Analysis
-- High-Priority Procurement Items
-- Procurement Workflow Status
-- Vendor Exposure Analysis
-- Department-Wise Outstanding Commitments
-- Aging Analysis
-- Management Attention Indicators
-- Procurement & Payment KPI Reporting
-- Dynamic Management Dashboard
+Procurement monitoring dashboard for payment tracking, purchase orders, invoice monitoring, and executive reporting.
 
-### Dashboard Preview
+### Highlights
 
-![Procurement & Payment Control Center](Procurement_Payment_Control_Center_Preview.png)
-
-### Download Excel Workbook
-
-[Download Procurement & Payment Control Center](Procurement_Payment_Control_Center.xlsx)
-
-### Portfolio Purpose
-
-This project demonstrates practical capabilities relevant to **Procurement Coordination, Project Administration, Operations Support, Commercial Follow-Up, Payment Tracking, Executive Reporting, and PMO Support** roles.
+- Procurement KPIs
+- Payment Tracking
+- Purchase Orders
+- Invoice Monitoring
+- Executive Dashboard
 
 ---
 
-# Core Portfolio Capabilities
+# 7. Catering Operations Analytics Dashboard (Power BI)
 
-Across these projects, the portfolio demonstrates practical capabilities in:
+![Preview](Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard_Preview.png)
 
-- Power BI Dashboard Development
-- Advanced Excel Reporting
-- KPI & Management Reporting
-- Executive Dashboard Design
-- Project & Operations Administration
-- Management Action Tracking
-- Workforce & Attendance Reporting
-- Procurement & Payment Monitoring
-- Document Control & Correspondence Tracking
-- Executive & Board-Level Reporting
-- Meeting Governance & Follow-Up
-- Data Visualization
-- Management Decision Support
-- PMO & Project Coordination Support
-- Professional PowerPoint Reporting
+### Overview
 
----
+Power BI dashboard developed to analyze catering operations, monthly catering costs, meal distribution, and operational trends.
 
-# Tools & Platforms
+### Highlights
 
-**Reporting & Analytics:** Power BI, Microsoft Excel, KPI Reporting, Management Dashboards
+- Catering Cost Analysis
+- Monthly Trend Analysis
+- Operational KPIs
+- Camp Comparison
+- Interactive Power BI Dashboard
 
-**Project & Document Support:** Aconex, Microsoft Teams, SharePoint
+**Tools**
 
-**Enterprise Systems:** Oracle Fusion
-
-**Executive & Administrative Support:** Microsoft PowerPoint, Microsoft Word, DocuSign
+- Microsoft Power BI
+- Power Query
+- DAX
 
 ---
 
-# About This Portfolio
+# Technical Skills Demonstrated
 
-This portfolio has been developed to demonstrate practical reporting, coordination, administrative, and management-support capabilities through structured sample projects.
+## Microsoft Power BI
 
-The portfolio is particularly relevant to opportunities in **Executive Assistance, Executive Secretary, Project Administration, Project Coordination, PMO Support, Document Control, Operations Coordination, Procurement Support, Management Reporting, and Business Support**.
+- Dashboard Development
+- Data Modeling
+- DAX
+- Power Query
+- KPI Reporting
+- Interactive Reporting
+- Executive Dashboards
+
+## Microsoft Excel
+
+- Advanced Formulas
+- Pivot Tables
+- Pivot Charts
+- Power Query
+- Conditional Formatting
+- Dashboard Development
+- Data Analysis
+- Reporting Automation
+
+## Reporting
+
+- Executive Reporting
+- Management Reporting
+- Operational Reporting
+- KPI Reporting
+- Workforce Reporting
+- Procurement Reporting
+- Project Reporting
+- Performance Analytics
 
 ---
 
-## Data Privacy
+# Software & Tools
 
-All portfolio projects use **synthetic, fictional, anonymized, or demonstration data**.
+- Microsoft Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+- Oracle Fusion
+- Oracle Cloud
+- Aconex
+- PowerPoint
 
-No confidential company, project, employee, client, vendor, commercial, contractual, procurement, or payment information is intentionally included in this repository.
+---
+
+# Target Roles
+
+This portfolio is relevant for opportunities including:
+
+- Executive Assistant
+- Senior Administrative Assistant
+- Project Administrator
+- Project Coordinator
+- PMO Support
+- Office Manager
+- Business Support Specialist
+- Operations Coordinator
+- Reporting Analyst
+- Power BI Analyst
+- Management Reporting Specialist
+- Executive Reporting Analyst
+
+---
+
+# Repository Purpose
+
+The purpose of this repository is to demonstrate practical reporting solutions developed using real-world business scenarios while protecting confidential organizational information.
+
+All dashboards are prepared for portfolio demonstration purposes. Sensitive information has been anonymized or modified where necessary.
+
+---
+
+# Contact
+
+**Sudheer Ahmed**
+
+📧 Email: khattaksudheer@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/sudheer-ahmed-khattak
+
+🌐 Portfolio:
+https://sites.google.com/view/sudheer-ahmed
