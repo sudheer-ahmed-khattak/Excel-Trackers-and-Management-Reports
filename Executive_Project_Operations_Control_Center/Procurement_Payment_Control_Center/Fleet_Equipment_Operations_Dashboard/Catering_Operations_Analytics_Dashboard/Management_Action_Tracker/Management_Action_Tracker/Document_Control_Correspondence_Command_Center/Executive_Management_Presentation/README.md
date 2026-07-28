@@ -1,1 +1,0 @@
-# Executive Management Presentation
