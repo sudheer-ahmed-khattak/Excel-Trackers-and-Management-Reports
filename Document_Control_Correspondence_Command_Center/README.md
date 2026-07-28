@@ -12,7 +12,7 @@ The dashboard enables project teams, document controllers, project administrator
 
 ## Dashboard Preview
 
-![Dashboard Preview](Document_Control_Correspondence_Command_Center_Preview.png)
+![Dashboard Preview](Document_Control_Command_Center_Preview.png)
 
 ---
 
@@ -32,9 +32,9 @@ The dashboard enables project teams, document controllers, project administrator
 
 ## Files Included
 
-- Document_Control_Correspondence_Command_Center.xlsx
-- Document_Control_Correspondence_Command_Center.pdf
-- Document_Control_Correspondence_Command_Center_Preview.png
+- Document_Control_Command_Center.xlsx
+- Document_Control_Command_Center.pdf
+- Document_Control_Command_Center_Preview.png
 
 ---
 
