@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Management Action Tracker is a professional Microsoft Excel solution designed to monitor project action items, assigned responsibilities, priorities, deadlines, and completion status. It enables project managers and executive teams to track progress efficiently, improve accountability, and ensure timely execution of critical tasks through an organized and interactive reporting system.
+The Management Action Tracker is a professional Microsoft Excel solution designed to monitor project action items, assigned responsibilities, priorities, deadlines, and completion status. It enables project managers and executive teams to efficiently track progress, improve accountability, and ensure timely execution of critical tasks through an organized and interactive reporting system.
 
 > **Note:** All information presented in this project is synthetic/anonymized and created exclusively for portfolio demonstration purposes.
 
@@ -10,7 +10,7 @@ The Management Action Tracker is a professional Microsoft Excel solution designe
 
 ## Dashboard Preview
 
-![Dashboard Preview](Management_Action_Tracker.png)
+![Dashboard Preview](Management_Action_Tracker_Preview.png)
 
 ---
 
@@ -31,7 +31,7 @@ The Management Action Tracker is a professional Microsoft Excel solution designe
 
 - Management_Action_Tracker.xlsx
 - Management_Action_Tracker.pdf
-- Management_Action_Tracker.png
+- Management_Action_Tracker_Preview.png
 
 ---
 
