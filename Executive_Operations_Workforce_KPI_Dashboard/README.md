@@ -129,16 +129,24 @@ Project Operations & Business Support Professional
 
 ---
 
-# Project Files
+## Project Files
 
-The complete project package is available in the **Project_Files** folder.
+The project package includes the following downloadable files:
+
+| File | Download |
+|---|---|
+| 📊 Power BI Dashboard | [Open Dashboard](./Executive_Operations_Workforce_KPI_Dashboard.pbix) |
+| 📄 Executive PDF Report | [Open PDF Report](./Executive_Operations_Workforce_KPI_Dashboard_Report.pdf) |
+| 📈 Sample Excel Dataset | [Open Excel Dataset](./Executive_Operations_Workforce_KPI_Dataset.xlsx) |
+
+> **Tip:** Click any file above to preview or download it directly from GitHub.
+
+---
 
 <p align="center">
-
-<a href="./Project_Files">
-<strong>📥 OPEN PROJECT FILES</strong>
-</a>
-
+  <a href="https://github.com/sudheer-ahmed-khattak">
+    <strong>⬅ Back to GitHub Portfolio</strong>
+  </a>
 </p>
 
 ---
