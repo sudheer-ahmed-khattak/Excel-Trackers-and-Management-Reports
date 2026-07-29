@@ -1,64 +1,61 @@
 # Management Action Tracker
 
-## Overview
+<p align="center">
+  <img src="Management_Action_Tracker_Preview.png" width="100%">
+</p>
 
-The Management Action Tracker is a professional Microsoft Excel solution designed to monitor project action items, assigned responsibilities, priorities, deadlines, and completion status. It enables project managers and executive teams to efficiently track progress, improve accountability, and ensure timely execution of critical tasks through an organized and interactive reporting system.
+---
 
-> **Note:** All information presented in this project is synthetic/anonymized and created exclusively for portfolio demonstration purposes.
+## Executive Summary
+
+A professional management action tracker developed to monitor action items, project follow-ups, task ownership, deadlines, completion status, and executive decisions through a centralized tracking system.
+
+> Designed to help leadership teams monitor commitments, improve accountability, and ensure timely execution of critical business actions.
+
+---
+
+## Key Features
+
+- Executive Action Tracker
+- Task Progress Monitoring
+- Action Ownership Tracking
+- Deadline Management
+- Completion Status Reporting
+- Executive Follow-up
+- Interactive Management Dashboard
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard Preview](Management_Action_Tracker_Preview.png)
-
----
-
-## Features
-
-- Executive Action Tracker
-- Task Assignment Management
-- Priority Monitoring
-- Due Date Tracking
-- Progress Status Monitoring
-- Department-wise Action Summary
-- Executive Reporting
-- Interactive Excel Dashboard
+This solution provides management with a centralized overview of pending actions, task ownership, priorities, deadlines, and completion progress to support effective executive decision-making.
 
 ---
 
 ## Files Included
 
-- Management_Action_Tracker.xlsx
-- Management_Action_Tracker.pdf
-- Management_Action_Tracker_Preview.png
+- 📊 Dashboard File
+- 🖼 Dashboard Preview
+- 📄 Documentation
 
 ---
 
 ## Skills Demonstrated
 
 - Microsoft Excel
-- Project Administration
-- Executive Reporting
-- Action Tracking
-- Task Management
 - Dashboard Design
-- Data Analysis
+- Executive Reporting
+- Task Management
 - KPI Reporting
+- Data Visualization
+- Business Analysis
 
 ---
 
-## Purpose
+<p align="center">
 
-This project demonstrates my ability to design structured management tracking systems that improve visibility, accountability, and follow-up of operational activities. The dashboard provides management with a centralized view of ongoing actions and supports informed decision-making.
+### ← Back to Portfolio
 
----
+**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
 
-## Author
-
-**Sudheer Ahmed**
-
-Executive Operations | Project Administration | PMO Support | Power BI | Advanced Excel
-
-- LinkedIn: https://www.linkedin.com/in/sudheer-ahmed-khattak
-- Portfolio: https://sites.google.com/view/sudheer-ahmed
+</p>
