@@ -1,55 +1,61 @@
 # Fleet Equipment Operations Dashboard
 
-## Overview
+<p align="center">
+  <img src="Fleet_Equipment_Operations_Dashboard_Preview.png" width="100%">
+</p>
 
-This dashboard demonstrates fleet and equipment management analytics using Power BI. It provides executive visibility into equipment allocation, ownership, suppliers, project utilization, and operational readiness through interactive reporting.
+---
 
-> **Note:** All information shown in this project is synthetic/anonymized and created exclusively for portfolio demonstration purposes.
+## Executive Summary
+
+A professional fleet operations dashboard developed to monitor equipment utilization, fleet availability, maintenance performance, operational efficiency, and executive KPIs through interactive reporting.
+
+> Designed to help management make faster operational decisions by providing a complete overview of fleet performance and equipment status.
+
+---
+
+## Key Features
+
+- Fleet Operations Dashboard
+- Equipment Utilization
+- Maintenance Monitoring
+- Fleet Availability Tracking
+- Operational KPI Reporting
+- Executive Reporting
+- Interactive Visual Analytics
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard Preview](Fleet_Equipment_Operations_Dashboard_Preview.png)
-
----
-
-## Features
-
-- Fleet & Equipment Overview
-- Equipment Allocation by Project
-- Ownership Analysis
-- Supplier Performance
-- Equipment Type Distribution
-- Released Equipment Tracking
-- Operational Reporting
-- Interactive Power BI Dashboard
+The dashboard provides management with a centralized view of fleet performance, equipment utilization, maintenance activities, and operational KPIs to support informed decision-making.
 
 ---
 
 ## Files Included
 
-- Fleet_Equipment_Operations_Dashboard.pbix
-- Fleet_Equipment_Operations_Dashboard.xlsx
-- Fleet_Equipment_Operations_Dashboard_Preview.png
+- 📊 Dashboard File
+- 🖼 Dashboard Preview
+- 📄 Documentation
 
 ---
 
 ## Skills Demonstrated
 
-- Power BI
 - Microsoft Excel
-- Fleet Analytics
-- Equipment Management
 - Dashboard Design
-- Executive Reporting
 - KPI Reporting
+- Fleet Analytics
+- Executive Reporting
 - Data Visualization
+- Business Analysis
 
 ---
 
-## Author
+<p align="center">
 
-**Sudheer Ahmed**
+### ← Back to Portfolio
 
-Executive Operations | Project Administration | PMO Support | Power BI | Advanced Excel
+**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
+
+</p>
