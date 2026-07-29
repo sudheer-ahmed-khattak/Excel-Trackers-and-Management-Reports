@@ -57,3 +57,5 @@ The dashboard provides executives with a centralized view of workforce performan
 **https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
 
 </p>
+
+> Designed for executive decision-makers to monitor workforce performance, attendance trends, overtime, and operational KPIs through an interactive dashboard.
