@@ -1,61 +1,151 @@
 # Catering Operations Analytics Dashboard
 
 <p align="center">
-  <img src="Catering_Operations_Analytics_Dashboard_Preview.png" width="100%">
+  <img src="Catering_Operations_Analytics_Dashboard_Preview.png" width="100%" alt="Catering Operations Analytics Dashboard Preview">
+</p>
+
+<p align="center">
+  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
+  Project Operations & Business Support Professional
 </p>
 
 ---
 
 ## Executive Summary
 
-A professional operations dashboard designed to monitor catering performance, meal distribution, service efficiency, consumption trends, and operational KPIs through interactive executive reporting.
+The **Catering Operations Analytics Dashboard** is an executive reporting solution developed to provide management with a centralized overview of catering operations, meal distribution, catering costs, camp-wise performance, service utilization, and operational KPIs.
 
-> Designed to provide management with complete visibility into catering operations, service performance, and resource utilization for faster operational decision-making.
+The dashboard transforms catering data into meaningful business insights, enabling project leadership to monitor catering performance, optimize resource planning, control operational costs, and support informed executive decision-making.
 
 ---
 
-## Key Features
+## Business Objective
 
-- Catering Operations Dashboard
-- Meal Distribution Analysis
-- Service Performance Monitoring
-- Consumption Trend Analysis
-- Executive KPI Reporting
+This dashboard was developed to help management:
+
+- Monitor catering operations
+- Track meal distribution
+- Review catering costs
+- Analyze camp-wise performance
+- Monitor monthly catering trends
+- Improve operational planning
+- Optimize catering resources
+- Support executive decision-making
+
+---
+
+## Dashboard Highlights
+
+This dashboard includes:
+
+- Catering Operations Overview
+- Monthly Catering Cost Analysis
+- Meal Distribution Summary
+- Camp-wise Performance
+- Cost Trend Analysis
+- Operational Performance Indicators
+- Executive KPI Cards
+- Catering Analytics Dashboard
+- Interactive Reporting
+- Executive Decision Support
+
+---
+
+## Key Performance Indicators (KPIs)
+
+The dashboard reports:
+
+- Monthly Catering Cost
+- Total Meal Amount
+- Camp-wise Meal Distribution
+- Monthly Cost Trends
+- Catering Performance
+- Operational Summary
+- Cost Comparison
+- Resource Utilization
+- Service Performance
+- Executive Catering KPIs
+
+---
+
+## Tools & Technologies
+
+- Microsoft Power BI
+- Microsoft Excel
+- PDF Reporting
+- Advanced Excel
+- KPI Reporting
+- Business Intelligence
+- Executive Reporting
+- Data Visualization
 - Operational Analytics
-- Interactive Visual Reporting
 
 ---
 
-## Dashboard Preview
+## Project Deliverables
 
-This dashboard provides leadership with a centralized overview of catering operations by combining service performance, operational KPIs, meal distribution, and analytical reporting into one executive solution.
+This project package includes:
 
----
-
-## Files Included
-
-- 📊 Dashboard File
-- 🖼 Dashboard Preview
-- 📄 Documentation
+- Interactive Power BI Dashboard
+- Executive PDF Report
+- Dashboard Preview
+- Project Documentation
 
 ---
 
 ## Skills Demonstrated
 
-- Microsoft Excel
+- Catering Analytics
+- Operational Reporting
 - Dashboard Design
 - KPI Reporting
-- Operations Analytics
 - Executive Reporting
+- Business Intelligence
+- Cost Analysis
 - Data Visualization
-- Business Analysis
+- Performance Monitoring
+- Management Reporting
+
+---
+
+## Data & Confidentiality Notice
+
+> **Disclaimer**
+>
+> This project has been created exclusively for portfolio and demonstration purposes.
+>
+> All datasets, values, catering records, financial figures, operational data, company references, project details, and business information presented in this dashboard are independently created sample data.
+>
+> No confidential company information, proprietary data, internal documents, catering records, employee information, company logos, or client information have been used.
+
+---
+
+## Author
+
+**Sudheer Ahmed Khattak**
+
+Project Operations & Business Support Professional
+
+- 🌐 [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+- 📧 [Email](mailto:khattaksudheer@gmail.com)
+
+---
+
+## Project Downloads
+
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+
+| Project File | Description | Access |
+|---|---|---|
+| 📊 Power BI Dashboard | Interactive Catering Analytics Dashboard | [⬇️ Download Power BI Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pbix) |
+| 📄 Executive PDF Report | Printable dashboard report | [⬇️ Download PDF Report](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pdf) |
+| 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard_Preview.png) |
 
 ---
 
 <p align="center">
-
-### ← Back to Portfolio
-
-**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
-
+<a href="https://github.com/sudheer-ahmed-khattak">
+<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
+</a>
 </p>
