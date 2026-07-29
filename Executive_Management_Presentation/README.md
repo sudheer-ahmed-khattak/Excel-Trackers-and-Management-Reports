@@ -1,61 +1,150 @@
 # Executive Management Presentation
 
 <p align="center">
-  <img src="Executive_Management_Board_Support_Preview.png" width="100%">
+  <img src="Executive_Management_Board_Support_Preview.png" width="100%" alt="Executive Management Presentation Preview">
+</p>
+
+<p align="center">
+  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
+  Project Operations & Business Support Professional
 </p>
 
 ---
 
 ## Executive Summary
 
-A professional executive presentation designed to communicate business performance, strategic initiatives, board updates, project progress, operational achievements, and management insights through a clear and impactful presentation format.
+The **Executive Management Presentation** is a professional executive reporting presentation developed to communicate strategic business information, management KPIs, operational updates, board-level reporting, and executive decision support in a clear and visually engaging format.
 
-> Designed to help executives present key business information, performance metrics, strategic updates, and board-level reporting in a professional and visually engaging manner.
+This presentation demonstrates how complex operational information can be transformed into concise executive reports that support leadership meetings, board discussions, stakeholder communication, and strategic planning.
 
 ---
 
-## Key Features
+## Business Objective
 
-- Executive Management Presentation
-- Board Support Reporting
-- Business Performance Updates
-- Strategic Planning
-- KPI Visualization
+This presentation was developed to help management:
+
+- Present executive KPIs
+- Support board meetings
+- Communicate strategic updates
+- Visualize operational performance
+- Improve management reporting
+- Present project achievements
+- Support executive decision-making
+- Deliver professional leadership presentations
+
+---
+
+## Presentation Highlights
+
+This presentation includes:
+
+- Executive Dashboard Overview
+- Board Reporting Slides
+- KPI Presentation
+- Operational Performance Summary
+- Strategic Business Updates
+- Executive Reporting Layouts
+- Leadership Presentation Design
+- Professional Data Visualization
+- Project Status Reporting
+- Decision Support Presentation
+
+---
+
+## Key Performance Areas
+
+The presentation demonstrates:
+
+- Executive Reporting
+- Management KPIs
+- Business Performance
+- Operational Highlights
+- Strategic Updates
+- Project Reporting
+- Board Communication
+- Executive Decision Support
+- Professional Storytelling
+- Leadership Reporting
+
+---
+
+## Tools & Technologies
+
+- Microsoft PowerPoint
+- Executive Presentation Design
+- Business Storytelling
+- KPI Reporting
 - Management Reporting
-- Professional Presentation Design
+- Executive Communication
+- Business Intelligence
+- Data Visualization
+- Leadership Reporting
 
 ---
 
-## Presentation Preview
+## Project Deliverables
 
-This presentation provides executives and senior management with a structured overview of business performance, strategic initiatives, project progress, board reporting, and executive insights.
+This project package includes:
 
----
-
-## Files Included
-
-- 📊 Presentation File
-- 🖼 Presentation Preview
-- 📄 Documentation
+- Executive PowerPoint Presentation
+- PDF Presentation
+- Presentation Preview
 
 ---
 
 ## Skills Demonstrated
 
-- Microsoft PowerPoint
+- Executive Reporting
+- Board Secretariat Support
 - Executive Presentation Design
-- Board Reporting
-- Business Reporting
-- KPI Communication
-- Strategic Planning
-- Executive Communication
+- Management Reporting
+- Business Communication
+- KPI Reporting
+- Data Visualization
+- Leadership Communication
+- Strategic Reporting
+- Professional Presentation Design
+
+---
+
+## Data & Confidentiality Notice
+
+> **Disclaimer**
+>
+> This project has been created exclusively for portfolio and demonstration purposes.
+>
+> All presentation content, values, business information, company references, project details, executive reports, and management information presented in this portfolio are independently created sample data.
+>
+> No confidential company information, proprietary data, internal presentations, board documents, employee records, company logos, or client information have been used.
+
+---
+
+## Author
+
+**Sudheer Ahmed Khattak**
+
+Project Operations & Business Support Professional
+
+- 🌐 [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+- 📧 [Email](mailto:khattaksudheer@gmail.com)
+
+---
+
+## Project Downloads
+
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+
+| Project File | Description | Access |
+|---|---|---|
+| 📑 Executive Presentation | Professional PowerPoint Presentation | [⬇️ Download Presentation](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support_Portfolio.pptx) |
+| 📄 PDF Version | Printable presentation | [⬇️ Download PDF](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support.pdf) |
+| 🖼️ Presentation Preview | High-resolution presentation preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Board_Support_Preview.png) |
 
 ---
 
 <p align="center">
-
-### ← Back to Portfolio
-
-**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
-
+<a href="https://github.com/sudheer-ahmed-khattak">
+<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
+</a>
 </p>
