@@ -9,7 +9,7 @@
 ## Executive Summary
 
 A professional executive dashboard designed to monitor workforce performance, attendance, overtime, and key operational KPIs through interactive reporting and data visualization.
-
+> Designed for executive decision-makers to monitor workforce performance, attendance trends, overtime, and operational KPIs through an interactive dashboard.
 ---
 
 ## Key Features
@@ -58,4 +58,3 @@ The dashboard provides executives with a centralized view of workforce performan
 
 </p>
 
-> Designed for executive decision-makers to monitor workforce performance, attendance trends, overtime, and operational KPIs through an interactive dashboard.
