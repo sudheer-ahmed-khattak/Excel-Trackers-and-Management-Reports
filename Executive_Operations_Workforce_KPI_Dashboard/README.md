@@ -151,10 +151,6 @@ The project package includes the following downloadable files:
 
 ---
 
-<p align="center">
 
-<a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅ Back to GitHub Portfolio</strong>
-</a>
 
 </p>
