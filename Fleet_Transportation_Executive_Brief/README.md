@@ -1,65 +1,62 @@
 # Fleet Transportation Executive Brief
 
-## Overview
+<p align="center">
+  <img src="Fleet_Transportation_Executive_Brief_Preview.png" width="100%">
+</p>
 
-The Fleet Transportation Executive Brief is an executive reporting solution developed in Microsoft Excel to provide management with a comprehensive overview of fleet and transportation operations. The dashboard enables decision-makers to monitor vehicle utilization, transportation performance, operational efficiency, resource allocation, and key performance indicators through a clear and interactive reporting interface.
+---
 
-> **Note:** All information presented in this project is synthetic/anonymized and created exclusively for portfolio demonstration purposes.
+## Executive Summary
+
+A professional executive dashboard developed to monitor transportation operations, vehicle movement, fleet utilization, trip performance, and operational KPIs through a centralized reporting solution.
+
+> Designed to provide management with complete visibility into transportation activities, fleet efficiency, and operational performance for faster executive decision-making.
+
+---
+
+## Key Features
+
+- Transportation Operations Dashboard
+- Fleet Performance Monitoring
+- Vehicle Utilization Analysis
+- Trip Performance Tracking
+- Executive KPI Reporting
+- Operational Analytics
+- Interactive Visual Reporting
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard Preview](Fleet_Transportation_Executive_Brief.png)
-
----
-
-## Features
-
-- Executive Fleet Overview
-- Transportation Performance Monitoring
-- Vehicle Utilization Analysis
-- Fleet Availability Tracking
-- Resource Allocation Reporting
-- Operational Readiness Monitoring
-- KPI Dashboard
-- Executive Summary Reporting
-- Interactive Excel Dashboard
+This dashboard provides leadership with a complete overview of transportation operations by combining fleet activity, vehicle performance, operational KPIs, and executive reporting into one centralized solution.
 
 ---
 
 ## Files Included
 
-- Fleet_Transportation_Executive_Brief.xlsx
-- Fleet_Transportation_Executive_Brief.pdf
-- Fleet_Transportation_Executive_Brief.png
+- 📊 Dashboard File
+- 🖼 Dashboard Preview
+- 📄 Documentation
 
 ---
 
 ## Skills Demonstrated
 
 - Microsoft Excel
-- Executive Reporting
-- Fleet Management
-- Transportation Operations
-- KPI Reporting
 - Dashboard Design
-- Data Analysis
-- Management Reporting
+- Fleet Analytics
+- Transportation Reporting
+- KPI Reporting
+- Executive Reporting
+- Data Visualization
+- Business Analysis
 
 ---
 
-## Purpose
+<p align="center">
 
-This project demonstrates my ability to transform operational transportation data into meaningful executive reports that support strategic decision-making. The dashboard emphasizes clarity, automation, and performance monitoring while showcasing advanced Excel reporting techniques.
+### ← Back to Portfolio
 
----
+**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
 
-## Author
-
-**Sudheer Ahmed**
-
-Executive Operations | Project Administration | PMO Support | Power BI | Advanced Excel
-
-- LinkedIn: https://www.linkedin.com/in/sudheer-ahmed-khattak
-- Portfolio: https://sites.google.com/view/sudheer-ahmed
+</p>
