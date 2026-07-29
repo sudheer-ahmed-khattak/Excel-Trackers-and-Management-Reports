@@ -1,55 +1,61 @@
 # Executive Project Operations Control Center
 
-## Overview
+<p align="center">
+  <img src="Executive_Project_Operations_Control_Center_Preview.png" width="100%">
+</p>
 
-This Power BI dashboard provides an executive-level overview of project operations, workforce performance, procurement status, KPI scorecards, and operational action tracking. It is designed to support project leadership with data-driven decision-making through a consolidated management dashboard.
+---
 
-> **Note:** All information shown in this project is synthetic/anonymized and created exclusively for portfolio demonstration purposes.
+## Executive Summary
+
+A centralized executive control center designed to monitor project progress, operational activities, resource allocation, action tracking, and executive-level decision making through a single interactive dashboard.
+
+> Built to provide senior management with real-time project visibility, operational insights, and performance monitoring for faster and more informed decisions.
+
+---
+
+## Key Features
+
+- Executive Project Dashboard
+- Project Progress Monitoring
+- Operational KPI Tracking
+- Action Item Management
+- Resource Monitoring
+- Executive Reporting
+- Interactive Visual Analytics
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard Preview](Executive_Project_Operations_Control_Center_Preview.png)
-
----
-
-## Features
-
-- Executive Project Overview
-- KPI Scorecards
-- Workforce Performance Monitoring
-- Procurement Status Reporting
-- Department Performance
-- Operational Action Tracking
-- Interactive Power BI Filters
-- Executive Management Reporting
+This dashboard provides project leadership with a complete operational overview by combining project status, KPIs, pending actions, and performance indicators into one executive reporting solution.
 
 ---
 
 ## Files Included
 
-- Executive_Project_Operations_Control_Center.pbix
-- Executive_Project_Operations_Control_Center.xlsx
-- Executive_Project_Operations_Control_Center_Preview.png
+- 📊 Dashboard File
+- 🖼 Dashboard Preview
+- 📄 Documentation
 
 ---
 
 ## Skills Demonstrated
 
-- Power BI
 - Microsoft Excel
-- Executive Reporting
-- Project Administration
-- PMO Support
-- KPI Reporting
 - Dashboard Design
-- Management Reporting
+- Executive Reporting
+- KPI Reporting
+- Project Coordination
+- Data Visualization
+- Business Analysis
 
 ---
 
-## Author
+<p align="center">
 
-**Sudheer Ahmed**
+### ← Back to Portfolio
 
-Executive Operations | Project Administration | PMO Support | Power BI | Advanced Excel
+**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
+
+</p>
