@@ -1,7 +1,7 @@
 # Document Control & Correspondence Command Center
 
 <p align="center">
-  <img src="Document_Control_Correspondence_Command_Center_Preview.png" width="100%">
+  <img src="Document_Control_Command_Center_Preview.png" width="100%">
 </p>
 
 ---
