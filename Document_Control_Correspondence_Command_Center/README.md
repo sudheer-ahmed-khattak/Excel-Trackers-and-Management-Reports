@@ -1,69 +1,61 @@
 # Document Control & Correspondence Command Center
 
-## Overview
+<p align="center">
+  <img src="Document_Control_Correspondence_Command_Center_Preview.png" width="100%">
+</p>
 
-The Document Control & Correspondence Command Center is a professional Microsoft Excel solution developed to manage project documents, incoming and outgoing correspondence, document status, approval workflow, response deadlines, and executive reporting.
+---
 
-The dashboard enables project teams, document controllers, project administrators, and management to maintain complete visibility of project documentation while improving traceability, accountability, and communication across departments.
+## Executive Summary
 
-> **Note:** All information presented in this project is synthetic/anonymized and created exclusively for portfolio demonstration purposes.
+A professional document control dashboard developed to manage project correspondence, document workflows, approvals, transmittals, and executive reporting through a centralized command center.
+
+> Designed to provide complete visibility into document status, correspondence tracking, approval progress, and project communication for efficient document management.
+
+---
+
+## Key Features
+
+- Document Control Dashboard
+- Correspondence Tracking
+- Transmittal Monitoring
+- Approval Workflow Tracking
+- Document Status Reporting
+- Executive Reporting
+- Interactive Visual Analytics
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard Preview](Document_Control_Command_Center_Preview.png)
-
----
-
-## Features
-
-- Incoming & Outgoing Correspondence Register
-- Document Status Monitoring
-- Approval Workflow Tracking
-- Review & Response Deadline Monitoring
-- Department-wise Document Distribution
-- Priority Classification
-- Overdue Document Identification
-- Executive Summary Dashboard
-- Interactive Excel Reporting
+This dashboard provides management with a centralized overview of document control activities, correspondence progress, approval workflows, and reporting KPIs to improve project communication and document management.
 
 ---
 
 ## Files Included
 
-- Document_Control_Command_Center.xlsx
-- Document_Control_Command_Center.pdf
-- Document_Control_Command_Center_Preview.png
+- 📊 Dashboard File
+- 🖼 Dashboard Preview
+- 📄 Documentation
 
 ---
 
 ## Skills Demonstrated
 
 - Microsoft Excel
+- Dashboard Design
 - Document Control
 - Correspondence Management
-- Project Administration
 - Executive Reporting
-- Dashboard Design
-- Data Analysis
-- KPI Reporting
-- Workflow Tracking
-- Management Reporting
+- Data Visualization
+- Business Analysis
 
 ---
 
-## Purpose
+<p align="center">
 
-This project demonstrates my ability to design structured document control systems that improve document traceability, correspondence management, approval monitoring, and executive reporting. The dashboard provides project leadership with a centralized view of documentation activities and supports efficient project communication.
+### ← Back to Portfolio
 
----
+**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
 
-## Author
-
-**Sudheer Ahmed**
-
-Executive Operations | Project Administration | PMO Support | Power BI | Advanced Excel
-
-- LinkedIn: https://www.linkedin.com/in/sudheer-ahmed-khattak
-- Portfolio: https://sites.google.com/view/sudheer-ahmed
+</p>
