@@ -1,61 +1,152 @@
 # Procurement & Payment Control Center
 
 <p align="center">
-  <img src="Procurement_Payment_Control_Center_Preview.png" width="100%">
+  <img src="Procurement_Payment_Control_Center_Preview.png" width="100%" alt="Procurement & Payment Control Center Preview">
+</p>
+
+<p align="center">
+  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
+  Project Operations & Business Support Professional
 </p>
 
 ---
 
 ## Executive Summary
 
-A professional procurement and payment control dashboard designed to monitor purchase requests, purchase orders, payment progress, vendor performance, and executive KPIs through a centralized reporting solution.
+The **Procurement & Payment Control Center** is an executive procurement reporting dashboard developed to provide management with complete visibility into procurement activities, purchase requests, purchase orders, vendor performance, invoice processing, payment progress, and procurement KPIs.
 
-> Designed to provide management with complete visibility into procurement activities, payment status, budget monitoring, and operational performance for faster business decisions.
-
----
-
-## Key Features
-
-- Procurement Dashboard
-- Payment Tracking
-- Purchase Order Monitoring
-- Vendor Performance Analysis
-- Budget Control
-- Executive KPI Reporting
-- Interactive Visual Analytics
+The dashboard centralizes procurement information into a single executive view, enabling management to monitor financial commitments, procurement workflow status, outstanding liabilities, supplier performance, and operational efficiency.
 
 ---
 
-## Dashboard Preview
+## Business Objective
 
-This dashboard provides leadership with a centralized overview of procurement operations by combining purchasing activities, payment tracking, vendor performance, and executive reporting into one management solution.
+This dashboard was developed to help management:
+
+- Monitor procurement performance
+- Track Purchase Requests (PRs)
+- Monitor Purchase Orders (POs)
+- Review invoice processing
+- Track vendor payments
+- Identify outstanding liabilities
+- Monitor procurement workflow
+- Improve financial visibility
+- Support executive decision-making
 
 ---
 
-## Files Included
+## Dashboard Highlights
 
-- 📊 Dashboard File
-- 🖼 Dashboard Preview
-- 📄 Documentation
+This dashboard includes:
+
+- Procurement Executive Overview
+- Purchase Request Status
+- Purchase Order Tracking
+- Invoice Monitoring
+- Vendor Exposure Analysis
+- Outstanding Balance Monitoring
+- Payment Workflow Status
+- Executive KPI Cards
+- Procurement Performance Summary
+- Interactive Dashboard Filters
+
+---
+
+## Key Performance Indicators (KPIs)
+
+The dashboard reports:
+
+- Total Commitments
+- Outstanding Balance
+- Paid to Date
+- Overdue Payment Amount
+- High Priority Issues
+- Purchase Requests Raised
+- Purchase Requests Approved
+- Purchase Orders Issued
+- Deliveries Completed
+- Invoices Received
+- Vendor Exposure
+- Procurement Workflow Status
+
+---
+
+## Tools & Technologies
+
+- Microsoft Excel
+- Executive Dashboard Design
+- Advanced Excel
+- KPI Reporting
+- Procurement Reporting
+- Financial Reporting
+- Business Intelligence
+- Executive Reporting
+- Data Visualization
+
+---
+
+## Project Deliverables
+
+This project package includes:
+
+- Interactive Procurement Dashboard
+- Dashboard Preview
+- Project Documentation
 
 ---
 
 ## Skills Demonstrated
 
-- Microsoft Excel
-- Dashboard Design
 - Procurement Reporting
-- Payment Tracking
+- Financial Reporting
 - Executive Reporting
+- Dashboard Design
+- KPI Reporting
+- Vendor Performance Analysis
+- Payment Monitoring
 - Data Visualization
-- Business Analysis
+- Business Intelligence
+- Management Reporting
+
+---
+
+## Data & Confidentiality Notice
+
+> **Disclaimer**
+>
+> This project has been created exclusively for portfolio and demonstration purposes.
+>
+> All datasets, values, vendor information, procurement records, financial figures, company references, and business data presented in this dashboard are independently created sample data.
+>
+> No confidential company information, proprietary data, internal documents, supplier records, financial records, employee information, company logos, or client information has been used.
+
+---
+
+## Author
+
+**Sudheer Ahmed Khattak**
+
+Project Operations & Business Support Professional
+
+- 🌐 [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+- 📧 [Email](mailto:khattaksudheer@gmail.com)
+
+---
+
+## Project Downloads
+
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+
+| Project File | Description | Access |
+|---|---|---|
+| 📊 Procurement Dashboard | Interactive Excel Procurement Dashboard | [⬇️ Download Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Final.xlsx) |
+| 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Preview.png) |
 
 ---
 
 <p align="center">
-
-### ← Back to Portfolio
-
-**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
-
+<a href="https://github.com/sudheer-ahmed-khattak">
+<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
+</a>
 </p>
