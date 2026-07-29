@@ -1,61 +1,151 @@
 # Management Action Tracker
 
 <p align="center">
-  <img src="Management_Action_Tracker_Preview.png" width="100%">
+  <img src="Management_Action_Tracker_Preview.png" width="100%" alt="Management Action Tracker Preview">
+</p>
+
+<p align="center">
+  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
+  Project Operations & Business Support Professional
 </p>
 
 ---
 
 ## Executive Summary
 
-A professional management action tracker developed to monitor action items, project follow-ups, task ownership, deadlines, completion status, and executive decisions through a centralized tracking system.
+The **Management Action Tracker** is an executive performance dashboard developed to help senior management monitor action items, project follow-ups, priorities, ownership, completion status, and overall execution performance.
 
-> Designed to help leadership teams monitor commitments, improve accountability, and ensure timely execution of critical business actions.
-
----
-
-## Key Features
-
-- Executive Action Tracker
-- Task Progress Monitoring
-- Action Ownership Tracking
-- Deadline Management
-- Completion Status Reporting
-- Executive Follow-up
-- Interactive Management Dashboard
+The dashboard centralizes management actions into a structured reporting solution, providing complete visibility into outstanding tasks, aging actions, accountability, and operational progress to support faster executive decision-making.
 
 ---
 
-## Dashboard Preview
+## Business Objective
 
-This solution provides management with a centralized overview of pending actions, task ownership, priorities, deadlines, and completion progress to support effective executive decision-making.
+This dashboard was developed to help management:
+
+- Track management action items
+- Monitor task completion status
+- Review overdue actions
+- Analyze action priorities
+- Improve accountability
+- Monitor departmental follow-up
+- Support executive reporting
+- Enhance operational governance
 
 ---
 
-## Files Included
+## Dashboard Highlights
 
-- 📊 Dashboard File
-- 🖼 Dashboard Preview
-- 📄 Documentation
+This dashboard includes:
+
+- Executive Action Overview
+- Action Status Analysis
+- Priority Profile
+- Aging Analysis
+- Department-wise Follow-up
+- Owner Performance Monitoring
+- Executive KPI Cards
+- Action Completion Summary
+- Operational Performance Dashboard
+- Executive Decision Support
+
+---
+
+## Key Performance Indicators (KPIs)
+
+The dashboard reports:
+
+- Total Actions
+- Open Actions
+- Overdue Actions
+- High Priority Actions
+- Average Completion Rate
+- Pending Actions
+- In Progress Actions
+- Completed Actions
+- Action Aging
+- Executive Performance KPIs
+
+---
+
+## Tools & Technologies
+
+- Microsoft Excel
+- Executive Dashboard Design
+- Advanced Excel
+- KPI Reporting
+- Management Reporting
+- Business Intelligence
+- Executive Reporting
+- Data Visualization
+- Operational Analytics
+
+---
+
+## Project Deliverables
+
+This project package includes:
+
+- Interactive Executive Dashboard
+- Executive PDF Preview
+- Dashboard Preview Image
+- Project Documentation
 
 ---
 
 ## Skills Demonstrated
 
-- Microsoft Excel
-- Dashboard Design
 - Executive Reporting
-- Task Management
+- Management Reporting
+- Action Tracking
+- Dashboard Design
 - KPI Reporting
+- Operational Reporting
+- Business Intelligence
 - Data Visualization
-- Business Analysis
+- Performance Monitoring
+- Decision Support
+
+---
+
+## Data & Confidentiality Notice
+
+> **Disclaimer**
+>
+> This project has been created exclusively for portfolio and demonstration purposes.
+>
+> All datasets, values, management records, action items, employee information, company references, project details, and business records presented in this dashboard are independently created sample data.
+>
+> No confidential company information, proprietary data, internal documents, employee records, management records, company logos, or client information have been used.
+
+---
+
+## Author
+
+**Sudheer Ahmed Khattak**
+
+Project Operations & Business Support Professional
+
+- 🌐 [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+- 📧 [Email](mailto:khattaksudheer@gmail.com)
+
+---
+
+## Project Downloads
+
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+
+| Project File | Description | Access |
+|---|---|---|
+| 📊 Executive Dashboard | Interactive Management Action Tracker | [⬇️ Download Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Management_Action_Tracker/Management_Action_Tracker.xlsx) |
+| 📄 Executive PDF Preview | Printable dashboard preview | [⬇️ Download PDF Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Management_Action_Tracker/Management_Action_Tracker_Preview.pdf) |
+| 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Management_Action_Tracker/Management_Action_Tracker_Preview.png) |
 
 ---
 
 <p align="center">
-
-### ← Back to Portfolio
-
-**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
-
+<a href="https://github.com/sudheer-ahmed-khattak">
+<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
+</a>
 </p>
