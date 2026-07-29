@@ -1,70 +1,61 @@
 # Executive Management Presentation
 
-## Overview
+<p align="center">
+  <img src="Executive_Management_Presentation_Preview.png" width="100%">
+</p>
 
-The Executive Management Presentation is a professional Microsoft PowerPoint solution developed to support executive meetings, board reporting, management reviews, project updates, KPI communication, and strategic decision-making.
+---
 
-It demonstrates the ability to organize operational information, performance indicators, management updates, and key recommendations into a clear, concise, and professional presentation format suitable for senior leadership and board-level discussions.
+## Executive Summary
 
-> **Note:** All information presented in this project is synthetic/anonymized and created exclusively for portfolio demonstration purposes.
+A professional executive presentation designed to communicate business performance, strategic initiatives, project progress, operational achievements, and management insights through a clear and impactful presentation format.
+
+> Designed to help executives present key business information, performance metrics, and strategic updates in a professional and visually engaging manner.
+
+---
+
+## Key Features
+
+- Executive Presentation
+- Business Performance Reporting
+- Project Progress Updates
+- Strategic Planning
+- KPI Visualization
+- Management Reporting
+- Professional Presentation Design
 
 ---
 
 ## Presentation Preview
 
-![Presentation Preview](Executive_Management_Board_Support_Preview.png)
-
----
-
-## Features
-
-- Executive Management Reporting
-- Board Meeting Support
-- Project Performance Updates
-- KPI and Operational Highlights
-- Management Action Summary
-- Strategic Recommendations
-- Professional Corporate Layout
-- Business Data Storytelling
-- Senior Leadership Presentation Support
+This presentation provides leadership with a structured overview of business performance, project updates, strategic initiatives, and executive insights using professional presentation techniques.
 
 ---
 
 ## Files Included
 
-- Executive_Management_Board_Support.pptx
-- Executive_Management_Board_Support.pdf
-- Executive_Management_Board_Support_Preview.png
+- 📊 Presentation File
+- 🖼 Presentation Preview
+- 📄 Documentation
 
 ---
 
 ## Skills Demonstrated
 
 - Microsoft PowerPoint
-- Executive Reporting
-- Board Secretariat Support
-- Management Presentation Design
-- Business Communication
-- Data Storytelling
-- Project Administration
-- Visual Communication
-- Management Reporting
+- Executive Presentation Design
+- Business Reporting
+- KPI Communication
+- Strategic Planning
+- Data Visualization
+- Executive Communication
 
 ---
 
-## Purpose
+<p align="center">
 
-This project demonstrates my ability to prepare structured executive and board-level presentations that communicate project performance, operational priorities, management actions, and strategic insights in a professional and decision-focused format.
+### ← Back to Portfolio
 
-The presentation is designed to support senior management discussions, stakeholder reviews, executive meetings, and board reporting requirements.
+**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
 
----
-
-## Author
-
-**Sudheer Ahmed**
-
-Executive Operations | Project Administration | PMO Support | Board Secretariat | Power BI | Advanced Excel
-
-- LinkedIn: https://www.linkedin.com/in/sudheer-ahmed-khattak
-- Portfolio: https://sites.google.com/view/sudheer-ahmed
+</p>
