@@ -5,54 +5,54 @@
 </p>
 
 <p align="center">
-  <strong>Prepared by: Sudheer Ahmed Khattak</strong>
+  <strong>Prepared by: Sudheer Ahmed Khattak</strong><br>
+  Project Operations & Business Support Professional
 </p>
 
 ---
 
-## Executive Summary
+# Executive Summary
 
-The Executive Operations Workforce KPI Dashboard is a business intelligence reporting solution designed to provide executive management with a centralized view of workforce performance, attendance, overtime, and operational KPIs.
+The Executive Operations Workforce KPI Dashboard is a business intelligence solution designed to provide executive management with a centralized view of workforce performance, attendance, overtime, and operational KPIs.
 
-The dashboard converts structured sample data into clear visual insights that support workforce planning, performance monitoring, operational reporting, and management decision-making.
+The dashboard transforms structured sample data into meaningful business insights, enabling faster decision-making, workforce planning, operational monitoring, and executive reporting.
 
 ---
 
-## Business Objective
+# Business Objective
 
 This dashboard was developed to help management:
 
 - Monitor workforce performance
-- Analyze attendance and absence trends
+- Analyze attendance trends
 - Track overtime utilization
 - Compare departmental performance
-- Review workforce distribution by site
+- Review workforce distribution
 - Support executive decision-making
 - Improve operational visibility
 
 ---
 
-## Dashboard Highlights
+# Dashboard Highlights
 
-The report includes:
+This dashboard includes:
 
-- Workforce Overview
-- Attendance KPIs
-- Active Employee Tracking
-- Overtime Analysis
+- Executive KPI Overview
+- Attendance Dashboard
+- Workforce Distribution
 - Department Performance
-- Site-wise Workforce Distribution
-- Monthly Overtime Trend
+- Overtime Analysis
 - Overtime Approval Status
-- Overtime Cost Analysis
+- Monthly Overtime Trend
+- Overtime Cost Trend
 - Interactive Filters
 - Executive KPI Cards
 
 ---
 
-## Key Performance Indicators
+# Key Performance Indicators (KPIs)
 
-The dashboard presents:
+The dashboard reports:
 
 - Total Employees
 - Active Employees
@@ -63,76 +63,90 @@ The dashboard presents:
 - Department-wise Overtime
 - Site-wise Workforce Distribution
 - Monthly Overtime Trend
-- Overtime Approval Status
-- Overtime Cost Trend
+- Overtime Cost Analysis
 
 ---
 
-## Tools & Technologies
+# Tools & Technologies
 
 - Microsoft Power BI
 - Microsoft Excel
 - Power Query
 - DAX
 - Data Modeling
-- KPI Reporting
+- Business Intelligence
 - Executive Reporting
+- KPI Reporting
 - Data Visualization
 
 ---
 
-## Files Included
+# Project Deliverables
 
-| File | Description |
-|---|---|
-| `Executive_Operations_Workforce_KPI_Dashboard.pbix` | Interactive Power BI dashboard |
-| `Executive_Operations_Workforce_KPI_Dashboard_Report.pdf` | PDF version of the dashboard report |
-| `Executive_Operations_Workforce_KPI_Dataset.xlsx` | Sample dataset used for demonstration |
-| `Executive_Operations_Workforce_KPI_Dashboard_Preview.png` | Dashboard preview image |
+This project package includes:
+
+- Interactive Power BI Dashboard
+- Executive PDF Report
+- Sample Excel Dataset
+- Project Documentation
 
 ---
 
-## Skills Demonstrated
+# Skills Demonstrated
 
 - Executive Reporting
 - KPI Reporting
 - Dashboard Design
 - Workforce Analytics
-- Data Visualization
 - Business Intelligence
 - Operational Reporting
 - Performance Analysis
+- Data Visualization
 - Management Reporting
 
 ---
 
-## Dashboard Preview
+# Data & Confidentiality Notice
+
+> **Disclaimer**
+>
+> This project has been created exclusively for portfolio and demonstration purposes.
+>
+> All datasets, values, employee information, company names, and business records shown in this project are independently created sample data.
+>
+> No confidential information, proprietary company data, internal documents, logos, or client information has been used.
+
+---
+
+# Author
+
+**Sudheer Ahmed Khattak**
+
+Project Operations & Business Support Professional
+
+- 🌐 Portfolio: https://sites.google.com/view/sudheer-ahmed
+- 💼 LinkedIn: https://www.linkedin.com/in/sudheer-ahmed-khattak
+
+---
+
+# Project Files
+
+The complete project package is available in the **Project_Files** folder.
 
 <p align="center">
-  <img src="Executive_Operations_Workforce_KPI_Dashboard_Preview.png" width="100%">
+
+<a href="./Project_Files">
+<strong>📥 OPEN PROJECT FILES</strong>
+</a>
+
 </p>
 
 ---
 
-## Data & Confidentiality Note
-
-> This portfolio project uses independently created sample data for demonstration purposes only.  
-> No original company data, confidential information, internal documents, employee records, logos, or proprietary materials have been used.
-
----
-
-## Author
-
-**Sudheer Ahmed Khattak**  
-Project Operations & Business Support Professional
-
-- [LinkedIn](https://www.linkedin.com/in/sudheer-ahmed-khattak)
-- [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
-
----
-
 <p align="center">
-  <a href="https://github.com/sudheer-ahmed-khattak">
-    <strong>⬅ Back to GitHub Portfolio</strong>
-  </a>
+
+<a href="https://github.com/sudheer-ahmed-khattak">
+<strong>⬅ Back to GitHub Portfolio</strong>
+</a>
+
 </p>
