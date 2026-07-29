@@ -124,9 +124,9 @@ This project package includes:
 
 Project Operations & Business Support Professional
 
-- 🌐 Portfolio: https://sites.google.com/view/sudheer-ahmed
-- 💼 LinkedIn: https://www.linkedin.com/in/sudheer-ahmed-khattak
-- 📧 Email: khattaksudheer@gmail.com
+- 🌐 [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+- 📧 [Email](mailto:khattaksudheer@gmail.com)
 
 ---
 
