@@ -1,56 +1,59 @@
 # Executive Operations Workforce KPI Dashboard
 
-## Overview
-
-This dashboard demonstrates workforce analytics and executive KPI reporting using Power BI. It provides management with a consolidated view of employee attendance, overtime, workforce distribution, and operational performance through interactive visualizations.
-
-> **Note:** All information shown in this project is synthetic/anonymized and created for portfolio demonstration purposes only.
+<p align="center">
+  <img src="Executive_Operations_Workforce_KPI_Dashboard_Preview.png" width="100%">
+</p>
 
 ---
 
-## Dashboard Preview
+## Executive Summary
 
-![Dashboard Preview](Executive_Operations_Workforce_KPI_Dashboard_Preview.png)
+A professional executive dashboard designed to monitor workforce performance, attendance, overtime, and key operational KPIs through interactive reporting and data visualization.
 
 ---
 
-## Features
+## Key Features
 
 - Executive KPI Dashboard
 - Workforce Analytics
 - Attendance Monitoring
 - Overtime Analysis
 - Department Performance
-- Site Distribution
-- Interactive Power BI Filters
-- Monthly Trend Analysis
+- Interactive Charts
+- Management Reporting
+
+---
+
+## Dashboard Preview
+
+The dashboard provides executives with a centralized view of workforce performance, enabling faster decision-making through visual analytics and operational insights.
 
 ---
 
 ## Files Included
 
-- Executive_Operations_Workforce_KPI_Dashboard.pbix
-- Executive_Operations_Workforce_KPI_Dataset.xlsx
-- Executive_Operations_Workforce_KPI_Dashboard_Report.pdf
-- Executive_Operations_Workforce_KPI_Dashboard_Preview.png
+- 📊 Dashboard File
+- 🖼 Dashboard Preview
+- 📄 Documentation
 
 ---
 
 ## Skills Demonstrated
 
-- Power BI
 - Microsoft Excel
-- Data Modeling
+- Power BI Concepts
 - KPI Reporting
-- Workforce Analytics
-- Dashboard Design
 - Executive Reporting
-- Management Reporting
+- Dashboard Design
+- Data Visualization
+- Business Analysis
 
 ---
 
-## Author
+<p align="center">
 
-**Sudheer Ahmed**
+### ← Back to Portfolio
 
-Executive Operations | Project Administration | PMO Support | Power BI | Advanced Excel
+**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
+
+</p>
