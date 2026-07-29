@@ -1,61 +1,149 @@
 # Document Control & Correspondence Command Center
 
 <p align="center">
-  <img src="Document_Control_Command_Center_Preview.png" width="100%">
+  <img src="Document_Control_Command_Center_Preview.png" width="100%" alt="Document Control & Correspondence Command Center Preview">
+</p>
+
+<p align="center">
+  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
+  Project Operations & Business Support Professional
 </p>
 
 ---
 
 ## Executive Summary
 
-A professional document control dashboard developed to manage project correspondence, document workflows, approvals, transmittals, and executive reporting through a centralized command center.
+The **Document Control & Correspondence Command Center** is an executive reporting dashboard developed to provide project leadership with complete visibility into document control activities, correspondence management, approvals, transmittals, document status, and operational KPIs.
 
-> Designed to provide complete visibility into document status, correspondence tracking, approval progress, and project communication for efficient document management.
+The dashboard centralizes document management information into a single executive view, enabling management to monitor correspondence workflows, improve document traceability, reduce processing delays, and support efficient decision-making.
 
 ---
 
-## Key Features
+## Business Objective
 
-- Document Control Dashboard
-- Correspondence Tracking
-- Transmittal Monitoring
-- Approval Workflow Tracking
-- Document Status Reporting
+This dashboard was developed to help management:
+
+- Monitor document control activities
+- Track correspondence status
+- Review approval workflows
+- Monitor overdue documents
+- Improve document traceability
+- Support project communication
+- Enhance operational visibility
+- Improve executive reporting
+
+---
+
+## Dashboard Highlights
+
+This dashboard includes:
+
+- Executive Document Control Overview
+- Correspondence Status Analysis
+- Active Item Monitoring
+- Department Exposure Analysis
+- Approval Workflow Monitoring
+- Priority Analysis
+- Executive KPI Cards
+- Document Performance Summary
+- Operational Dashboard
+- Executive Decision Support
+
+---
+
+## Key Performance Indicators (KPIs)
+
+The dashboard reports:
+
+- Total Correspondence
+- Active Items
+- Overdue Items
+- Closed Items
+- Total Documents
+- Department Exposure
+- Correspondence Status
+- Priority Distribution
+- Approval Performance
+- Executive Document KPIs
+
+---
+
+## Tools & Technologies
+
+- Microsoft Excel
+- Executive Dashboard Design
+- Advanced Excel
+- KPI Reporting
+- Document Control Reporting
 - Executive Reporting
-- Interactive Visual Analytics
+- Business Intelligence
+- Data Visualization
+- Operational Analytics
 
 ---
 
-## Dashboard Preview
+## Project Deliverables
 
-This dashboard provides management with a centralized overview of document control activities, correspondence progress, approval workflows, and reporting KPIs to improve project communication and document management.
+This project package includes:
 
----
-
-## Files Included
-
-- 📊 Dashboard File
-- 🖼 Dashboard Preview
-- 📄 Documentation
+- Interactive Executive Dashboard
+- Dashboard Preview
+- Project Documentation
 
 ---
 
 ## Skills Demonstrated
 
-- Microsoft Excel
-- Dashboard Design
 - Document Control
 - Correspondence Management
 - Executive Reporting
+- Dashboard Design
+- KPI Reporting
+- Business Intelligence
+- Operational Reporting
 - Data Visualization
-- Business Analysis
+- Workflow Monitoring
+- Management Reporting
+
+---
+
+## Data & Confidentiality Notice
+
+> **Disclaimer**
+>
+> This project has been created exclusively for portfolio and demonstration purposes.
+>
+> All datasets, values, correspondence records, document information, company references, project details, and business records presented in this dashboard are independently created sample data.
+>
+> No confidential company information, proprietary data, internal documents, document records, employee information, company logos, or client information have been used.
+
+---
+
+## Author
+
+**Sudheer Ahmed Khattak**
+
+Project Operations & Business Support Professional
+
+- 🌐 [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+- 📧 [Email](mailto:khattaksudheer@gmail.com)
+
+---
+
+## Project Downloads
+
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+
+| Project File | Description | Access |
+|---|---|---|
+| 📊 Executive Dashboard | Interactive Document Control Dashboard | [⬇️ Download Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.xlsx) |
+| 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png) |
 
 ---
 
 <p align="center">
-
-### ← Back to Portfolio
-
-**https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports**
-
+<a href="https://github.com/sudheer-ahmed-khattak">
+<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
+</a>
 </p>
