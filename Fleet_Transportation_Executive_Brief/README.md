@@ -126,23 +126,25 @@ Project Operations & Business Support Professional
 
 ---
 
+
 ## Project Downloads
 
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
 
 | Project File | Description | Access |
 |---|---|---|
-| 📊 Executive Dashboard | Interactive Fleet Transportation Dashboard | [⬇️ Download Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief.xlsx) |
-| 📄 Executive PDF Report | Printable dashboard report | [⬇️ Download PDF Report](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief.pdf) |
-| 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief.png) |
+| 📊 Excel Dashboard | Complete interactive Fleet Transportation dashboard in `.xlsx` format | [⬇️ Download Excel Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief.xlsx) |
+| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief.pdf) |
+| 🖥️ Dashboard Preview | High-resolution preview of the dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief.png) |
 
 ---
 
 <p align="center">
 
-📊 **[DOWNLOAD POWER BI DASHBOARD](Power_BI_Dashboard.pbix)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](Project_Report.pdf)** &nbsp; | &nbsp;
-📁 **[DOWNLOAD EXCEL DATASET](Sample_Dataset.xlsx)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief.xlsx)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief.pdf)** &nbsp; | &nbsp;
+🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief.png)**
 
 </p>
 
@@ -150,6 +152,6 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 <p align="center">
 <a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
+<strong>⬅️ BACK TO GITHUB PORTFOLIO</strong>
 </a>
 </p>
