@@ -149,11 +149,9 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 ---
 
-<br>
-
 <p align="center">
-
-⬅️ **[BACK TO GITHUB PORTFOLIO](https://github.com/sudheer-ahmed-khattak)**
-
+<a href="https://github.com/sudheer-ahmed-khattak">
+⬅️ BACK TO GITHUB PORTFOLIO
+</a>
 </p>
 
