@@ -130,25 +130,26 @@ Project Operations & Business Support Professional
 
 ## Project Downloads
 
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
 
 | Project File | Description | Access |
 |---|---|---|
-| 📊 Procurement Dashboard | Interactive Excel Procurement Dashboard | [⬇️ Download Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Final.xlsx) |
-| 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Preview.png) |
+| 📊 Excel Dashboard | Complete interactive Procurement dashboard in `.xlsx` format | [⬇️ Download Excel Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Final.xlsx) |
+| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center.pdf) |
+| 🖥️ Dashboard Preview | High-resolution preview of the dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Preview.png) |
 
 ---
 
 <p align="center">
 
-📊 **[DOWNLOAD POWER BI DASHBOARD](Power_BI_Dashboard.pbix)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](Project_Report.pdf)** &nbsp; | &nbsp;
-📁 **[DOWNLOAD EXCEL DATASET](Sample_Dataset.xlsx)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Final.xlsx)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center.pdf)** &nbsp; | &nbsp;
+🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Preview.png)**
 
 </p>
 
 ---
-
 
 <p align="center">
 <a href="https://github.com/sudheer-ahmed-khattak">
