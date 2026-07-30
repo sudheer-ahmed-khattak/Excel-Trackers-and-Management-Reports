@@ -127,24 +127,27 @@ Project Operations & Business Support Professional
 
 ---
 
+
 ## Project Downloads
 
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+Use the direct-download links below. Files that cannot be previewed by GitHub, such as Power BI files, will download directly to your device.
 
 | Project File | Description | Access |
 |---|---|---|
-| 📊 Power BI Dashboard | Interactive Fleet Operations Dashboard | [⬇️ Download Power BI Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard.pbix) |
-| 📄 Executive PDF Report | Printable dashboard report | [⬇️ Download PDF Report](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard.pdf) |
-| 📈 Excel Source File | Dashboard source workbook | [⬇️ Download Excel File](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard.xlsx) |
-| 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard_Preview.png) |
+| 📊 Power BI Dashboard | Complete interactive Fleet Operations dashboard in `.pbix` format | [⬇️ Download Power BI Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard.pbix) |
+| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard.pdf) |
+| 📈 Excel Source File | Complete Excel source workbook in `.xlsx` format | [⬇️ Download Excel File](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard.xlsx) |
+| 🖥️ Dashboard Preview | High-resolution preview of the dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard_Preview.png) |
 
 ---
 
 <p align="center">
 
-📊 **[DOWNLOAD POWER BI DASHBOARD](Power_BI_Dashboard.pbix)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](Project_Report.pdf)** &nbsp; | &nbsp;
-📁 **[DOWNLOAD EXCEL DATASET](Sample_Dataset.xlsx)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📊 **[DOWNLOAD POWER BI DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard.pbix)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard.pdf)** &nbsp; | &nbsp;
+📈 **[DOWNLOAD EXCEL FILE](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard.xlsx)** &nbsp; | &nbsp;
+🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard_Preview.png)**
 
 </p>
 
@@ -152,6 +155,6 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 <p align="center">
 <a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
+<strong>⬅️ BACK TO GITHUB PORTFOLIO</strong>
 </a>
 </p>
