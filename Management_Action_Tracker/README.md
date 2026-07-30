@@ -128,21 +128,22 @@ Project Operations & Business Support Professional
 
 ## Project Downloads
 
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
 
 | Project File | Description | Access |
 |---|---|---|
-| 📊 Executive Dashboard | Interactive Management Action Tracker | [⬇️ Download Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Management_Action_Tracker/Management_Action_Tracker.xlsx) |
-| 📄 Executive PDF Preview | Printable dashboard preview | [⬇️ Download PDF Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Management_Action_Tracker/Management_Action_Tracker_Preview.pdf) |
-| 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Management_Action_Tracker/Management_Action_Tracker_Preview.png) |
+| 📊 Excel Dashboard | Complete interactive Management Action Tracker in `.xlsx` format | [⬇️ Download Excel Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Management_Action_Tracker/Management_Action_Tracker.xlsx) |
+| 📄 Executive PDF Preview | PDF version of the dashboard for quick review | [⬇️ Download PDF Preview](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Management_Action_Tracker/Management_Action_Tracker_Preview.pdf) |
+| 🖥️ Dashboard Preview | High-resolution preview of the dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Management_Action_Tracker/Management_Action_Tracker_Preview.png) |
 
 ---
 
 <p align="center">
 
-📊 **[DOWNLOAD POWER BI DASHBOARD](Power_BI_Dashboard.pbix)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](Project_Report.pdf)** &nbsp; | &nbsp;
-📁 **[DOWNLOAD EXCEL DATASET](Sample_Dataset.xlsx)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Management_Action_Tracker/Management_Action_Tracker.xlsx)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF PREVIEW](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Management_Action_Tracker/Management_Action_Tracker_Preview.pdf)** &nbsp; | &nbsp;
+🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Management_Action_Tracker/Management_Action_Tracker_Preview.png)**
 
 </p>
 
@@ -150,6 +151,6 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 <p align="center">
 <a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
+<strong>⬅️ BACK TO GITHUB PORTFOLIO</strong>
 </a>
 </p>
