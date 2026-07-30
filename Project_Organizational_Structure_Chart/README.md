@@ -126,17 +126,29 @@ Project Operations & Business Support Professional
 
 ## Project Downloads
 
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
 
 | Project File | Description | Access |
 |---|---|---|
-| 📊 Organizational Structure Chart | Excel organizational hierarchy | [⬇️ Download Chart](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.xlsx) |
-| 🖼️ Chart Preview | High-resolution organizational chart preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png) |
+| 📊 Excel Structure Chart | Complete organizational structure chart in `.xlsx` format | [⬇️ Download Excel Chart](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.xlsx) |
+| 📄 Executive PDF Report | PDF version of the organizational chart for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.pdf) |
+| 🖥️ Structure Chart Preview | High-resolution preview of the organizational chart | [👁️ View Structure Chart](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png) |
+
+---
+
+<p align="center">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📊 **[DOWNLOAD EXCEL CHART](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.xlsx)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.pdf)** &nbsp; | &nbsp;
+🖥️ **[VIEW STRUCTURE CHART](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png)**
+
+</p>
 
 ---
 
 <p align="center">
 <a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
+<strong>⬅️ BACK TO GITHUB PORTFOLIO</strong>
 </a>
 </p>
