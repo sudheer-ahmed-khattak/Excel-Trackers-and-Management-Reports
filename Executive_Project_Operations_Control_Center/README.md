@@ -136,22 +136,18 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 | 📊 Excel Dashboard | Complete interactive dashboard in `.xlsx` format | [⬇️ Download Excel Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.xlsx) |
 | 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.pdf) |
 
-<br>
-
 <p align="center">
 
-🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png)** &nbsp;&nbsp; | &nbsp;&nbsp;
-📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.xlsx)** &nbsp;&nbsp; | &nbsp;&nbsp;
+📊 **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png)** &nbsp; | &nbsp;
+📗 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.xlsx)** &nbsp; | &nbsp;
 📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.pdf)**
 
 </p>
 
-<br>
-
 ---
 
 <p align="center">
-
-[![Back to GitHub Portfolio](https://img.shields.io/badge/⬅_BACK_TO_GITHUB_PORTFOLIO-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak)
-
+<a href="https://github.com/sudheer-ahmed-khattak">
+⬅️ BACK TO GITHUB PORTFOLIO
+</a>
 </p>
