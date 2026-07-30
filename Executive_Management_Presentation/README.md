@@ -133,20 +133,22 @@ Project Operations & Business Support Professional
 
 ## Project Downloads
 
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
 
 | Project File | Description | Access |
 |---|---|---|
-| 📽️ Executive Presentation | Professional PowerPoint Presentation | [⬇️ Download Presentation](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support_Portfolio.pptx) |
-| 📄 PDF Version | Printable presentation | [⬇️ Download PDF](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support.pdf) |
-| 🖼️ Presentation Preview | High-resolution presentation preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Board_Support_Preview.png) |
+| 📽️ PowerPoint Presentation | Complete executive presentation in `.pptx` format | [⬇️ Download PowerPoint Presentation](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support_Portfolio.pptx) |
+| 📄 Executive PDF Report | PDF version of the presentation for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support.pdf) |
+| 🖥️ Presentation Preview | High-resolution preview of the presentation | [👁️ View Presentation](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Board_Support_Preview.png) |
 
 ---
 
 <p align="center">
 
-📽️ **[DOWNLOAD POWERPOINT PRESENTATION](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support_Portfolio.pptx)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF PRESENTATION](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support.pdf)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📽️ **[DOWNLOAD POWERPOINT PRESENTATION](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support_Portfolio.pptx)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support.pdf)** &nbsp; | &nbsp;
+🖥️ **[VIEW PRESENTATION](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Board_Support_Preview.png)**
 
 </p>
 
