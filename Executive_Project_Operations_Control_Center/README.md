@@ -140,9 +140,9 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 <p align="center">
 
-🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png)** &nbsp; | &nbsp;
-📊 **[DOWNLOAD EXCEL FILE](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.xlsx)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.pdf)**
+🖥️ **[VIEW DASHBOARD](YOUR_LINK)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📊 **[DOWNLOAD EXCEL FILE](YOUR_LINK)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📄 **[DOWNLOAD PDF REPORT](YOUR_LINK)**
 
 </p>
 
