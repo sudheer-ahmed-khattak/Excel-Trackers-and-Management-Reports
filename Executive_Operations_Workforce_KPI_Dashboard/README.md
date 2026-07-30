@@ -20,12 +20,6 @@ The dashboard transforms structured sample data into clear and meaningful busine
 ---
 
 
-> **⚠️ Portfolio Demonstration Notice**
->
-> All dashboards, reports, documents, and datasets in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized data. No official company data or confidential information is included.
-
----
-
 ## Business Objective
 
 This dashboard was developed to help management:
@@ -117,15 +111,10 @@ This project package includes:
 
 ---
 
-## Data & Confidentiality Notice
 
-> **Disclaimer**
+> **⚠️ Portfolio Demonstration Notice**
 >
-> This project was created exclusively for portfolio and demonstration purposes.
->
-> All datasets, values, employee information, company references, and business records displayed in this project are independently created sample data.
->
-> No confidential company information, proprietary data, internal documents, employee records, company logos, or client information has been used.
+> All dashboards, reports, documents, and datasets in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized data. No official company data or confidential information is included.
 
 ---
 
