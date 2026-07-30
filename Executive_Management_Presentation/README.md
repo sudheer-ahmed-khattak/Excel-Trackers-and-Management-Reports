@@ -147,7 +147,8 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 📊 **[DOWNLOAD POWER BI DASHBOARD](Power_BI_Dashboard.pbix)** &nbsp; | &nbsp;
 📄 **[DOWNLOAD PDF REPORT](Project_Report.pdf)** &nbsp; | &nbsp;
-📁 **[DOWNLOAD EXCEL DATASET](Sample_Dataset.xlsx)**
+📁 **[DOWNLOAD EXCEL DATASET](Sample_Dataset.xlsx)** &nbsp; | &nbsp;
+📽️ **[DOWNLOAD POWERPOINT PRESENTATION](Project_Presentation.pptx)**
 
 </p>
 
