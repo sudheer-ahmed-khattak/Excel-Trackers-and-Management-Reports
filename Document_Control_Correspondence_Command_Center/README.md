@@ -128,20 +128,22 @@ Project Operations & Business Support Professional
 
 ## Project Downloads
 
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
 
 | Project File | Description | Access |
 |---|---|---|
-| 📊 Executive Dashboard | Interactive Document Control Dashboard | [⬇️ Download Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.xlsx) |
-| 📄 PDF Report | Printable dashboard report | [⬇️ Download PDF](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.pdf) |
-| 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png) |
+| 📊 Excel Dashboard | Complete interactive Document Control dashboard in `.xlsx` format | [⬇️ Download Excel Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.xlsx) |
+| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.pdf) |
+| 🖥️ Dashboard Preview | High-resolution preview of the dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png) |
 
 ---
 
 <p align="center">
 
-📊 **[DOWNLOAD EXCEL DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.xlsx)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.pdf)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.xlsx)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.pdf)** &nbsp; | &nbsp;
+🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png)**
 
 </p>
 
