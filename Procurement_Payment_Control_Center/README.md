@@ -110,15 +110,9 @@ This project package includes:
 
 ---
 
-## Data & Confidentiality Notice
-
-> **Disclaimer**
+> **⚠️ Portfolio Demonstration Notice**
 >
-> This project has been created exclusively for portfolio and demonstration purposes.
->
-> All datasets, values, vendor information, procurement records, financial figures, company references, and business data presented in this dashboard are independently created sample data.
->
-> No confidential company information, proprietary data, internal documents, supplier records, financial records, employee information, company logos, or client information has been used.
+> All dashboards, reports, documents, and datasets in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized data. No official company data or confidential information is included.
 
 ---
 
