@@ -151,7 +151,7 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 <p align="center">
 <a href="https://github.com/sudheer-ahmed-khattak">
-⬅️ BACK TO GITHUB PORTFOLIO
+<strong>⬅️ BACK TO GITHUB PORTFOLIO</strong>
 </a>
 </p>
 
