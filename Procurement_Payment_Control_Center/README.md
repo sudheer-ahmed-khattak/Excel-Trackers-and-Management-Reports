@@ -149,15 +149,6 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 ---
 
-<p align="center">
-
-📊 **[DOWNLOAD POWER BI DASHBOARD](Power_BI_Dashboard.pbix)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](Project_Report.pdf)** &nbsp; | &nbsp;
-📁 **[DOWNLOAD EXCEL DATASET](Sample_Dataset.xlsx)**
-
-</p>
-
----
 
 <p align="center">
 <a href="https://github.com/sudheer-ahmed-khattak">
