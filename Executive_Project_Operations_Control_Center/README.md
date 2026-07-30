@@ -128,28 +128,30 @@ Project Operations & Business Support Professional
 
 ## Project Downloads
 
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
 
 | Project File | Description | Access |
 |---|---|---|
-| 🖥️ Dashboard Preview | View the Executive Operations Dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png) |
-| 📊 Excel Dashboard | Interactive Excel Dashboard File | [⬇️ Download Excel File](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.xlsx) |
-| 📄 PDF Report | Printable Dashboard Report | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.pdf) |
+| 🖥️ Dashboard Preview | High-resolution preview of the executive dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png) |
+| 📊 Excel Dashboard | Complete interactive dashboard in `.xlsx` format | [⬇️ Download Excel Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.xlsx) |
+| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.pdf) |
 
----
+<br>
 
 <p align="center">
 
-🖥️ **[VIEW DASHBOARD](YOUR_LINK)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-📊 **[DOWNLOAD EXCEL FILE](YOUR_LINK)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-📄 **[DOWNLOAD PDF REPORT](YOUR_LINK)**
+🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png)** &nbsp;&nbsp; | &nbsp;&nbsp;
+📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.xlsx)** &nbsp;&nbsp; | &nbsp;&nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/refs/heads/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.pdf)**
 
 </p>
 
+<br>
+
 ---
 
 <p align="center">
-<a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
-</a>
+
+[![Back to GitHub Portfolio](https://img.shields.io/badge/⬅_BACK_TO_GITHUB_PORTFOLIO-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak)
+
 </p>
