@@ -140,9 +140,8 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 <p align="center">
 
-📊 **[DOWNLOAD POWER BI DASHBOARD](Power_BI_Dashboard.pbix)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](Project_Report.pdf)** &nbsp; | &nbsp;
-📁 **[DOWNLOAD EXCEL DATASET](Sample_Dataset.xlsx)**
+📊 **[DOWNLOAD POWER BI DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pbix)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pdf)**
 
 </p>
 
