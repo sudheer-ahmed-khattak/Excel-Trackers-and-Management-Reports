@@ -86,6 +86,7 @@ The dashboard reports:
 This project package includes:
 
 - Interactive Executive Dashboard
+- PDF Report
 - Dashboard Preview
 - Project Documentation
 
