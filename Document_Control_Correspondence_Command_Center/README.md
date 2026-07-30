@@ -88,6 +88,7 @@ This project package includes:
 
 - Interactive Executive Dashboard
 - Dashboard Preview
+- PDF Report
 - Project Documentation
 
 ---
@@ -132,15 +133,15 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 | Project File | Description | Access |
 |---|---|---|
 | 📊 Executive Dashboard | Interactive Document Control Dashboard | [⬇️ Download Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.xlsx) |
+| 📄 PDF Report | Printable dashboard report | [⬇️ Download PDF](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.pdf) |
 | 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png) |
 
 ---
 
 <p align="center">
 
-📊 **[DOWNLOAD POWER BI DASHBOARD](Power_BI_Dashboard.pbix)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](Project_Report.pdf)** &nbsp; | &nbsp;
-📁 **[DOWNLOAD EXCEL DATASET](Sample_Dataset.xlsx)**
+📊 **[DOWNLOAD EXCEL DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.xlsx)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.pdf)**
 
 </p>
 
