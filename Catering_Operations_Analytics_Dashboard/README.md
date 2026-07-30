@@ -128,20 +128,21 @@ Project Operations & Business Support Professional
 
 ## Project Downloads
 
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download.
+Use the direct-download links below. Files that cannot be previewed by GitHub, such as Power BI files, will download directly to your device.
 
 | Project File | Description | Access |
 |---|---|---|
-| 📊 Power BI Dashboard | Interactive Catering Analytics Dashboard | [⬇️ Download Power BI Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pbix) |
-| 📄 Executive PDF Report | Printable dashboard report | [⬇️ Download PDF Report](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pdf) |
-| 🖼️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard_Preview.png) |
+| 📊 Power BI Dashboard | Complete interactive Power BI dashboard in `.pbix` format | [⬇️ Download Power BI Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pbix) |
+| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pdf) |
+| 🖥️ Dashboard Preview | High-resolution preview of the dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard_Preview.png) |
 
 ---
 
 <p align="center">
 
-📊 **[DOWNLOAD POWER BI DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pbix)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pdf)**
+📊 **[DOWNLOAD POWER BI DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pbix)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard.pdf)** &nbsp; | &nbsp;
+🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard_Preview.png)**
 
 </p>
 
