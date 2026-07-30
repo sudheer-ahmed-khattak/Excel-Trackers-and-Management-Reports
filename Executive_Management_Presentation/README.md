@@ -137,7 +137,7 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 | Project File | Description | Access |
 |---|---|---|
-| 📑 Executive Presentation | Professional PowerPoint Presentation | [⬇️ Download Presentation](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support_Portfolio.pptx) |
+| 📽️ Executive Presentation | Professional PowerPoint Presentation | [⬇️ Download Presentation](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support_Portfolio.pptx) |
 | 📄 PDF Version | Printable presentation | [⬇️ Download PDF](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support.pdf) |
 | 🖼️ Presentation Preview | High-resolution presentation preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Board_Support_Preview.png) |
 
@@ -145,10 +145,8 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 
 <p align="center">
 
-📊 **[DOWNLOAD POWER BI DASHBOARD](Power_BI_Dashboard.pbix)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](Project_Report.pdf)** &nbsp; | &nbsp;
-📁 **[DOWNLOAD EXCEL DATASET](Sample_Dataset.xlsx)** &nbsp; | &nbsp;
-📽️ **[DOWNLOAD POWERPOINT PRESENTATION](Project_Presentation.pptx)**
+📽️ **[DOWNLOAD POWERPOINT PRESENTATION](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support_Portfolio.pptx)** &nbsp; | &nbsp;
+📄 **[DOWNLOAD PDF PRESENTATION](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Reporting_Board_Support.pdf)**
 
 </p>
 
