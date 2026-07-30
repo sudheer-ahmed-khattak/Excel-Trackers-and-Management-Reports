@@ -126,6 +126,7 @@ Project Operations & Business Support Professional
 
 ---
 
+
 ## Project Downloads
 
 Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
@@ -141,9 +142,9 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 <p align="center">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-📊 **[DOWNLOAD EXCEL DASHBOARD](YOUR_EXCEL_LINK)** &nbsp;&nbsp; | &nbsp;&nbsp;
-📄 **[DOWNLOAD PDF REPORT](YOUR_PDF_LINK)** &nbsp;&nbsp; | &nbsp;&nbsp;
-🖥️ **[VIEW DASHBOARD](YOUR_PREVIEW_LINK)**
+📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.xlsx)** &nbsp;&nbsp; | &nbsp;&nbsp;
+📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.pdf)** &nbsp;&nbsp; | &nbsp;&nbsp;
+🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png)**
 
 </p>
 
@@ -154,4 +155,3 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 <strong>⬅️ BACK TO GITHUB PORTFOLIO</strong>
 </a>
 </p>
-
