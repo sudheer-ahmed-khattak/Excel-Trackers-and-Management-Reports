@@ -19,6 +19,13 @@ The dashboard transforms structured sample data into clear and meaningful busine
 
 ---
 
+
+> **⚠️ Portfolio Demonstration Notice**
+>
+> All dashboards, reports, documents, and datasets in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized data. No official company data or confidential information is included.
+
+---
+
 ## Business Objective
 
 This dashboard was developed to help management:
