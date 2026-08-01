@@ -13,9 +13,9 @@
 
 ## Executive Summary
 
-The **Executive Water Consumption Analytics Dashboard** is an interactive Power BI solution developed to provide executive visibility into water consumption, delivery operations, transportation costs, contractor performance, supplier analysis, fleet utilization, and project-wise operational KPIs.
+The **Executive Water Consumption Analytics Dashboard** is an interactive Power BI reporting solution developed to provide executive visibility into water consumption, delivery operations, transportation costs, contractor performance, supplier analysis, fleet utilization, and project-wise operational KPIs.
 
-The dashboard consolidates operational data into a centralized management view, enabling leadership teams to monitor resource utilization, optimize transportation efficiency, evaluate contractor performance, and support data-driven operational decisions.
+The dashboard consolidates operational data into a centralized management view, enabling leadership teams to monitor resource utilization, optimize transportation efficiency, evaluate contractor performance, improve cost control, and support data-driven operational decision-making.
 
 ---
 
@@ -59,7 +59,7 @@ The dashboard reports:
 - Total Water Received (Liters)
 - Total Water Cost (SAR)
 - Total Water Delivery Trips
-- Vehicles Utilized
+- Active Vehicles Utilized
 - Water Consumption by Location
 - Trip Distribution by Project
 - Contractor Cost Analysis
@@ -72,6 +72,7 @@ The dashboard reports:
 ## Tools & Technologies
 
 - Microsoft Power BI
+- Microsoft Excel
 - Power Query
 - DAX
 - Data Modeling
@@ -88,6 +89,7 @@ The dashboard reports:
 This project package includes:
 
 - Interactive Power BI Dashboard (.pbix)
+- Source Data Workbook (.xlsx)
 - Dashboard Preview (.png)
 - Executive PDF Report
 
@@ -131,6 +133,7 @@ Project Operations & Business Support Professional
 | Project File | Description | Access |
 |---|---|---|
 | 📊 Power BI Dashboard | Interactive Power BI dashboard (.pbix) | [⬇️ Download Power BI Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard.pbix) |
+| 📗 Excel Data Workbook | Source data and supporting calculations (.xlsx) | [⬇️ Download Excel Workbook](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard.xlsx) |
 | 📄 Executive PDF Report | PDF version of the dashboard | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard_Report.pdf) |
 | 🖥️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard_Preview.png) |
 
@@ -139,6 +142,7 @@ Project Operations & Business Support Professional
 <p align="center">
 
 📊 **[DOWNLOAD POWER BI DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard.pbix)** &nbsp; | &nbsp;
+📗 **[DOWNLOAD EXCEL WORKBOOK](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard.xlsx)** &nbsp; | &nbsp;
 📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard_Report.pdf)** &nbsp; | &nbsp;
 🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard_Preview.png)**
 
