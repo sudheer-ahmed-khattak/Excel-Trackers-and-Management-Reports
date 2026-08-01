@@ -1,7 +1,7 @@
 # Project Organizational Structure Chart
 
 <p align="center">
-  <img src="Project_Organizational_Structure_Chart_Preview.png" width="100%" alt="Project Organizational Structure Chart Preview">
+  <img src="Project_Organizational_Structure_Chart_Preview.png?v=2" width="100%" alt="Project Organizational Structure Chart Preview">
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ## Executive Summary
 
-The **Project Organizational Structure Chart** is a professionally designed organizational hierarchy that provides management with a clear visual representation of project leadership, reporting relationships, functional departments, and organizational governance.
+The **Project Organizational Structure Chart** is a professionally designed project hierarchy developed to provide management with a clear visual representation of leadership roles, reporting relationships, functional departments, operational teams, and organizational governance.
 
-The structure is designed to improve communication, accountability, reporting clarity, and executive understanding of project organization while supporting effective management and decision-making.
+The chart supports management visibility by presenting complex reporting lines in a structured format, helping leadership understand team responsibilities, departmental coordination, project authority, and operational accountability.
 
 ---
 
@@ -23,14 +23,15 @@ The structure is designed to improve communication, accountability, reporting cl
 
 This organizational structure was developed to help management:
 
-- Visualize project hierarchy
-- Define reporting relationships
-- Clarify management responsibilities
+- Visualize the complete project hierarchy
+- Define direct reporting relationships
+- Clarify departmental responsibilities
 - Improve organizational communication
 - Support executive planning
-- Present departmental structure
-- Improve governance visibility
-- Enhance leadership reporting
+- Present operational team structures
+- Strengthen governance visibility
+- Improve leadership reporting
+- Support workforce and resource planning
 
 ---
 
@@ -38,16 +39,18 @@ This organizational structure was developed to help management:
 
 This structure includes:
 
-- Executive Leadership
-- Project Director Hierarchy
-- Department Structure
-- Functional Teams
-- Reporting Relationships
-- Organizational Governance
-- Management Levels
-- Operational Departments
-- Leadership Responsibilities
-- Project Organization Overview
+- Project Management Leadership
+- Tunnel Management Structure
+- Technical and Quality Departments
+- TBM Department
+- Segment Factory
+- Geotechnical Department
+- Ventilation Tunnel Department
+- Administrative Department
+- TBM-1 and TBM-2 Teams
+- Surface Support Teams
+- Electric and Mechanical Plant Teams
+- Functional and Direct Reporting Lines
 
 ---
 
@@ -55,16 +58,16 @@ This structure includes:
 
 The organizational chart demonstrates:
 
-- Executive Management
-- Department Heads
-- Functional Reporting Lines
-- Project Leadership
-- Team Structure
-- Organizational Hierarchy
-- Reporting Channels
-- Business Units
-- Operational Teams
-- Management Governance
+- Executive and Project Management
+- Departmental Reporting Structure
+- Tunnel and Surface Operations
+- Shift-Based Team Organization
+- TBM Operators and Support Roles
+- Technical and Plant Functions
+- Direct Reporting Lines
+- Functional Coordination Lines
+- Operational Support Teams
+- Project Governance Structure
 
 ---
 
@@ -87,7 +90,10 @@ The organizational chart demonstrates:
 This project package includes:
 
 - Organizational Structure Chart
-- Organizational Chart Preview
+- Excel Structure Chart
+- Executive PDF Report
+- High-Resolution Chart Preview
+- Project Documentation
 
 ---
 
@@ -108,7 +114,7 @@ This project package includes:
 
 > **⚠️ Portfolio Demonstration Notice**
 >
-> All dashboards, reports, documents, and datasets in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized data. No official company data or confidential information is included.
+> All dashboards, reports, documents, organizational structures, names, roles, and datasets presented in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized information. No official company data or confidential information is included.
 
 ---
 
@@ -132,16 +138,15 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 |---|---|---|
 | 📊 Excel Structure Chart | Complete organizational structure chart in `.xlsx` format | [⬇️ Download Excel Chart](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.xlsx) |
 | 📄 Executive PDF Report | PDF version of the organizational chart for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.pdf) |
-| 🖥️ Structure Chart Preview | High-resolution preview of the organizational chart | [👁️ View Structure Chart](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png) |
+| 🖥️ Structure Chart Preview | High-resolution preview of the organizational chart | [👁️ View Structure Chart](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png?v=2) |
 
 ---
 
 <p align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📊 **[DOWNLOAD EXCEL CHART](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.xlsx)** &nbsp; | &nbsp;
 📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.pdf)** &nbsp; | &nbsp;
-🖥️ **[VIEW STRUCTURE CHART](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png)**
+🖥️ **[VIEW STRUCTURE CHART](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png?v=2)**
 
 </p>
 
