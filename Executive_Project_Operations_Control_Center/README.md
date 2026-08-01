@@ -1,7 +1,7 @@
 # Executive Project Operations Control Center
 
 <p align="center">
-  <img src="Executive_Project_Operations_Control_Center_Preview.png" width="100%" alt="Executive Project Operations Control Center Preview">
+  <img src="Executive_Project_Operations_Control_Center_Preview.png?v=2" width="100%" alt="Executive Project Operations Control Center Preview">
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ## Executive Summary
 
-The **Executive Project Operations Control Center** is an executive reporting dashboard developed to provide senior management with a centralized overview of project operations, workforce performance, procurement activities, action tracking, and operational KPIs.
+The **Executive Project Operations Control Center** is an executive reporting dashboard designed to provide senior management with a centralized overview of project operations, workforce performance, procurement exposure, management actions, attendance performance, and operational KPIs.
 
-This dashboard consolidates multiple operational indicators into a single executive view, enabling project leadership to monitor progress, identify priorities, improve coordination, and support informed decision-making.
+The dashboard consolidates critical project information into a single management view, enabling project leadership to monitor performance, identify overdue actions, assess departmental exposure, review financial commitments, and support timely decision-making.
 
 ---
 
@@ -24,13 +24,14 @@ This dashboard consolidates multiple operational indicators into a single execut
 This dashboard was developed to help management:
 
 - Monitor overall project performance
-- Track operational progress
-- Review workforce statistics
-- Monitor procurement activities
-- Track management priorities
+- Track open, overdue, and priority actions
+- Review workforce and attendance performance
+- Monitor procurement commitments and paid values
+- Identify departmental operational exposure
+- Evaluate KPI achievement against targets
 - Improve executive reporting
-- Support faster decision-making
-- Enhance operational visibility
+- Support faster management decisions
+- Enhance project-wide visibility
 
 ---
 
@@ -38,15 +39,15 @@ This dashboard was developed to help management:
 
 This dashboard includes:
 
-- Executive Project Overview
-- Workforce Summary
-- Operational KPI Dashboard
-- Procurement Status Monitoring
-- Management Action Overview
-- Project Performance Indicators
-- Executive Scorecards
-- Interactive Dashboard Filters
-- Priority Monitoring
+- Executive Project Operations Overview
+- Management Action Tracking
+- Workforce and Attendance Summary
+- Procurement Commitment Monitoring
+- Departmental Performance Analysis
+- KPI Target and Achievement Scorecard
+- Priority and Overdue Action Monitoring
+- Executive Management Insights
+- Operational Exposure Reporting
 - Executive Decision Support
 
 ---
@@ -55,24 +56,28 @@ This dashboard includes:
 
 The dashboard reports:
 
+- Open and In-Progress Actions
+- Past-Due Actions
 - Active Employees
-- Workforce Distribution
-- Procurement Progress
-- Open Management Actions
-- Operational Performance
-- Project Progress
-- Department Performance
-- Executive KPI Summary
-- Priority Status
-- Management Scorecards
+- Average Attendance
+- Priority Actions
+- Outstanding Commitments
+- Paid Value
+- KPIs on Track
+- Overtime Exceptions
+- Departmental Action Load
+- Overdue Actions by Department
+- Outstanding Commitments by Department
+- KPI Target, Actual, and Achievement Status
 
 ---
 
 ## Tools & Technologies
 
 - Microsoft Excel
+- Advanced Excel Formulas
+- Conditional Formatting
 - Executive Dashboard Design
-- Advanced Excel
 - KPI Reporting
 - Business Intelligence
 - Executive Reporting
@@ -85,10 +90,10 @@ The dashboard reports:
 
 This project package includes:
 
-- Interactive Executive Dashboard
+- Interactive Executive Excel Dashboard
 - Excel Dashboard File
-- PDF Report
-- Dashboard Preview
+- Executive PDF Report
+- High-Resolution Dashboard Preview
 - Project Documentation
 
 ---
@@ -98,12 +103,14 @@ This project package includes:
 - Executive Reporting
 - Project Administration
 - PMO Support
+- Management Action Tracking
+- Workforce Reporting
+- Procurement Monitoring
 - Dashboard Design
 - KPI Reporting
 - Business Intelligence
 - Executive Decision Support
-- Operational Reporting
-- Data Analysis
+- Operational Analysis
 - Management Reporting
 
 ---
@@ -126,7 +133,6 @@ Project Operations & Business Support Professional
 
 ---
 
-
 ## Project Downloads
 
 Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
@@ -134,17 +140,16 @@ Use the direct-download links below. Files that cannot be previewed by GitHub wi
 | Project File | Description | Access |
 |---|---|---|
 | 📊 Excel Dashboard | Complete interactive Excel dashboard in `.xlsx` format | [⬇️ Download Excel Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.xlsx) |
-| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.pdf) |
-| 🖥️ Dashboard Preview | High-resolution preview of the executive dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png) |
+| 📄 Executive PDF Report | PDF version of the dashboard for quick executive review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.pdf) |
+| 🖥️ Dashboard Preview | High-resolution preview of the executive dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png?v=2) |
 
 <br>
 
 <p align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.xlsx)** &nbsp;&nbsp; | &nbsp;&nbsp;
 📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center.pdf)** &nbsp;&nbsp; | &nbsp;&nbsp;
-🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png)**
+🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png?v=2)**
 
 </p>
 
