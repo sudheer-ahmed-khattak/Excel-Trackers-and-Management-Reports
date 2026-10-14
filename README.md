@@ -91,33 +91,50 @@ This repository showcases **25 practical portfolio projects** built in **Excel, 
 
 ## 📁 Portfolio Projects
 
+### 🏛️ Executive Office & Board
+
 | # | Project | Description | Tools |
 |---:|---|---|---|
-| 1 | [Executive Operations Workforce KPI Dashboard](./Executive_Operations_Workforce_KPI_Dashboard) | Workforce attendance, overtime, department performance, site distribution, and management KPI analytics. | Power BI, Excel |
-| 2 | [Executive Project Operations Control Center](./Executive_Project_Operations_Control_Center) | Consolidated executive view of project performance, workforce, procurement, KPIs, and operational actions. | Power BI, Excel |
-| 3 | [Procurement Payment Control Center](./Procurement_Payment_Control_Center) | Procurement workflows, payment status, vendor exposure, aging, and outstanding commitments. | Power BI, Excel |
-| 4 | [Fleet Equipment Operations Dashboard](./Fleet_Equipment_Operations_Dashboard) | Equipment allocation, ownership, supplier analysis, project utilization, and operational readiness. | Power BI, Excel |
-| 5 | [Fleet Transportation Executive Brief](./Fleet_Transportation_Executive_Brief) | Fleet availability, transportation performance, vehicle utilization, and executive reporting. | Excel |
-| 6 | [Catering Operations Analytics Dashboard](./Catering_Operations_Analytics_Dashboard) | Meal distribution, consumption trends, service analysis, vendor performance, and operational KPIs. | Power BI, Excel |
-| 7 | [Management Action Tracker](./Management_Action_Tracker) | Action ownership, priorities, deadlines, completion status, accountability, and management follow-up. | Excel |
-| 8 | [Document Control & Correspondence Command Center](./Document_Control_Correspondence_Command_Center) | Incoming and outgoing correspondence, document status, approvals, deadlines, and workflow control. | Excel |
-| 9 | [Executive Management Presentation](./Executive_Management_Presentation) | Executive and board-level reporting, KPI communication, operational updates, and strategic presentation support. | PowerPoint |
-| 10 | [Project Organizational Structure Chart](./Project_Organizational_Structure_Chart) | Project hierarchy, governance structure, departmental reporting lines, and management visualization. | PowerPoint |
-| 11 | [Workforce Release Planning & EOS Dashboard](./Workforce_Release_Planning_EOS_Dashboard) | Release planning, End-of-Service liabilities, and workforce risk. | Excel |
-| 12 | [Executive Water Consumption Analytics](./Executive_Water_Consumption_Analytics_Dashboard) | Water supply, contractors, fleet utilization, and operating costs. | Excel |
-| 13 | [Rental Workforce Operations Dashboard](./Rental_Workforce_Operations_Dashboard) | Active workforce, transfers, releases, and headcount by location. | Excel |
-| 14 | [Friday Workforce Comparison Dashboard](./Friday_Workforce_Comparison_Dashboard) | Week-on-week manpower additions, reductions, and variance. | Excel |
-| 15 | [Executive Business Communication Toolkit](./Executive_Business_Communication_Toolkit) | Executive correspondence, approvals, and corporate email templates. | Templates |
-| 16 | [Workforce Extension Planning Dashboard](./Workforce_Extension_Planning_Dashboard) | Extension requirements, release schedules, and closeout planning. | Excel |
-| 17 | [Manpower Release & Extension Planner](./Manpower_Release_Extension_Planner) | Employee search with one-click UPDATE macro, release plan, and sponsorship view. | Excel, VBA |
-| 18 | [WIR Inspection Tracker](./WIR_Inspection_Tracker) | Daily work inspection requests, status by discipline, and overdue alerts. | Excel |
-| 19 | [Document Control Register](./Document_Control_Register) | Review codes, instant document search, and days-in-review tracking. | Excel |
-| 20 | [SQL Project Reporting](./SQL_Project_Reporting) | Relational database for manpower, POs and payments with 20 management report queries. | SQL |
-| 21 | [VIP Visit & TBM Breakthrough Ceremony Plan](./VIP_Visit_TBM_Ceremony_Plan) | Run-of-show, guest protocol tiers, security zones, convoy plan, hospitality, and risk plan. | PowerPoint |
-| 22 | [Executive Office Approval Workflows](./Executive_Office_Approval_Workflows) | PR/PO, IPC, contract, and client-letter flows through Oracle Fusion, DocuSign, and Aconex. | PowerPoint |
-| 23 | [EA Handover & Office Playbook](./EA_Handover_Office_Playbook) | Daily and weekly routines, meeting cycle, filing rules, drivers and travel, and handover sign-off. | PowerPoint |
-| 24 | [Board Secretariat & Resolutions Register](./Board_Secretariat_Resolutions_Register) | Board meetings, resolutions register, DocuSign circular resolutions, action log, and attendance. | Excel |
-| 25 | [Visitor & Site Access Management](./Visitor_Site_Access_SQL) | Inductions, HSE training, access cards, zone permissions, PPE, visits, and gate compliance queries. | SQL |
+| 1 | [Executive Project Operations Control Center](./Executive_Project_Operations_Control_Center) | Consolidated executive view of project performance, workforce, procurement, KPIs, and operational actions. | Power BI, Excel |
+| 2 | [Board Secretariat & Resolutions Register](./Board_Secretariat_Resolutions_Register) | Board meetings, resolutions register, DocuSign circular resolutions, action log, and attendance. | Excel |
+| 3 | [Management Action Tracker](./Management_Action_Tracker) | Action ownership, priorities, deadlines, completion status, accountability, and management follow-up. | Excel |
+| 4 | [Executive Business Communication Toolkit](./Executive_Business_Communication_Toolkit) | Executive correspondence, approvals, and corporate email templates. | Templates |
+| 5 | [Executive Office Approval Workflows](./Executive_Office_Approval_Workflows) | PR/PO, IPC, contract, and client-letter flows through Oracle Fusion, DocuSign, and Aconex. | PowerPoint |
+| 6 | [EA Handover & Office Playbook](./EA_Handover_Office_Playbook) | Daily and weekly routines, meeting cycle, filing rules, drivers and travel, and handover sign-off. | PowerPoint |
+| 7 | [Executive Management Presentation](./Executive_Management_Presentation) | Executive and board-level reporting, KPI communication, operational updates, and strategic presentation support. | PowerPoint |
+
+### 👷 Workforce & Manpower
+
+| # | Project | Description | Tools |
+|---:|---|---|---|
+| 8 | [Executive Operations Workforce KPI Dashboard](./Executive_Operations_Workforce_KPI_Dashboard) | Workforce attendance, overtime, department performance, site distribution, and management KPI analytics. | Power BI, Excel |
+| 9 | [Workforce Release Planning & EOS Dashboard](./Workforce_Release_Planning_EOS_Dashboard) | Release planning, End-of-Service liabilities, and workforce risk. | Excel |
+| 10 | [Workforce Extension Planning Dashboard](./Workforce_Extension_Planning_Dashboard) | Extension requirements, release schedules, and closeout planning. | Excel |
+| 11 | [Rental Workforce Operations Dashboard](./Rental_Workforce_Operations_Dashboard) | Active workforce, transfers, releases, and headcount by location. | Excel |
+| 12 | [Friday Workforce Comparison Dashboard](./Friday_Workforce_Comparison_Dashboard) | Week-on-week manpower additions, reductions, and variance. | Excel |
+| 13 | [Manpower Release & Extension Planner](./Manpower_Release_Extension_Planner) | Employee search with one-click UPDATE macro, release plan, and sponsorship view. | Excel, VBA |
+| 14 | [SQL Project Reporting](./SQL_Project_Reporting) | Relational database for manpower, POs and payments with 20 management report queries. | SQL |
+| 15 | [Project Organizational Structure Chart](./Project_Organizational_Structure_Chart) | Project hierarchy, governance structure, departmental reporting lines, and management visualization. | PowerPoint |
+
+### 🚚 Procurement, Logistics & Facilities
+
+| # | Project | Description | Tools |
+|---:|---|---|---|
+| 16 | [Procurement Payment Control Center](./Procurement_Payment_Control_Center) | Procurement workflows, payment status, vendor exposure, aging, and outstanding commitments. | Power BI, Excel |
+| 17 | [Fleet Equipment Operations Dashboard](./Fleet_Equipment_Operations_Dashboard) | Equipment allocation, ownership, supplier analysis, project utilization, and operational readiness. | Power BI, Excel |
+| 18 | [Catering Operations Analytics Dashboard](./Catering_Operations_Analytics_Dashboard) | Meal distribution, consumption trends, service analysis, vendor performance, and operational KPIs. | Power BI, Excel |
+| 19 | [Fleet Transportation Executive Brief](./Fleet_Transportation_Executive_Brief) | Fleet availability, transportation performance, vehicle utilization, and executive reporting. | Excel |
+| 20 | [Executive Water Consumption Analytics](./Executive_Water_Consumption_Analytics_Dashboard) | Water supply, contractors, fleet utilization, and operating costs. | Excel |
+
+### 📁 Documents, Site & Events
+
+| # | Project | Description | Tools |
+|---:|---|---|---|
+| 21 | [Document Control & Correspondence Command Center](./Document_Control_Correspondence_Command_Center) | Incoming and outgoing correspondence, document status, approvals, deadlines, and workflow control. | Excel |
+| 22 | [Document Control Register](./Document_Control_Register) | Review codes, instant document search, and days-in-review tracking. | Excel |
+| 23 | [WIR Inspection Tracker](./WIR_Inspection_Tracker) | Daily work inspection requests, status by discipline, and overdue alerts. | Excel |
+| 24 | [Visitor & Site Access Management](./Visitor_Site_Access_SQL) | Inductions, HSE training, access cards, zone permissions, PPE, visits, and gate compliance queries. | SQL |
+| 25 | [VIP Visit & TBM Breakthrough Ceremony Plan](./VIP_Visit_TBM_Ceremony_Plan) | Run-of-show, guest protocol tiers, security zones, convoy plan, hospitality, and risk plan. | PowerPoint |
 
 ---
 
