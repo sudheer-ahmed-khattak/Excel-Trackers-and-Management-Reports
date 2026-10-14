@@ -24,11 +24,11 @@
 
 ## 👤 Professional Profile
 
-I am a **Project Operations and Business Support Professional** with **11+ years of combined experience** across executive office coordination, board secretariat support, PMO-style project coordination, project administration, logistics, facilities, transportation, procurement follow-ups, pharmaceutical distribution, healthcare support services, and call center operations.
+I am a **Project Operations and Business Support Professional** with **11+ years of combined experience** across executive office coordination, board secretariat support, PMO-style project coordination, project administration, logistics, facilities, transportation, procurement follow-ups, pharmaceutical distribution, and US call centre operations.
 
-Most recently, I supported the **Project Director and Project Senior Manager** at **Al-Ayuni Limak Contracting Company** on a large-scale NEOM infrastructure project. My responsibilities included executive approvals, KPI and dashboard reporting, document workflows, management action follow-up, procurement and payment coordination, meeting support, stakeholder communication, and cross-functional operational coordination.
+As **Senior Executive Assistant** at **Al-Ayuni Limak Contracting Company**, I support the **Project Director and Project Senior Manager** on a large-scale NEOM infrastructure project. My responsibilities include executive approvals, KPI and dashboard reporting, document workflows, management action follow-up, procurement and payment coordination, meeting support, stakeholder communication, and cross-functional operational coordination.
 
-This repository showcases practical portfolio projects developed around executive reporting, KPI dashboards, project administration, document control, procurement, fleet operations, facilities, management tracking, and organizational reporting.
+This repository showcases **25 practical portfolio projects** built in **Excel, Power BI, SQL and PowerPoint** around executive reporting, KPI dashboards, board secretariat, project administration, document control, approvals, procurement, fleet operations, facilities, site access, events and management tracking.
 
 > **Data Notice:** All information used in these projects is synthetic, fictional, or anonymized and has been created exclusively for portfolio demonstration purposes.
 
@@ -54,6 +54,7 @@ This repository showcases practical portfolio projects developed around executiv
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-Reporting-336791?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/PowerPoint-Executive%20Presentations-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle%20Fusion-Workflow%20Support-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Aconex-Document%20Workflows-005B9A?style=for-the-badge">
@@ -68,7 +69,7 @@ This repository showcases practical portfolio projects developed around executiv
 | Project Coordination | Microsoft Teams, Outlook, Gmail, WhatsApp |
 | Procurement & Approvals | Oracle Cloud, Oracle Fusion, DocuSign |
 | Document Control | Aconex, SharePoint, Google Drive |
-| Reporting & Consolidation | Power BI, SQL-based Reporting, Excel Trackers |
+| Reporting & Consolidation | Power BI, SQL (SQLite), Excel Trackers & Macros |
 | Business Operations | ERP-Based Inventory, Billing & Distribution Systems |
 
 ---
@@ -83,7 +84,7 @@ This repository showcases practical portfolio projects developed around executiv
 - **Facilities & Camp Services:** Accommodation, catering, laundry, housekeeping, and operational service controls.
 - **Transportation & Fleet:** Vehicle allocation, drivers, routes, maintenance, workforce movement, and operational readiness.
 - **Logistics & Distribution:** Inventory, receiving, dispatch, suppliers, billing, ERP records, and branch operations.
-- **Healthcare Support Services:** Patient enquiries, duty coordination, payments, insurance, and supplier follow-up.
+- **Events & VIP Hospitality:** VIP visits, TBM breakthrough ceremonies, guest protocol, site access, inductions, and hospitality.
 - **Call Center Operations:** Lead generation, outbound sales, recruitment, quality monitoring, and commission-based payroll structures.
 
 ---
@@ -102,6 +103,21 @@ This repository showcases practical portfolio projects developed around executiv
 | 8 | [Document Control & Correspondence Command Center](./Document_Control_Correspondence_Command_Center) | Incoming and outgoing correspondence, document status, approvals, deadlines, and workflow control. | Excel |
 | 9 | [Executive Management Presentation](./Executive_Management_Presentation) | Executive and board-level reporting, KPI communication, operational updates, and strategic presentation support. | PowerPoint |
 | 10 | [Project Organizational Structure Chart](./Project_Organizational_Structure_Chart) | Project hierarchy, governance structure, departmental reporting lines, and management visualization. | PowerPoint |
+| 11 | [Workforce Release Planning & EOS Dashboard](./Workforce_Release_Planning_EOS_Dashboard) | Release planning, End-of-Service liabilities, and workforce risk. | Excel |
+| 12 | [Executive Water Consumption Analytics](./Executive_Water_Consumption_Analytics_Dashboard) | Water supply, contractors, fleet utilization, and operating costs. | Excel |
+| 13 | [Rental Workforce Operations Dashboard](./Rental_Workforce_Operations_Dashboard) | Active workforce, transfers, releases, and headcount by location. | Excel |
+| 14 | [Friday Workforce Comparison Dashboard](./Friday_Workforce_Comparison_Dashboard) | Week-on-week manpower additions, reductions, and variance. | Excel |
+| 15 | [Executive Business Communication Toolkit](./Executive_Business_Communication_Toolkit) | Executive correspondence, approvals, and corporate email templates. | Templates |
+| 16 | [Workforce Extension Planning Dashboard](./Workforce_Extension_Planning_Dashboard) | Extension requirements, release schedules, and closeout planning. | Excel |
+| 17 | [Manpower Release & Extension Planner](./Manpower_Release_Extension_Planner) | Employee search with one-click UPDATE macro, release plan, and sponsorship view. | Excel, VBA |
+| 18 | [WIR Inspection Tracker](./WIR_Inspection_Tracker) | Daily work inspection requests, status by discipline, and overdue alerts. | Excel |
+| 19 | [Document Control Register](./Document_Control_Register) | Review codes, instant document search, and days-in-review tracking. | Excel |
+| 20 | [SQL Project Reporting](./SQL_Project_Reporting) | Relational database for manpower, POs and payments with 20 management report queries. | SQL |
+| 21 | [VIP Visit & TBM Breakthrough Ceremony Plan](./VIP_Visit_TBM_Ceremony_Plan) | Run-of-show, guest protocol tiers, security zones, convoy plan, hospitality, and risk plan. | PowerPoint |
+| 22 | [Executive Office Approval Workflows](./Executive_Office_Approval_Workflows) | PR/PO, IPC, contract, and client-letter flows through Oracle Fusion, DocuSign, and Aconex. | PowerPoint |
+| 23 | [EA Handover & Office Playbook](./EA_Handover_Office_Playbook) | Daily and weekly routines, meeting cycle, filing rules, drivers and travel, and handover sign-off. | PowerPoint |
+| 24 | [Board Secretariat & Resolutions Register](./Board_Secretariat_Resolutions_Register) | Board meetings, resolutions register, DocuSign circular resolutions, action log, and attendance. | Excel |
+| 25 | [Visitor & Site Access Management](./Visitor_Site_Access_SQL) | Inductions, HSE training, access cards, zone permissions, PPE, visits, and gate compliance queries. | SQL |
 
 ---
 
@@ -112,7 +128,8 @@ This portfolio demonstrates my ability to:
 - Convert operational data into executive-level dashboards and reports.
 - Develop structured Excel trackers for project and management use.
 - Monitor KPIs, deadlines, approvals, actions, and operational performance.
-- Prepare management-ready Power BI dashboards and presentations.
+- Prepare management-ready Power BI dashboards and PowerPoint decks.
+- Build relational databases and SQL reports for management and compliance.
 - Support project leadership through clear and accurate reporting.
 - Design document control and correspondence monitoring systems.
 - Track procurement, payments, vendors, fleet, facilities, and workforce activities.
@@ -140,13 +157,12 @@ This portfolio demonstrates my ability to:
 - Inventory, billing, dispatch, supplier coordination, and ERP-based reporting.
 - Fleet, drivers, routes, fuel, payroll records, and team supervision.
 - US-based outbound call center ownership and operations.
-- Hospital administration and patient services support.
 
 ---
 
 ## 🎓 Education & Professional Development
 
-- Bachelor’s Degree
+- Bachelor’s in Commerce
 - Fire Warden Training – Level 2
 - Basics of International Human Resource Management
 - Basics of International HR Operations
@@ -187,7 +203,7 @@ This portfolio demonstrates my ability to:
 </p>
 
 **Sudheer Ahmed Khattak**  
-Project Operations & Business Support Professional
+Senior Executive Assistant | Board Secretariat & PMO Support
 
 - **Saudi Arabia:** +966 53 508 2404
 - **Pakistan:** +92 331 5701649
