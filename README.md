@@ -1,91 +1,38 @@
-# 📊 Excel Trackers & Management Reports
+<div align="center">
 
-<p align="center">
-  <strong>Senior Executive Assistant | Board Secretariat & PMO Support</strong>
-</p>
+<img src="assets/repo_banner.png" width="100%" alt="Excel Trackers & Management Reports" />
 
-<p align="center">
-  Executive Office Support | Board Secretary | Project Administration | Facilities | Transportation | Supply Chain
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12304A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923315701649)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak)
 
-<p align="center">
-  <a href="https://sites.google.com/view/sudheer-ahmed">
-    <img src="https://img.shields.io/badge/Professional%20Portfolio-View%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/sudheer-ahmed-khattak">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:khattaksudheer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+<br>
+
+> **Real executive-office problems, solved with working tools – every dashboard, tracker and deck here is built the way it is used on a Saudi giga-project.**
+
+</div>
 
 ---
 
-## 👤 Professional Profile
+## 👨‍💼 About This Portfolio
 
-I am a **Senior Executive Assistant** with **11+ years of combined experience** across executive office coordination, board secretariat support, PMO-style project coordination, project administration, logistics, facilities, transportation, procurement follow-ups, pharmaceutical distribution, and US call centre operations.
+I am **Sudheer Ahmed Khattak**, a **Senior Executive Assistant** with **11+ years** of experience running executive offices, board secretariats and large-scale operations across **Saudi Arabia and Pakistan**.
 
-As **Senior Executive Assistant** at **Al-Ayuni Limak Contracting Company**, I support the **Project Director and Project Senior Manager** on a large-scale NEOM infrastructure project. My responsibilities include executive approvals, KPI and dashboard reporting, document workflows, management action follow-up, procurement and payment coordination, meeting support, stakeholder communication, and cross-functional operational coordination.
+Today I am the right hand to the **Project Director and Project Senior Manager** on a NEOM infrastructure package with **Al-Ayuni Limak (LAJV)** – steering high-value approvals through **Oracle Fusion, DocuSign and Aconex**, keeping leadership ahead of every deadline, and turning scattered information into reports decision-makers trust.
 
-This repository showcases **25 practical portfolio projects** built in **Excel, Power BI, SQL and PowerPoint** around executive reporting, KPI dashboards, board secretariat, project administration, document control, approvals, procurement, fleet operations, facilities, site access, events and management tracking.
+This repository is the toolkit behind that work: **25 complete projects** across **Power BI, Excel, SQL and PowerPoint** – each with the working file, a PDF report and a preview, ready to download and explore.
 
-> **Data Notice:** All information used in these projects is synthetic, fictional, or anonymized and has been created exclusively for portfolio demonstration purposes.
+<p align="center"><img src="assets/repo_stats.png" width="100%" alt="25 projects · 5 Power BI · 17 Excel · 2 SQL · 4 PowerPoint · 25 PDF" /></p>
 
----
-
-## 🎯 Career Focus
-
-<p>
-  <img src="https://img.shields.io/badge/Executive%20Office-Coordination-1F4E78?style=flat-square">
-  <img src="https://img.shields.io/badge/Board-Secretariat-7A3E9D?style=flat-square">
-  <img src="https://img.shields.io/badge/Project-Administration-2E8B57?style=flat-square">
-  <img src="https://img.shields.io/badge/PMO-Support-005B96?style=flat-square">
-  <img src="https://img.shields.io/badge/Document-Control-C96A23?style=flat-square">
-  <img src="https://img.shields.io/badge/Facilities-Support-4B7F52?style=flat-square">
-  <img src="https://img.shields.io/badge/Transportation-Operations-3A6EA5?style=flat-square">
-  <img src="https://img.shields.io/badge/Procurement-Coordination-8A5A44?style=flat-square">
-</p>
+> 🔐 **Data notice:** every name, figure, company and transaction is fictional and rebuilt from scratch for this portfolio. No employer, client or supplier data is used.
 
 ---
 
-## 🛠️ Systems & Tools
+## 🧭 How to Use This Repository
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-Reporting-336791?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerPoint-Executive%20Presentations-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle%20Fusion-Workflow%20Support-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Aconex-Document%20Workflows-005B9A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DocuSign-Digital%20Approvals-FFCC22?style=for-the-badge&logo=docusign&logoColor=black">
-  <img src="https://img.shields.io/badge/SharePoint-Document%20Control-038387?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-Collaboration-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
-</p>
-
-| Category | Tools & Platforms |
-|---|---|
-| Executive Reporting | Excel, Power BI, PowerPoint, KPI Dashboards |
-| Project Coordination | Microsoft Teams, Outlook, Gmail, WhatsApp |
-| Procurement & Approvals | Oracle Cloud, Oracle Fusion, DocuSign |
-| Document Control | Aconex, SharePoint, Google Drive |
-| Reporting & Consolidation | Power BI, SQL (SQLite), Excel Trackers & Macros |
-| Business Operations | ERP-Based Inventory, Billing & Distribution Systems |
-
----
-
-## 💼 Core Expertise
-
-- **Executive & PMO Coordination:** Management priorities, action tracking, MOMs, correspondence, leadership follow-up, and deadline monitoring.
-- **Board & Governance Support:** Confidential board secretariat support, meeting scheduling, formal MOM preparation, and DocuSign-based review and sign-off coordination.
-- **Project Documentation:** Aconex correspondence, transmittals, drawings, official letters, review status, approvals, and document workflow monitoring.
-- **Procurement & Commercial Support:** PR/PO workflows, deliveries, IPCs, payments, contracts, invoices, and management approvals.
-- **Operations Reporting:** KPI reports, executive dashboards, Power BI reporting, Excel trackers, presentations, and cost monitoring.
-- **Facilities & Camp Services:** Accommodation, catering, laundry, housekeeping, and operational service controls.
-- **Transportation & Fleet:** Vehicle allocation, drivers, routes, maintenance, workforce movement, and operational readiness.
-- **Logistics & Distribution:** Inventory, receiving, dispatch, suppliers, billing, ERP records, and branch operations.
-- **Events & VIP Hospitality:** VIP visits, TBM breakthrough ceremonies, guest protocol, site access, inductions, and hospitality.
-- **Call Center Operations:** Lead generation, outbound sales, recruitment, quality monitoring, and commission-based payroll structures.
+<p align="center"><img src="assets/howto.png" width="100%" alt="Pick a project · Download the file · Read the PDF · Open Power BI / PNG" /></p>
 
 ---
 
@@ -322,108 +269,74 @@ This repository showcases **25 practical portfolio projects** built in **Excel, 
 
 ---
 
-## 📊 What This Repository Demonstrates
+## 🚀 What This Portfolio Proves
 
-This portfolio demonstrates my ability to:
-
-- Convert operational data into executive-level dashboards and reports.
-- Develop structured Excel trackers for project and management use.
-- Monitor KPIs, deadlines, approvals, actions, and operational performance.
-- Prepare management-ready Power BI dashboards and PowerPoint decks.
-- Build relational databases and SQL reports for management and compliance.
-- Support project leadership through clear and accurate reporting.
-- Design document control and correspondence monitoring systems.
-- Track procurement, payments, vendors, fleet, facilities, and workforce activities.
-- Present complex information in a concise, professional, and decision-focused format.
+<p align="center"><img src="assets/capabilities.png" width="100%" alt="Data to decisions · Self-running trackers · Nothing slips · Boardroom-ready reporting · SQL · Document control · Operations visibility · Confidential by design" /></p>
 
 ---
 
-## 🏗️ Professional Experience Highlights
+## 🎯 Roles I Am Built For
 
-### Al-Ayuni Limak Contracting Company — Saudi Arabia
-
-- Executive office support to the **Project Director and Project Senior Manager**.
-- Board and Deputy CEO secretariat support.
-- PMO-style coordination across departments, consultants, and subcontractors.
-- KPI reporting, Power BI dashboards, Excel trackers, and management presentations.
-- Oracle Cloud and Oracle Fusion approval workflow monitoring.
-- Aconex correspondence with NEOM for letters, drawings, and transmittals.
-- DocuSign coordination for contracts, IPCs, payment documents, and approvals.
-- Transportation and facilities support exposure for more than 4,000 personnel.
-- Procurement, payment, delivery, invoice, and action follow-up.
-
-### Pakistan Operations
-
-- Pharmaceutical distribution branch operations.
-- Inventory, billing, dispatch, supplier coordination, and ERP-based reporting.
-- Fleet, drivers, routes, fuel, payroll records, and team supervision.
-- US-based outbound call center ownership and operations.
+<p align="center"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/sudheer-ahmed-khattak/main/focus.png" width="100%" alt="Executive Office · Board & PMO · Logistics & Facilities · Reporting & Control" /></p>
 
 ---
 
-## 🎓 Education & Professional Development
+## 💼 Core Expertise
 
-- Bachelor’s in Commerce
-- Fire Warden Training – Level 2
-- Basics of International Human Resource Management
-- Basics of International HR Operations
-- Basics of Manpower Planning and Recruitment
-- Operations & Project Management Learning
-- Procurement & Supply Chain Management Learning
-- Transportation & Logistics Management Learning
-- Environment, Health & Safety Learning
+<p align="center"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/sudheer-ahmed-khattak/main/expertise.png" width="100%" alt="Core expertise" /></p>
 
 ---
 
-## 🌍 Languages & Mobility
-
-| Category | Details |
-|---|---|
-| English | Fluent |
-| Arabic | Intermediate |
-| Urdu | Native |
-| Pashto | Native |
-| Driving Licenses | Saudi Arabia & Pakistan |
-| Availability | Worldwide |
-| Preferred Markets | Saudi Arabia & Pakistan |
-
----
-
-## 📬 Contact
+## 🛠️ Systems & Tools
 
 <p align="center">
-  <a href="https://sites.google.com/view/sudheer-ahmed">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/sudheer-ahmed-khattak">
-    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:khattaksudheer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khattaksudheer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<img src="https://img.shields.io/badge/Microsoft_Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-Reporting-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/VBA-Automation-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerPoint-Executive_Reporting-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_Fusion-ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Aconex-Document_Control-005B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DocuSign-Digital_Approvals-FFCC22?style=for-the-badge&logo=docusign&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft_Teams-Collaboration-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+<img src="https://img.shields.io/badge/SharePoint-Collaboration-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
 </p>
 
-**Sudheer Ahmed Khattak**  
-Senior Executive Assistant | Board Secretariat & PMO Support
+---
 
-- **Saudi Arabia:** +966 53 508 2404
-- **Pakistan:** +92 331 5701649
-- **Portfolio:** [sites.google.com/view/sudheer-ahmed](https://sites.google.com/view/sudheer-ahmed)
-- **LinkedIn:** [linkedin.com/in/sudheer-ahmed-khattak](https://www.linkedin.com/in/sudheer-ahmed-khattak)
-- **Email:** [khattaksudheer@gmail.com](mailto:khattaksudheer@gmail.com)
+## 🏗️ Career Highlights
+
+<p align="center"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/sudheer-ahmed-khattak/main/highlights.png" width="100%" alt="Career highlights" /></p>
 
 ---
 
-## 🔐 Data Privacy
+## 🎓 Education, Languages & Mobility
 
-All names, figures, companies, transactions, locations, and operational information presented in this repository are synthetic, fictional, or anonymized.
-
-No confidential employer, employee, client, supplier, commercial, or project information has been published.
+<p align="center"><img src="assets/credentials.png" width="100%" alt="Bachelor's in Commerce, Fire Warden Level 2, HR and operations certifications · English fluent, Arabic intermediate, Urdu and Pashto native" /></p>
 
 ---
 
-## 📄 Usage Notice
+## 📬 Let's Work Together
 
-© 2026 Sudheer Ahmed Khattak. This repository is intended for professional portfolio and demonstration purposes.
+<div align="center">
 
-The contents may be viewed and downloaded for evaluation and learning purposes. Please do not redistribute, republish, modify, or present this work as your own without prior permission from the author.
+**Open to Senior Executive Assistant, Board Secretary, PMO Support, Project Administration and Logistics & Facilities roles – worldwide.**
+
+<br>
+
+[![Call](https://img.shields.io/badge/Call-%2B966_53_508_2404-12304A?style=for-the-badge)](tel:+966535082404)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92_331_5701649-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923315701649)
+[![Email](https://img.shields.io/badge/Email-khattaksudheer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sudheer--ahmed--khattak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+
+<br>
+
+<sub>© 2026 Sudheer Ahmed Khattak · All data in this repository is fictional and for portfolio demonstration only.<br>You are welcome to view and download these projects for evaluation and learning. Please do not republish or present this work as your own without permission.</sub>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/sudheer-ahmed-khattak/main/footer.png" width="100%" />
+
+</div>
