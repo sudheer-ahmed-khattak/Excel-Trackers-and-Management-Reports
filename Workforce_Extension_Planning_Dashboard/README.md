@@ -1,155 +1,79 @@
-# Workforce Extension Planning Dashboard
+<div align="center">
 
-<p align="center">
-  <img src="Workforce_Extension_Planning_Dashboard_Preview.png" width="100%" alt="Workforce Extension Planning Dashboard Preview">
+<img src="header.png" width="100%" alt="Workforce Extension Planning Dashboard" />
+
+<br>
+
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard.xlsx"><img src="https://img.shields.io/badge/DOWNLOAD_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="DOWNLOAD EXCEL" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard.pdf"><img src="https://img.shields.io/badge/OPEN_PDF_REPORT-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="OPEN PDF REPORT" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard_Preview.png"><img src="https://img.shields.io/badge/VIEW_PNG-6E40C9?style=for-the-badge&logo=files&logoColor=white" alt="VIEW PNG" /></a>
+
+<br><br>
+
+<sub>👷 <b>Workforce & Manpower</b> · Project 10 of 25 · <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports">⬅ Back to all projects</a></sub>
+
+</div>
+
+---
+
+## 🎯 The Challenge
+
+As a project winds down, every department asks to extend people. Without a structured view, extensions are approved one by one and closeout drifts.
+
+## ✅ The Solution
+
+An Excel planning dashboard that groups extension requests by release date, department and required work, and makes pending management decisions visible.
+
+<p align="center"><img src="Workforce_Extension_Planning_Dashboard_Preview.png" width="100%" alt="Workforce Extension Planning Dashboard preview" /></p>
+
+## 📦 What's Inside
+
+| Sheet / Page | What it does |
+|---|---|
+| **Synthetic Workforce Data** | Employee list with department, work group and requested dates |
+| **Extension Plan** | Detailed plan by release date and required activity |
+| **Report** | Dashboard: employees by release date and department, pending decisions |
+
+## ⭐ Key Features
+
+- ✅ Employees by release date and by department
+- ✅ Required work activities linked to each extension
+- ✅ Pending management decisions surfaced clearly
+- ✅ Supports demobilisation and closeout planning
+- ✅ One-page report for the approval meeting
+
+## 🛠️ Built With
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/PDF_Report-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
-  Project Operations & Business Support Professional
+## 💼 Skills Demonstrated
+
+<p>
+<img src="https://img.shields.io/badge/Workforce_Planning-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Closeout_Planning-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Management_Reporting-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Excel_Dashboards-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Decision_Support-2BA58F?style=flat-square" />
 </p>
 
----
+## 📥 How to Use
 
-## Executive Summary
+1. Click **DOWNLOAD EXCEL** and open the workbook
+2. Enter or update records in the register sheets – formulas and charts refresh automatically
+3. Or click **OPEN PDF REPORT** for a print-ready view of the dashboard
 
-The **Workforce Extension Planning Dashboard** is an executive workforce planning solution developed to provide management with a clear and centralized overview of employee extension requirements, release schedules, departmental workforce distribution, required work activities, and management decision points.
-
-The dashboard transforms workforce planning data into structured management insights, enabling project leadership to monitor employee release timelines, review departmental requirements, identify pending decisions, and support effective workforce demobilization and closeout planning.
-
----
-
-## Business Objective
-
-This dashboard was developed to help management:
-
-- Monitor workforce extension requirements
-- Review employee release schedules
-- Track departmental workforce distribution
-- Identify management decisions pending
-- Monitor work groups and required activities
-- Support project closeout planning
-- Improve workforce visibility
-- Support executive decision-making
+> 🔐 **Demo data:** every name, company, figure and reference in this project is fictional and created for portfolio purposes only.
 
 ---
 
-## Dashboard Highlights
+<div align="center">
 
-This dashboard includes:
+**Sudheer Ahmed Khattak**<br>
+<sub>Senior Executive Assistant · Board Secretariat & PMO Support · 11+ years · Saudi Arabia & Pakistan</sub>
 
-- Workforce Extension Overview
-- Total Employee Summary
-- Release Date Summary
-- Department Summary
-- Detailed Release Plan
-- Required Work Analysis
-- Employees by Release Date
-- Employees by Department
-- Executive KPI Cards
-- Management Decision Visibility
+<br>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12304A?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
+[![GitHub](https://img.shields.io/badge/All_25_Projects-Browse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports)
 
-## Key Performance Indicators (KPIs)
-
-The dashboard reports:
-
-- Total Employees
-- Total Release Dates
-- Total Departments
-- Total Work Groups
-- Employees by Release Date
-- Employees by Department
-- Departmental Workforce Distribution
-- Pending Management Decisions
-- Required Work Activities
-- Workforce Extension Status
-
----
-
-## Tools & Technologies
-
-- Microsoft Excel
-- Executive Dashboard Design
-- Advanced Excel
-- Workforce Planning
-- KPI Reporting
-- Management Reporting
-- Project Closeout Planning
-- Data Visualization
-- Business Intelligence
-
----
-
-## Project Deliverables
-
-This project package includes:
-
-- Interactive Workforce Extension Dashboard
-- Executive PDF Report
-- Dashboard Preview
-- Project Documentation
-
----
-
-## Skills Demonstrated
-
-- Workforce Planning
-- Executive Reporting
-- Dashboard Design
-- KPI Reporting
-- Departmental Analysis
-- Release Planning
-- Project Closeout Support
-- Management Reporting
-- Data Visualization
-- Business Intelligence
-
----
-
-> **⚠️ Portfolio Demonstration Notice**
->
-> All dashboards, reports, documents, employee records, organizations, figures, and datasets in this repository are created solely for professional portfolio demonstration purposes using independently developed synthetic or anonymized data. No official company data or confidential information is included.
-
----
-
-## Author
-
-**Sudheer Ahmed Khattak**
-
-Project Operations & Business Support Professional
-
-- 🌐 [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sudheer-ahmed-khattak)
-- 📧 [Email](mailto:khattaksudheer@gmail.com)
-
----
-
-## Project Downloads
-
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
-
-| Project File | Description | Access |
-|---|---|---|
-| 📊 Excel Dashboard | Complete interactive Workforce Extension Planning Dashboard in `.xlsx` format | [⬇️ Download Excel Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard.xlsx) |
-| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard.pdf) |
-| 🖥️ Dashboard Preview | High-resolution preview of the dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard_Preview.png) |
-
----
-
-<p align="center">
-
-📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard.xlsx)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard.pdf)** &nbsp; | &nbsp;
-🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard_Preview.png)**
-
-</p>
-
----
-
-<p align="center">
-<a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅️ BACK TO GITHUB PORTFOLIO</strong>
-</a>
-</p>
+</div>

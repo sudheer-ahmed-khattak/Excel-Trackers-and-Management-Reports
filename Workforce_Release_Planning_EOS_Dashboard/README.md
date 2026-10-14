@@ -1,158 +1,78 @@
-# Workforce Release Planning & EOS Dashboard
+<div align="center">
 
-<p align="center">
-  <img src="Workforce_Release_Planning_EOS_Dashboard_Preview.png" width="100%" alt="Workforce Release Planning & EOS Dashboard Preview">
+<img src="header.png" width="100%" alt="Workforce Release Planning & EOS Dashboard" />
+
+<br>
+
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Workforce_Release_Planning_EOS_Dashboard/Workforce_Release_Planning_EOS_Dashboard.xlsx"><img src="https://img.shields.io/badge/DOWNLOAD_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="DOWNLOAD EXCEL" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Workforce_Release_Planning_EOS_Dashboard/Workforce_Release_Planning_EOS_Dashboard_Report.pdf"><img src="https://img.shields.io/badge/OPEN_PDF_REPORT-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="OPEN PDF REPORT" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Workforce_Release_Planning_EOS_Dashboard/Workforce_Release_Planning_EOS_Dashboard_Preview.png"><img src="https://img.shields.io/badge/VIEW_PNG-6E40C9?style=for-the-badge&logo=files&logoColor=white" alt="VIEW PNG" /></a>
+
+<br><br>
+
+<sub>👷 <b>Workforce & Manpower</b> · Project 09 of 25 · <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports">⬅ Back to all projects</a></sub>
+
+</div>
+
+---
+
+## 🎯 The Challenge
+
+Demobilisation decisions carry real money: every release triggers an End-of-Service settlement. Leadership needed to see the liability and the risk before approving the plan.
+
+## ✅ The Solution
+
+An Excel dashboard that pairs the release plan with EOS liability, sponsorship exposure, department headcount and a workforce risk profile.
+
+<p align="center"><img src="Workforce_Release_Planning_EOS_Dashboard_Preview.png" width="100%" alt="Workforce Release Planning & EOS Dashboard preview" /></p>
+
+## 📦 What's Inside
+
+| Sheet / Page | What it does |
+|---|---|
+| **KPI Report** | Total and average EOS liability, risk levels, department, sponsorship and nationality views |
+| **Release Plan** | Employee-level plan with release dates and liability |
+
+## ⭐ Key Features
+
+- ✅ Total and average EOS liability calculated automatically
+- ✅ High / medium risk employees highlighted
+- ✅ Liability by department for budget owners
+- ✅ Sponsorship and nationality distribution
+- ✅ Built for demobilisation and closeout planning
+
+## 🛠️ Built With
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/PDF_Report-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
-  Project Operations & Business Support Professional
+## 💼 Skills Demonstrated
+
+<p>
+<img src="https://img.shields.io/badge/Workforce_Planning-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/EOS_Liability-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Financial_Visibility-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Excel_Dashboards-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Risk_Reporting-2BA58F?style=flat-square" />
 </p>
 
----
+## 📥 How to Use
 
-## Executive Summary
+1. Click **DOWNLOAD EXCEL** and open the workbook
+2. Enter or update records in the register sheets – formulas and charts refresh automatically
+3. Or click **OPEN PDF REPORT** for a print-ready view of the dashboard
 
-The **Workforce Release Planning & EOS Dashboard** is an executive workforce planning solution developed to help management monitor employee release plans, End-of-Service (EOS) liabilities, sponsorship exposure, departmental workforce distribution, and workforce risk indicators through a centralized executive dashboard.
-
-The dashboard transforms workforce data into meaningful KPIs and executive reports, enabling management to evaluate financial obligations, optimize workforce planning, monitor departmental exposure, and support strategic decision-making.
-
----
-
-## Business Objective
-
-This dashboard was developed to help management:
-
-- Monitor workforce release plans
-- Track End-of-Service (EOS) liabilities
-- Analyze departmental workforce distribution
-- Monitor sponsorship exposure
-- Identify workforce risk levels
-- Review employee release status
-- Support manpower planning
-- Improve financial visibility
-- Enable executive decision-making
+> 🔐 **Demo data:** every name, company, figure and reference in this project is fictional and created for portfolio purposes only.
 
 ---
 
-## Dashboard Highlights
+<div align="center">
 
-This dashboard includes:
+**Sudheer Ahmed Khattak**<br>
+<sub>Senior Executive Assistant · Board Secretariat & PMO Support · 11+ years · Saudi Arabia & Pakistan</sub>
 
-- Executive Workforce Overview
-- Release Planning Dashboard
-- EOS Liability Analysis
-- Departmental Workforce Summary
-- Sponsorship Distribution
-- Workforce Risk Profile
-- Nationality Distribution
-- Executive KPI Cards
-- Workforce Exposure Analysis
-- Interactive Dashboard Filters
+<br>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12304A?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
+[![GitHub](https://img.shields.io/badge/All_25_Projects-Browse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports)
 
-## Key Performance Indicators (KPIs)
-
-The dashboard reports:
-
-- Total Employees
-- Total EOS Liability
-- Average EOS Liability
-- High Risk Employees
-- Medium Risk Employees
-- Sponsorship Distribution
-- Department Headcount
-- EOS Liability by Department
-- Nationality Distribution
-- Planned Employee Releases
-- Workforce Exposure
-- Executive Workforce Summary
-
----
-
-## Tools & Technologies
-
-- Microsoft Excel
-- Advanced Excel Formulas
-- Executive Dashboard Design
-- KPI Reporting
-- Workforce Analytics
-- EOS Liability Reporting
-- Executive Reporting
-- Business Intelligence
-- Data Visualization
-
----
-
-## Project Deliverables
-
-This project package includes:
-
-- Interactive Workforce Dashboard
-- Dashboard Preview
-- Project Documentation
-
----
-
-## Skills Demonstrated
-
-- Workforce Analytics
-- Executive Reporting
-- Dashboard Design
-- KPI Reporting
-- EOS Liability Analysis
-- Workforce Planning
-- Department Performance Analysis
-- Business Intelligence
-- Data Visualization
-- Management Reporting
-
----
-
-> **⚠️ Portfolio Demonstration Notice**
->
-> All dashboards, reports, documents, and datasets in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized data. No official company data or confidential information is included.
-
----
-
-## Author
-
-**Sudheer Ahmed Khattak**
-
-Project Operations & Business Support Professional
-
-- 🌐 [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sudheer-ahmed-khattak)
-- 📧 [Email](mailto:khattaksudheer@gmail.com)
-
----
-
-## Project Downloads
-
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
-
-| Project File | Description | Access |
-|---|---|---|
-| 📊 Excel Dashboard | Complete interactive Workforce Release Planning & EOS Dashboard in `.xlsx` format | [⬇️ Download Excel Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Workforce_Release_Planning_EOS_Dashboard/Workforce_Release_Planning_EOS_Dashboard.xlsx) |
-| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Workforce_Release_Planning_EOS_Dashboard/Workforce_Release_Planning_EOS_Dashboard_Report.pdf) |
-| 🖥️ Dashboard Preview | High-resolution preview of the dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Workforce_Release_Planning_EOS_Dashboard/Workforce_Release_Planning_EOS_Dashboard_Preview.png) |
-
----
-
-<p align="center">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Workforce_Release_Planning_EOS_Dashboard/Workforce_Release_Planning_EOS_Dashboard.xlsx)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Workforce_Release_Planning_EOS_Dashboard/Workforce_Release_Planning_EOS_Dashboard_Report.pdf)** &nbsp; | &nbsp;
-🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Workforce_Release_Planning_EOS_Dashboard/Workforce_Release_Planning_EOS_Dashboard_Preview.png)**
-
-</p>
-
----
-
-<p align="center">
-<a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
-</a>
-</p>
+</div>

@@ -1,156 +1,80 @@
-# Document Control & Correspondence Command Center
+<div align="center">
 
-<p align="center">
-  <img src="Document_Control_Command_Center_Preview.png" width="100%" alt="Document Control & Correspondence Command Center Preview">
+<img src="header.png" width="100%" alt="Document Control & Correspondence Command Center" />
+
+<br>
+
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.xlsx"><img src="https://img.shields.io/badge/DOWNLOAD_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="DOWNLOAD EXCEL" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.pdf"><img src="https://img.shields.io/badge/OPEN_PDF_REPORT-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="OPEN PDF REPORT" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png"><img src="https://img.shields.io/badge/VIEW_PNG-6E40C9?style=for-the-badge&logo=files&logoColor=white" alt="VIEW PNG" /></a>
+
+<br><br>
+
+<sub>📁 <b>Documents, Site & Events</b> · Project 20 of 25 · <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports">⬅ Back to all projects</a></sub>
+
+</div>
+
+---
+
+## 🎯 The Challenge
+
+Client correspondence and project documents carry contractual deadlines. A missed reply or a document stuck in review can cost the project time and money.
+
+## ✅ The Solution
+
+An Excel command center with correspondence and document registers feeding an executive dashboard of active, overdue and closed items, priorities and departmental exposure.
+
+<p align="center"><img src="Document_Control_Command_Center_Preview.png" width="100%" alt="Document Control & Correspondence Command Center preview" /></p>
+
+## 📦 What's Inside
+
+| Sheet / Page | What it does |
+|---|---|
+| **Executive Dashboard** | Totals, active, overdue (>14 days), closed, status, priority and active items by department |
+| **Correspondence Register** | Every letter with reference, dates, owner, priority and status |
+| **Document Register** | Documents with review status and revision |
+| **Lists** | Drop-down sources |
+
+## ⭐ Key Features
+
+- ✅ Overdue correspondence flagged automatically
+- ✅ Active items by department for accountability
+- ✅ Priority and status split for the daily brief
+- ✅ Correspondence and documents in one workbook
+- ✅ Management notes section for key actions
+
+## 🛠️ Built With
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/PDF_Report-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
-  Project Operations & Business Support Professional
+## 💼 Skills Demonstrated
+
+<p>
+<img src="https://img.shields.io/badge/Document_Control-D9478F?style=flat-square" /> <img src="https://img.shields.io/badge/Correspondence_Management-D9478F?style=flat-square" /> <img src="https://img.shields.io/badge/Aconex_Workflows-D9478F?style=flat-square" /> <img src="https://img.shields.io/badge/Executive_Reporting-D9478F?style=flat-square" /> <img src="https://img.shields.io/badge/Excel_Dashboards-D9478F?style=flat-square" />
 </p>
 
----
+## 📥 How to Use
 
-## Executive Summary
+1. Click **DOWNLOAD EXCEL** and open the workbook
+2. Enter or update records in the register sheets – formulas and charts refresh automatically
+3. Or click **OPEN PDF REPORT** for a print-ready view of the dashboard
 
-The **Document Control & Correspondence Command Center** is an executive reporting dashboard developed to provide project leadership with complete visibility into document control activities, correspondence management, approvals, transmittals, document status, and operational KPIs.
-
-The dashboard centralizes document management information into a single executive view, enabling management to monitor correspondence workflows, improve document traceability, reduce processing delays, and support efficient decision-making.
-
----
-
-## Business Objective
-
-This dashboard was developed to help management:
-
-- Monitor document control activities
-- Track correspondence status
-- Review approval workflows
-- Monitor overdue documents
-- Improve document traceability
-- Support project communication
-- Enhance operational visibility
-- Improve executive reporting
+> 🔐 **Demo data:** every name, company, figure and reference in this project is fictional and created for portfolio purposes only.
 
 ---
 
-## Dashboard Highlights
+<div align="center">
 
-This dashboard includes:
+**Sudheer Ahmed Khattak**<br>
+<sub>Senior Executive Assistant · Board Secretariat & PMO Support · 11+ years · Saudi Arabia & Pakistan</sub>
 
-- Executive Document Control Overview
-- Correspondence Status Analysis
-- Active Item Monitoring
-- Department Exposure Analysis
-- Approval Workflow Monitoring
-- Priority Analysis
-- Executive KPI Cards
-- Document Performance Summary
-- Operational Dashboard
-- Executive Decision Support
+<br>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12304A?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
+[![GitHub](https://img.shields.io/badge/All_25_Projects-Browse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports)
 
-## Key Performance Indicators (KPIs)
-
-The dashboard reports:
-
-- Total Correspondence
-- Active Items
-- Overdue Items
-- Closed Items
-- Total Documents
-- Department Exposure
-- Correspondence Status
-- Priority Distribution
-- Approval Performance
-- Executive Document KPIs
-
----
-
-## Tools & Technologies
-
-- Microsoft Excel
-- Executive Dashboard Design
-- Advanced Excel
-- KPI Reporting
-- Document Control Reporting
-- Executive Reporting
-- Business Intelligence
-- Data Visualization
-- Operational Analytics
-
----
-
-## Project Deliverables
-
-This project package includes:
-
-- Interactive Executive Dashboard
-- Dashboard Preview
-- PDF Report
-- Project Documentation
-
----
-
-## Skills Demonstrated
-
-- Document Control
-- Correspondence Management
-- Executive Reporting
-- Dashboard Design
-- KPI Reporting
-- Business Intelligence
-- Operational Reporting
-- Data Visualization
-- Workflow Monitoring
-- Management Reporting
-
----
-
-> **⚠️ Portfolio Demonstration Notice**
->
-> All dashboards, reports, documents, and datasets in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized data. No official company data or confidential information is included.
-
----
-
-## Author
-
-**Sudheer Ahmed Khattak**
-
-Project Operations & Business Support Professional
-
-- 🌐 [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sudheer-ahmed-khattak)
-- 📧 [Email](mailto:khattaksudheer@gmail.com)
-
----
-
-## Project Downloads
-
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
-
-| Project File | Description | Access |
-|---|---|---|
-| 📊 Excel Dashboard | Complete interactive Document Control dashboard in `.xlsx` format | [⬇️ Download Excel Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.xlsx) |
-| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.pdf) |
-| 🖥️ Dashboard Preview | High-resolution preview of the dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png) |
-
----
-
-<p align="center">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-📊 **[DOWNLOAD EXCEL DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.xlsx)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Document_Control_Correspondence_Command_Center/Document_Control_Correspondence_Command_Center.pdf)** &nbsp; | &nbsp;
-🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png)**
-
-</p>
-
----
-
-<p align="center">
-<a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
-</a>
-</p>
+</div>

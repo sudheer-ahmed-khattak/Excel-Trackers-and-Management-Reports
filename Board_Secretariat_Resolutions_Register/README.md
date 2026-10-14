@@ -1,36 +1,82 @@
-# 🏛️ Board Secretariat & Resolutions Register
+<div align="center">
 
-![Dashboard Preview](Board_Secretariat_Resolutions_Register_Preview.png)
+<img src="header.png" width="100%" alt="Board Secretariat & Resolutions Register" />
 
-An Excel workbook that runs the **secretariat of a Joint Venture Board of Directors**: meeting calendar, papers deadlines, minutes, a numbered resolutions register, circular resolutions signed through **DocuSign**, a board action log and an attendance matrix. Everything rolls up into one live dashboard.
+<br>
 
-> ⚠️ **All data is fictional.** JV, partner companies, board members and envelope numbers are demo data.
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Board_Secretariat_Resolutions_Register/Board_Secretariat_Resolutions_Register.xlsx"><img src="https://img.shields.io/badge/DOWNLOAD_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="DOWNLOAD EXCEL" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Board_Secretariat_Resolutions_Register/Board_Secretariat_Resolutions_Register.pdf"><img src="https://img.shields.io/badge/OPEN_PDF_REPORT-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="OPEN PDF REPORT" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Board_Secretariat_Resolutions_Register/Board_Secretariat_Resolutions_Register_Preview.png"><img src="https://img.shields.io/badge/VIEW_PNG-6E40C9?style=for-the-badge&logo=files&logoColor=white" alt="VIEW PNG" /></a>
 
-## 📂 Files
-| File | Description |
+<br><br>
+
+<sub>🏛️ <b>Executive Office & Board</b> · Project 02 of 25 · <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports">⬅ Back to all projects</a></sub>
+
+</div>
+
+---
+
+## 🎯 The Challenge
+
+Board work is unforgiving: papers must go out on time, every resolution needs a clean number and full signatures, and actions agreed in the boardroom must not quietly die.
+
+## ✅ The Solution
+
+A board secretariat workbook with a live dashboard: meeting calendar with automatic papers deadlines, a numbered resolutions register, circular resolutions tracked through DocuSign, an action log with overdue alerts and an attendance matrix.
+
+<p align="center"><img src="Board_Secretariat_Resolutions_Register_Preview.png" width="100%" alt="Board Secretariat & Resolutions Register preview" /></p>
+
+## 📦 What's Inside
+
+| Sheet / Page | What it does |
 |---|---|
-| `Board_Secretariat_Resolutions_Register.xlsx` | Working Excel workbook (formulas, drop-downs, conditional formatting) |
-| `Board_Secretariat_Resolutions_Register.pdf` | One-page dashboard PDF |
-| `Board_Secretariat_Resolutions_Register_Preview.png` | Dashboard preview |
+| **Dashboard** | Next board cycle countdown, resolutions by category, actions by owner, signatures pending |
+| **Board Members** | Members, roles and partner company with linked attendance % |
+| **Meeting Calendar** | Ordinary and extraordinary meetings, quorum check, papers deadline, minutes issued and signed |
+| **Resolutions Register** | BR-2026-xxx numbering, meeting vs circular, signatures collected, DocuSign envelope |
+| **Action Log** | Board actions with owner, due date and automatic days overdue |
+| **Attendance** | Member × meeting matrix with attendance % |
 
-## 🗂️ Sheets
-| Sheet | What it does |
-|---|---|
-| **Dashboard** | KPIs, next board cycle with countdown, resolutions by category, actions by owner, circular resolutions awaiting signature |
-| **Meeting Calendar** | Ordinary and extraordinary meetings, quorum check, papers deadline (meeting – 7 days), minutes issued and signed |
-| **Resolutions Register** | BR-2026-xxx numbering, meeting vs circular, category, signatures collected, DocuSign envelope, status |
-| **Action Log** | Board actions with owner, due date, status and automatic days overdue |
-| **Attendance** | Member × meeting matrix (P / A) with attendance % |
-| **Board Members** | Members, roles, partner company and attendance linked from the matrix |
+## ⭐ Key Features
 
-## ⚙️ Excel features used
-`COUNTIFS` · `MINIFS` · `INDEX/MATCH` with a helper sequence for the live "awaiting signature" list · `TODAY()`-based overdue and countdown · data validation drop-downs · conditional formatting · native Excel charts
+- ✅ Papers deadline and quorum calculated automatically for every meeting
+- ✅ Circular resolutions stay on the dashboard until the last signature lands
+- ✅ Overdue board actions turn red without anyone checking
+- ✅ Live "next board cycle" countdown for the Chairman's office
+- ✅ MINIFS, INDEX/MATCH and helper-sequence lists – no macros needed
 
-## 🔄 How to use
-1. Add a meeting in **Meeting Calendar**. The papers deadline and quorum fill in automatically.
-2. Log each resolution in **Resolutions Register**. Circular resolutions show on the dashboard until all signatures are in.
-3. Record actions in **Action Log**. Overdue items turn red automatically.
-4. Mark attendance as **P** or **A**.
+## 🛠️ Built With
 
-## 🛠️ Skills shown
-Board secretarial practice · Corporate governance · DocuSign signature tracking · Minutes & action follow-up · Excel dashboard design
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/PDF_Report-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</p>
+
+## 💼 Skills Demonstrated
+
+<p>
+<img src="https://img.shields.io/badge/Board_Secretariat-3B7DD8?style=flat-square" /> <img src="https://img.shields.io/badge/Corporate_Governance-3B7DD8?style=flat-square" /> <img src="https://img.shields.io/badge/DocuSign_Tracking-3B7DD8?style=flat-square" /> <img src="https://img.shields.io/badge/Minutes_%26_Follow--up-3B7DD8?style=flat-square" /> <img src="https://img.shields.io/badge/Excel_Dashboards-3B7DD8?style=flat-square" />
+</p>
+
+## 📥 How to Use
+
+1. Click **DOWNLOAD EXCEL** and open the workbook
+2. Enter or update records in the register sheets – formulas and charts refresh automatically
+3. Or click **OPEN PDF REPORT** for a print-ready view of the dashboard
+
+> 🔐 **Demo data:** every name, company, figure and reference in this project is fictional and created for portfolio purposes only.
+
+---
+
+<div align="center">
+
+**Sudheer Ahmed Khattak**<br>
+<sub>Senior Executive Assistant · Board Secretariat & PMO Support · 11+ years · Saudi Arabia & Pakistan</sub>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12304A?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
+[![GitHub](https://img.shields.io/badge/All_25_Projects-Browse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports)
+
+</div>

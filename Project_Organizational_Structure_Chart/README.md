@@ -1,162 +1,79 @@
-# Project Organizational Structure Chart
+<div align="center">
 
-<p align="center">
-  <img src="Project_Organizational_Structure_Chart_Preview.png?v=5" width="100%" alt="Project Organizational Structure Chart Preview">
+<img src="header.png" width="100%" alt="Project Organizational Structure Chart" />
+
+<br>
+
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.xlsx"><img src="https://img.shields.io/badge/DOWNLOAD_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="DOWNLOAD EXCEL" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.pdf"><img src="https://img.shields.io/badge/OPEN_PDF_REPORT-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="OPEN PDF REPORT" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png"><img src="https://img.shields.io/badge/VIEW_PNG-6E40C9?style=for-the-badge&logo=files&logoColor=white" alt="VIEW PNG" /></a>
+
+<br><br>
+
+<sub>👷 <b>Workforce & Manpower</b> · Project 13 of 25 · <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports">⬅ Back to all projects</a></sub>
+
+</div>
+
+---
+
+## 🎯 The Challenge
+
+Twin TBM drives involve hundreds of people across tunnel, surface and plant teams. New staff, visitors and the client need to see who reports to whom at a glance.
+
+## ✅ The Solution
+
+An Excel organisation chart that maps project leadership, seven departments, two TBM teams with shift structure, surface support and plant teams, with headcount on every box.
+
+<p align="center"><img src="Project_Organizational_Structure_Chart_Preview.png" width="100%" alt="Project Organizational Structure Chart preview" /></p>
+
+## 📦 What's Inside
+
+| Sheet / Page | What it does |
+|---|---|
+| **Tunnel Org (3)** | Main site organisation chart for TBM assembly, excavation and disassembly |
+| **Tunnel Org (2)** | Detailed tunnel and plant team breakdown |
+| **Tunnel Org 1** | Simplified management-level structure |
+
+## ⭐ Key Features
+
+- ✅ Leadership, departments and shift teams in one view
+- ✅ Headcount shown on every role box
+- ✅ Direct and functional reporting lines
+- ✅ Print-ready A3 layout
+- ✅ Editable in Excel for any project
+
+## 🛠️ Built With
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/PDF_Report-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
-  Project Operations & Business Support Professional
+## 💼 Skills Demonstrated
+
+<p>
+<img src="https://img.shields.io/badge/Organisational_Design-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Project_Administration-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Governance_Visibility-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Excel_Design-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Workforce_Planning-2BA58F?style=flat-square" />
 </p>
 
----
+## 📥 How to Use
 
-## Executive Summary
+1. Click **DOWNLOAD EXCEL** and open the workbook
+2. Enter or update records in the register sheets – formulas and charts refresh automatically
+3. Or click **OPEN PDF REPORT** for a print-ready view of the dashboard
 
-The **Project Organizational Structure Chart** is a professionally designed project hierarchy developed to provide management with a clear visual representation of leadership roles, reporting relationships, functional departments, operational teams, and organizational governance.
-
-The chart supports management visibility by presenting complex reporting lines in a structured format, helping leadership understand team responsibilities, departmental coordination, project authority, and operational accountability.
-
----
-
-## Business Objective
-
-This organizational structure was developed to help management:
-
-- Visualize the complete project hierarchy
-- Define direct reporting relationships
-- Clarify departmental responsibilities
-- Improve organizational communication
-- Support executive planning
-- Present operational team structures
-- Strengthen governance visibility
-- Improve leadership reporting
-- Support workforce and resource planning
+> 🔐 **Demo data:** every name, company, figure and reference in this project is fictional and created for portfolio purposes only.
 
 ---
 
-## Organizational Highlights
+<div align="center">
 
-This structure includes:
+**Sudheer Ahmed Khattak**<br>
+<sub>Senior Executive Assistant · Board Secretariat & PMO Support · 11+ years · Saudi Arabia & Pakistan</sub>
 
-- Project Management Leadership
-- Tunnel Management Structure
-- Technical Department
-- Quality Control Department
-- TBM Department
-- Segment Factory
-- Geotechnical Department
-- Ventilation Tunnel Department
-- Administrative Department
-- TBM-1 Team
-- TBM-2 Team
-- Surface Support Teams
-- Plant Team
-- Functional & Direct Reporting Relationships
+<br>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12304A?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
+[![GitHub](https://img.shields.io/badge/All_25_Projects-Browse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports)
 
-## Key Components
-
-The organizational chart demonstrates:
-
-- Executive & Project Leadership
-- Departmental Reporting Structure
-- Tunnel & Surface Operations
-- Shift-Based Team Organization
-- TBM Operations
-- Technical & Plant Functions
-- Direct Reporting Lines
-- Functional Coordination
-- Operational Support Teams
-- Project Governance Structure
-
----
-
-## Tools & Technologies
-
-- Microsoft Excel
-- Organizational Chart Design
-- Executive Reporting
-- Project Administration
-- Organizational Planning
-- Business Documentation
-- Process Visualization
-- Leadership Reporting
-- Corporate Reporting Standards
-
----
-
-## Project Deliverables
-
-This repository includes:
-
-- Organizational Structure Chart (.xlsx)
-- Executive PDF Report
-- High-Resolution Preview Image
-- Project Documentation (README)
-
----
-
-## Skills Demonstrated
-
-- Organizational Design
-- Executive Reporting
-- Project Administration
-- Business Documentation
-- Leadership Support
-- Organizational Planning
-- Management Reporting
-- Process Visualization
-- Corporate Communication
-- Project Governance
-
----
-
-> **⚠️ Portfolio Demonstration Notice**
->
-> All dashboards, reports, organizational structures, names, roles, departments, datasets, and business information presented in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized information. No confidential or proprietary company data has been included.
-
----
-
-## Author
-
-**Sudheer Ahmed Khattak**
-
-Project Operations & Business Support Professional
-
-- 🌐 **Portfolio:** https://sites.google.com/view/sudheer-ahmed
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sudheer-ahmed-khattak
-- 📧 **Email:** khattaksudheer@gmail.com
-
----
-
-# Project Downloads
-
-Use the links below to access the project files.
-
-| Project File | Description | Access |
-|---|---|---|
-| 📊 Excel Structure Chart | Editable organizational structure chart | [⬇️ Download Excel Chart](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.xlsx) |
-| 📄 Executive PDF Report | PDF version of the organizational chart | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.pdf) |
-| 🖥️ Preview Image | High-resolution organizational chart preview | [👁️ View Preview](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png?v=5)
-
----
-
-<p align="center">
-
-📊 **[DOWNLOAD EXCEL CHART](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.xlsx)** &nbsp; | &nbsp;
-
-📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart.pdf)** &nbsp; | &nbsp;
-
-🖥️ **[VIEW STRUCTURE CHART](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png?v=5)**
-
-</p>
-
----
-
-<p align="center">
-<a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅️ BACK TO GITHUB PORTFOLIO</strong>
-</a>
-</p>
+</div>

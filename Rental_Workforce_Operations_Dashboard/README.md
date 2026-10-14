@@ -1,172 +1,79 @@
-# Rental Workforce Operations Dashboard
+<div align="center">
 
-<p align="center">
-  <img src="Rental_Workforce_Operations_Dashboard_Preview.png" width="100%" alt="Rental Workforce Operations Dashboard Preview">
+<img src="header.png" width="100%" alt="Rental Workforce Operations Dashboard" />
+
+<br>
+
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard_Data.xlsx"><img src="https://img.shields.io/badge/DOWNLOAD_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="DOWNLOAD EXCEL" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard.pdf"><img src="https://img.shields.io/badge/OPEN_PDF_REPORT-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="OPEN PDF REPORT" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard.pbix"><img src="https://img.shields.io/badge/DOWNLOAD_POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DOWNLOAD POWER BI" /></a>
+
+<br><br>
+
+<sub>👷 <b>Workforce & Manpower</b> · Project 08 of 25 · <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports">⬅ Back to all projects</a></sub>
+
+</div>
+
+---
+
+## 🎯 The Challenge
+
+Rental and direct-hire manpower changes daily. Without one view, transfers go unrecorded, released staff stay on lists and headcount by manager is a guess.
+
+## ✅ The Solution
+
+A Power BI dashboard backed by an Excel workforce master that tracks active, released and transferred staff by category, department, location, company and reporting manager.
+
+<p align="center"><img src="Rental_Workforce_Operations_Dashboard_Preview.png" width="100%" alt="Rental Workforce Operations Dashboard preview" /></p>
+
+## 📦 What's Inside
+
+| Component | What it does |
+|---|---|
+| **Power BI report** | Active / released / transferred KPIs, category split, department headcount, location and manager views |
+| **Excel data** | Master employee data, time sheets, transfers, releases and manpower master |
+| **PDF report** | Print-ready version of the dashboard |
+
+## ⭐ Key Features
+
+- ✅ Active, released and transferred workforce KPIs
+- ✅ Headcount by department, location and reporting manager
+- ✅ Released workforce by company for invoice checks
+- ✅ Transfer tracking with category detail
+- ✅ Clean model ready for monthly refresh
+
+## 🛠️ Built With
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/PDF_Report-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
-  Project Operations & Business Support Professional
+## 💼 Skills Demonstrated
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Workforce_Analytics-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Manpower_Control-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Data_Modelling-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Executive_Reporting-2BA58F?style=flat-square" />
 </p>
 
----
+## 📥 How to Use
 
-## Executive Summary
+1. Click **DOWNLOAD POWER BI** and open the `.pbix` file in Power BI Desktop (free)
+2. Click **DOWNLOAD EXCEL** for the source data behind the dashboard
+3. Or click **OPEN PDF REPORT** to read the dashboard without installing anything
 
-The **Rental Workforce Operations Dashboard** is an executive Power BI reporting solution developed to provide management with clear visibility into active workforce, employee releases, internal transfers, department-level headcount, workforce locations, employment categories, reporting lines, and company-wise manpower distribution.
-
-The dashboard consolidates workforce information into a single executive view, enabling management to monitor workforce movement, identify operational concentration, review transfer activity, assess released manpower, and support workforce planning decisions.
-
----
-
-## Business Objective
-
-This dashboard was developed to help management:
-
-- Monitor active rental workforce
-- Track released employees
-- Review workforce transfers
-- Analyze employment categories
-- Monitor department-level headcount
-- Review workforce distribution by location
-- Assess released workforce by company
-- Monitor reporting-manager workforce allocation
-- Improve manpower visibility
-- Support executive workforce planning
-- Strengthen operational decision-making
+> 🔐 **Demo data:** every name, company, figure and reference in this project is fictional and created for portfolio purposes only.
 
 ---
 
-## Dashboard Highlights
+<div align="center">
 
-This dashboard includes:
+**Sudheer Ahmed Khattak**<br>
+<sub>Senior Executive Assistant · Board Secretariat & PMO Support · 11+ years · Saudi Arabia & Pakistan</sub>
 
-- Executive Workforce Overview
-- Active Workforce Monitoring
-- Released Workforce Tracking
-- Transferred Workforce Tracking
-- Employment Category Summary
-- Department Headcount Analysis
-- Workforce Distribution by Location
-- Workforce Transfer Details
-- Released Workforce by Company
-- Workforce by Reporting Manager
-- Executive KPI Cards
-- Management-Level Workforce Reporting
+<br>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12304A?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
+[![GitHub](https://img.shields.io/badge/All_25_Projects-Browse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports)
 
-## Key Performance Indicators (KPIs)
-
-The dashboard reports:
-
-- Active Workforce
-- Released Workforce
-- Transferred Workforce
-- Direct Hire Workforce
-- Equipment Rental Workforce
-- MTBC Workforce
-- Department Headcount
-- Workforce by Location
-- Workforce by Reporting Manager
-- Employees Transferred by Category
-- Released Workforce by Company
-- Total Workforce Distribution
-
----
-
-## Tools & Technologies
-
-- Microsoft Power BI
-- Microsoft Excel
-- Power Query
-- Data Modeling
-- DAX
-- Executive Dashboard Design
-- Workforce Analytics
-- KPI Reporting
-- Business Intelligence
-- Data Visualization
-- Executive Reporting
-
----
-
-## Project Deliverables
-
-This project package includes:
-
-- Interactive Power BI Dashboard
-- Excel Source Dataset
-- Executive PDF Report
-- Dashboard Preview
-- Project Documentation
-
----
-
-## Skills Demonstrated
-
-- Workforce Analytics
-- Manpower Reporting
-- Executive Reporting
-- Power BI Dashboard Development
-- Data Modeling
-- Power Query
-- DAX
-- KPI Reporting
-- Department-Level Analysis
-- Transfer Monitoring
-- Release Tracking
-- Data Visualization
-- Business Intelligence
-- Management Reporting
-
----
-
-> **⚠️ Portfolio Demonstration Notice**
->
-> All dashboards, reports, documents, and datasets in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized data. No official company data or confidential information is included.
-
----
-
-## Author
-
-**Sudheer Ahmed Khattak**
-
-Project Operations & Business Support Professional
-
-- 🌐 [Professional Portfolio](https://sites.google.com/view/sudheer-ahmed)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sudheer-ahmed-khattak)
-- 📧 [Email](mailto:khattaksudheer@gmail.com)
-
----
-
-## Project Downloads
-
-Use the direct-download links below. Files that cannot be previewed by GitHub will automatically download directly to your device.
-
-| Project File | Description | Access |
-|---|---|---|
-| 📊 Power BI Dashboard | Complete interactive workforce dashboard in `.pbix` format | [⬇️ Download Power BI Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard.pbix) |
-| 📈 Excel Source Data | Anonymized workforce source dataset in `.xlsx` format | [⬇️ Download Excel Source Data](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard_Data.xlsx) |
-| 📄 Executive PDF Report | PDF version of the dashboard for quick review | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard.pdf) |
-| 🖥️ Dashboard Preview | High-resolution preview of the dashboard | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard_Preview.png) |
-
----
-
-<p align="center">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-📊 **[DOWNLOAD POWER BI DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard.pbix)** &nbsp; | &nbsp;
-📈 **[DOWNLOAD EXCEL SOURCE DATA](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard_Data.xlsx)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard.pdf)** &nbsp; | &nbsp;
-🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard_Preview.png)**
-
-</p>
-
----
-
-<p align="center">
-<a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
-</a>
-</p>
+</div>

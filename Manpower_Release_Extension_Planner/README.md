@@ -1,36 +1,79 @@
-# 👷 Manpower Release & Extension Planner
+<div align="center">
 
-<p align="center"><img src="Manpower_Release_Extension_Planner_Preview.png" width="100%"></p>
+<img src="header.png" width="100%" alt="Manpower Release & Extension Planner" />
 
-An Excel workbook that keeps a project's site manpower list in one place – who is still on site, who has been released, and who is due to leave each month – with a **one-click search and update** so planners never edit dates sheet by sheet.
+<br>
 
-## 🎯 Business Problem
-On large construction projects, release and extension dates change every week. When the same person appears in several lists, dates drift out of sync and management loses a clear picture of active manpower.
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Manpower_Release_Extension_Planner/Manpower_Release_Extension_Planner.xlsm"><img src="https://img.shields.io/badge/DOWNLOAD_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="DOWNLOAD EXCEL" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Manpower_Release_Extension_Planner/Manpower_Release_Extension_Planner.pdf"><img src="https://img.shields.io/badge/OPEN_PDF_REPORT-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="OPEN PDF REPORT" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Manpower_Release_Extension_Planner/Manpower_Release_Extension_Planner_Preview.png"><img src="https://img.shields.io/badge/VIEW_PNG-6E40C9?style=for-the-badge&logo=files&logoColor=white" alt="VIEW PNG" /></a>
 
-## ✅ Solution
-| Sheet | What it does |
+<br><br>
+
+<sub>👷 <b>Workforce & Manpower</b> · Project 12 of 25 · <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports">⬅ Back to all projects</a></sub>
+
+</div>
+
+---
+
+## 🎯 The Challenge
+
+On large projects release and extension dates change every week. When the same person sits in several lists, dates drift out of sync and active manpower becomes unclear.
+
+## ✅ The Solution
+
+A macro-enabled Excel planner with a master list, instant search and a one-click UPDATE button that writes changes back, logs them and refreshes the dashboard.
+
+<p align="center"><img src="Manpower_Release_Extension_Planner_Preview.png" width="100%" alt="Manpower Release & Extension Planner preview" /></p>
+
+## 📦 What's Inside
+
+| Sheet / Page | What it does |
 |---|---|
-| **Dashboard** | KPI cards (total, active, released, releasing this month), monthly release plan with chart, breakdown by department and sponsorship |
-| **Search** | Type a name, ID, department, sponsorship or status – matching employees appear instantly. Enter a **New Status** / **New Release Date** and press **UPDATE** |
-| **Master Data** | 150 employees with nationality, department, designation, category, sponsorship, join date, status, release date and an automatic update log |
+| **Dashboard** | Active vs released, monthly release plan chart and sponsorship view |
+| **Search** | Formula-driven search with New Status / New Release Date inputs and UPDATE button |
+| **Master Data** | Single source of truth for every employee |
 
-## ⚙️ Key Features
-- **UPDATE button (VBA macro)** writes changes from the Search sheet into Master Data, logs every change with the date, clears the inputs and refreshes all figures
-- Formula-driven search (no filters to reset) and dropdown validation for status and dates
-- Colour-coded status (Active / Released) and a stacked monthly release chart
-- Every figure on the dashboard updates automatically from Master Data
+## ⭐ Key Features
 
-## 🛠️ Tools
-Microsoft Excel • VBA • COUNTIFS / INDEX / SMALL formulas • Data Validation • Conditional Formatting • Excel Charts
+- ✅ One-click UPDATE macro with change log
+- ✅ Instant search – no filters to reset
+- ✅ Colour-coded Active / Released status
+- ✅ Stacked monthly release chart
+- ✅ Macro source included as UpdateRecords.bas
+
+## 🛠️ Built With
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/VBA_Macros-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/PDF_Report-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</p>
+
+## 💼 Skills Demonstrated
+
+<p>
+<img src="https://img.shields.io/badge/Excel_VBA-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Workflow_Automation-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Manpower_Planning-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Data_Validation-2BA58F?style=flat-square" /> <img src="https://img.shields.io/badge/Excel_Dashboards-2BA58F?style=flat-square" />
+</p>
 
 ## 📥 How to Use
-1. Download **Manpower_Release_Extension_Planner.xlsm**
-2. Right-click the file → **Properties** → tick **Unblock** → OK (Windows blocks macros in downloaded files)
-3. Open the file and click **Enable Content**
-4. Go to **Search**, type a name or ID, fill in New Status / New Release Date and press **UPDATE**
 
-The macro source code is included as `UpdateRecords.bas`.
+1. Download the .xlsm file
+2. Right-click → Properties → tick **Unblock** → OK (Windows blocks macros in downloaded files)
+3. Open the file, click **Enable Content**, then use **Search** and press **UPDATE**
 
-📄 A one-page PDF of the dashboard is included: **Manpower_Release_Extension_Planner.pdf**
+> 🔐 **Demo data:** every name, company, figure and reference in this project is fictional and created for portfolio purposes only.
 
-> 🛡️ All names, employee IDs, companies, sponsorships and the client are fictional demo data.
+---
+
+<div align="center">
+
+**Sudheer Ahmed Khattak**<br>
+<sub>Senior Executive Assistant · Board Secretariat & PMO Support · 11+ years · Saudi Arabia & Pakistan</sub>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12304A?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
+[![GitHub](https://img.shields.io/badge/All_25_Projects-Browse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports)
+
+</div>

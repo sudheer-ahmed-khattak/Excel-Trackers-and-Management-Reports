@@ -1,157 +1,79 @@
-# Executive Water Consumption Analytics Dashboard
+<div align="center">
 
-<p align="center">
-  <img src="Executive_Water_Consumption_Analytics_Dashboard_Preview.png" width="100%" alt="Executive Water Consumption Analytics Dashboard Preview">
+<img src="header.png" width="100%" alt="Executive Water Consumption Analytics" />
+
+<br>
+
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard.xlsx"><img src="https://img.shields.io/badge/DOWNLOAD_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="DOWNLOAD EXCEL" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/blob/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard_Report.pdf"><img src="https://img.shields.io/badge/OPEN_PDF_REPORT-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="OPEN PDF REPORT" /></a>
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard.pbix"><img src="https://img.shields.io/badge/DOWNLOAD_POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DOWNLOAD POWER BI" /></a>
+
+<br><br>
+
+<sub>🚚 <b>Procurement, Logistics & Facilities</b> · Project 17 of 25 · <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports">⬅ Back to all projects</a></sub>
+
+</div>
+
+---
+
+## 🎯 The Challenge
+
+Water deliveries were recorded on paper delivery notes. Management could not see consumption by location, trips per truck or what each contractor was costing.
+
+## ✅ The Solution
+
+A Power BI dashboard on a delivery-note dataset that reports litres received, trip count, cost, active vehicles and contractor / supplier performance by location and project.
+
+<p align="center"><img src="Executive_Water_Consumption_Analytics_Dashboard_Preview.png" width="100%" alt="Executive Water Consumption Analytics preview" /></p>
+
+## 📦 What's Inside
+
+| Component | What it does |
+|---|---|
+| **Power BI report** | KPI cards, consumption by location, trips by project, contractor and supplier cost, top vehicles |
+| **Excel data** | Delivery-note master data |
+| **PDF report** | Print-ready dashboard |
+
+## ⭐ Key Features
+
+- ✅ Total litres, cost, trips and active vehicles
+- ✅ Consumption by location and purpose
+- ✅ Contractor and supplier cost comparison
+- ✅ Top vehicles by delivery trips
+- ✅ Built from delivery notes – ready for invoice reconciliation
+
+## 🛠️ Built With
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/PDF_Report-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>Developed by: Sudheer Ahmed Khattak</strong><br>
-  Project Operations & Business Support Professional
+## 💼 Skills Demonstrated
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-E07B1F?style=flat-square" /> <img src="https://img.shields.io/badge/Utilities_Analytics-E07B1F?style=flat-square" /> <img src="https://img.shields.io/badge/Cost_Control-E07B1F?style=flat-square" /> <img src="https://img.shields.io/badge/Fleet_Utilisation-E07B1F?style=flat-square" /> <img src="https://img.shields.io/badge/Invoice_Reconciliation-E07B1F?style=flat-square" />
 </p>
 
----
+## 📥 How to Use
 
-## Executive Summary
+1. Click **DOWNLOAD POWER BI** and open the `.pbix` file in Power BI Desktop (free)
+2. Click **DOWNLOAD EXCEL** for the source data behind the dashboard
+3. Or click **OPEN PDF REPORT** to read the dashboard without installing anything
 
-The **Executive Water Consumption Analytics Dashboard** is an interactive Power BI reporting solution developed to provide executive visibility into water consumption, delivery operations, transportation costs, contractor performance, supplier analysis, fleet utilization, and project-wise operational KPIs.
-
-The dashboard consolidates operational data into a centralized management view, enabling leadership teams to monitor resource utilization, optimize transportation efficiency, evaluate contractor performance, improve cost control, and support data-driven operational decision-making.
-
----
-
-## Business Objective
-
-This dashboard was developed to help management:
-
-- Monitor water consumption
-- Track delivery operations
-- Analyze transportation costs
-- Evaluate contractor performance
-- Monitor supplier performance
-- Review project-wise trip distribution
-- Optimize fleet utilization
-- Improve operational visibility
-- Support executive decision-making
+> 🔐 **Demo data:** every name, company, figure and reference in this project is fictional and created for portfolio purposes only.
 
 ---
 
-## Dashboard Highlights
+<div align="center">
 
-This dashboard includes:
+**Sudheer Ahmed Khattak**<br>
+<sub>Senior Executive Assistant · Board Secretariat & PMO Support · 11+ years · Saudi Arabia & Pakistan</sub>
 
-- Executive KPI Overview
-- Water Consumption Analysis
-- Location Performance Analysis
-- Project Distribution Analysis
-- Contractor Cost Analysis
-- Supplier Cost Summary
-- Fleet Utilization Analysis
-- Top Vehicle Performance
-- Interactive Power BI Dashboard
-- Executive KPI Cards
+<br>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12304A?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
+[![GitHub](https://img.shields.io/badge/All_25_Projects-Browse-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports)
 
-## Key Performance Indicators (KPIs)
-
-The dashboard reports:
-
-- Total Water Received (Liters)
-- Total Water Cost (SAR)
-- Total Water Delivery Trips
-- Active Vehicles Utilized
-- Water Consumption by Location
-- Trip Distribution by Project
-- Contractor Cost Analysis
-- Supplier Cost Summary
-- Location Performance Summary
-- Top Vehicles by Delivery Trips
-
----
-
-## Tools & Technologies
-
-- Microsoft Power BI
-- Microsoft Excel
-- Power Query
-- DAX
-- Data Modeling
-- Business Intelligence
-- Executive Dashboard Design
-- KPI Reporting
-- Operational Analytics
-- Data Visualization
-
----
-
-## Project Deliverables
-
-This project package includes:
-
-- Interactive Power BI Dashboard (.pbix)
-- Source Data Workbook (.xlsx)
-- Dashboard Preview (.png)
-- Executive PDF Report
-
----
-
-## Skills Demonstrated
-
-- Power BI Dashboard Development
-- Business Intelligence
-- Executive Reporting
-- KPI Reporting
-- Operational Analytics
-- Fleet Analytics
-- Cost Analysis
-- Data Visualization
-- Performance Reporting
-- Management Reporting
-
----
-
-> **⚠️ Portfolio Demonstration Notice**
->
-> All dashboards, reports, documents, and datasets in this repository are created solely for portfolio demonstration purposes using independently developed sample or anonymized data. No official company data or confidential information is included.
-
----
-
-## Author
-
-**Sudheer Ahmed Khattak**
-
-Project Operations & Business Support Professional
-
-- 🌐 Professional Portfolio: https://sites.google.com/view/sudheer-ahmed
-- 💼 LinkedIn: https://www.linkedin.com/in/sudheer-ahmed-khattak
-- 📧 Email: khattaksudheer@gmail.com
-
----
-
-## Project Downloads
-
-| Project File | Description | Access |
-|---|---|---|
-| 📊 Power BI Dashboard | Interactive Power BI dashboard (.pbix) | [⬇️ Download Power BI Dashboard](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard.pbix) |
-| 📗 Excel Data Workbook | Source data and supporting calculations (.xlsx) | [⬇️ Download Excel Workbook](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard.xlsx) |
-| 📄 Executive PDF Report | PDF version of the dashboard | [⬇️ Download PDF Report](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard_Report.pdf) |
-| 🖥️ Dashboard Preview | High-resolution dashboard preview | [👁️ View Dashboard](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard_Preview.png) |
-
----
-
-<p align="center">
-
-📊 **[DOWNLOAD POWER BI DASHBOARD](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard.pbix)** &nbsp; | &nbsp;
-📗 **[DOWNLOAD EXCEL WORKBOOK](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard.xlsx)** &nbsp; | &nbsp;
-📄 **[DOWNLOAD PDF REPORT](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/raw/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard_Report.pdf)** &nbsp; | &nbsp;
-🖥️ **[VIEW DASHBOARD](https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard_Preview.png)**
-
-</p>
-
----
-
-<p align="center">
-<a href="https://github.com/sudheer-ahmed-khattak">
-<strong>⬅ BACK TO GITHUB PORTFOLIO</strong>
-</a>
-</p>
+</div>
